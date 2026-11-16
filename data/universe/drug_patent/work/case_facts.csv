@@ -1,0 +1,69 @@
+key,case_name,drug,brand_tickers,challenger_tickers,decision_date,outcome,confidence,status,notes
+ded:19-434,Pharmacyclics LLC v. Alvogen Pine Brook LLC,Imbruvica,ABBV;JNJ,,2021-08-19,win,high,ok,Pharmacyclics is AbbVie's unit; Janssen (J&J) co-plaintiff. Fresenius Kabi docket 18-192 settled.
+wvnd:18-193,AstraZeneca AB v. Mylan Pharmaceuticals Inc.,Symbicort,AZN,VTRS,2021-03-02,win,high,ok,Mylan is part of Viatris (VTRS) from 2020-11-16.
+ded:18-390,Vifor Fresenius Medical Care Renal Pharma v. Lupin/Teva,Velphoro,,TEVA,2022-08-18,win,high,ok,Vifor not US-listed.
+ded:18-88,H. Lundbeck A/S v. Apotex Inc. et al.,Trintellix,TAK,,2021-10-05,win,medium,ok,Takeda co-plaintiff (check caption); challengers private or non-US.
+ded:18-1962,Silvergate Pharmaceuticals v. Bionpharma Inc.,Epaned,,,2021-08-02,loss,high,ok,Neither side US-listed. Amneal (19-678) settled before the opinion.
+ded:19-678,Silvergate Pharmaceuticals v. Amneal Pharmaceuticals LLC,Epaned,,AMRX,,settled,medium,ok,"Settled after the Feb 2021 trial, before the opinion; decision_date = FJC termination date."
+ded:18-1395,BioDelivery Sciences International v. Alvogen PB Research,Belbuca,BDSI,,2021-12-20,split,high,ok,"Some claims valid and infringed, others invalid."
+ded:18-664,AstraZeneca AB v. Zydus Pharmaceuticals (USA),Brilinta,AZN,,2021-10-15,win,high,ok,
+njd:18-2213,Sun Pharma Global FZE v. Lupin Ltd.,,,,2021-09-30,loss,medium,ok,Opinion later marked vacated on the docket; neither side US-listed.
+ded:18-823,Par Pharmaceutical v. Eagle Pharmaceuticals,Vasostrict,ENDP,EGRX,2021-08-31,loss,high,ok,Eagle's ANDA found not to infringe.
+ded:18-2032,Par Pharmaceutical v. Amphastar Pharmaceuticals,Vasostrict,ENDP,AMPH,,dismissed,low,ok,FJC lists trial dates on this docket; voluntarily dismissed; decision_date = FJC termination date.
+ded:19-78,"Genentech, Inc. v. Sandoz Inc. / Laurus Labs",Esbriet,,NVS,2022-03-22,loss,high,ok,Genentech's parent Roche trades only OTC in the US; Sandoz was a Novartis unit until 2023-10-04.
+njd:18-734,Janssen Pharmaceuticals v. Teva Pharmaceuticals USA,Invega Sustenna,JNJ,TEVA,2021-10-08,win,high,ok,"Opinion dated 2021-10-08, public copy filed 2021-11-16."
+ded:20-431,Ferring Pharmaceuticals v. Fresenius Kabi USA,,,,2022-12-12,split,medium,ok,Neither side US-listed.
+ded:18-1675,"Astellas US LLC v. Hospira, Inc.",Lexiscan,,PFE,2022-05-19,loss,high,ok,Hospira is a Pfizer unit; Astellas trades only OTC in the US.
+ded:20-365,Exela Pharma Sciences v. Eton Pharmaceuticals,Elcys,,ETON,2022-08-08,win,high,ok,Exela private.
+ded:20-430,Salix Pharmaceuticals v. Norwich Pharmaceuticals,Xifaxan,BHC,,2022-08-10,split,high,ok,HE claims upheld; IBS-D and polymorph claims invalid. Salix is Bausch Health's unit.
+ded:20-755,United Therapeutics Corp. v. Liquidia Technologies,Tyvaso,UTHR,LQDA,2022-08-31,split,high,ok,'066 patent invalid; '793 patent infringed and not invalid.
+ded:18-651,Vanda Pharmaceuticals v. Teva Pharmaceuticals USA,Hetlioz,VNDA,TEVA,2022-12-13,loss,high,ok,
+wvnd:19-101,Merck Sharp & Dohme v. Mylan Pharmaceuticals,Januvia/Janumet,MRK,VTRS,2022-10-26,win,high,ok,
+njd:19-13955,Vifor (International) v. Mylan Laboratories,,,VTRS,,settled,medium,ok,"Settled after trial, before a decision; decision_date = FJC termination date."
+ded:19-2017,"Exelixis, Inc. v. MSN Laboratories",Cabometyx,EXEL,,2023-01-19,split,high,ok,Key '473 compound patent upheld (good for Exelixis); '776 not infringed.
+njd:20-5212,Tris Pharma v. Teva Pharmaceuticals USA,,,TEVA,2022-09-06,loss,medium,ok,Claim elements found obvious; Tris private.
+ded:18-304,Bial-Portela v. Alkem Laboratories,Aptiom,,,2022-09-15,split,high,ok,Sunovion (21-186) co-plaintiff; none US-listed.
+ded:19-2100,Silvergate Pharmaceuticals v. Alkem Laboratories,,,,2023-02-10,loss,high,ok,Infringed but invalid.
+ded:20-1362,Purdue Pharma v. Accord Healthcare,OxyContin,,,2023-04-11,loss,high,ok,
+ded:20-1094,Azurity Pharmaceuticals v. Alkem Laboratories,,,,2023-05-04,loss,high,ok,Not infringed.
+njd:20-5426,Bausch Health Ireland v. Padagis (Perrigo Israel),Duobrii,BHC,,2022-12-01,win,medium,ok,Padagis was private by then (spun out of Perrigo 2021).
+njd:20-8966,Takeda Pharmaceutical v. Norwich Pharmaceuticals,Vyvanse,TAK,,2022-12-27,win,high,ok,
+ded:19-1727,Allergan USA v. MSN Laboratories / Sun,Viberzi,ABBV,,2023-09-27,loss,high,ok,Allergan is AbbVie's unit; all asserted claims invalid.
+ded:20-987,"UCB, Inc. v. Annora Pharma",,,,2023-08-16,win,high,ok,
+njd:20-10172,Teva Branded Pharmaceutical v. Cipla,Qvar,TEVA,,2023-06-21,win,high,ok,Teva is the brand here.
+ded:20-804,Sanofi-Aventis U.S. v. Actavis,Jevtana,SNY,TEVA,2023-06-26,win,high,ok,Actavis is a Teva unit.
+ded:21-549,CMP Development v. Amneal Pharmaceuticals,,,AMRX,2023-09-29,loss,high,ok,Not infringed.
+njd:20-2576,Merck Sharp & Dohme v. Aurobindo et al.,Bridion,MRK,,2023-06-13,win,high,ok,Patent-term extension upheld.
+ded:20-1589,Astellas Pharma v. Sandoz et al.,Myrbetriq,,NVS,2023-06-09,loss,high,ok,Claims invalid under section 101; reversed on appeal; post-remand findings 2025-04-15 (Sandoz no longer NVS).
+wvnd:19-201,Novartis Pharmaceuticals v. Mylan,Entresto,NVS,VTRS,2023-07-06,win,high,ok,
+njd:20-13103,Janssen Pharmaceuticals v. Mylan Laboratories,Invega Trinza,JNJ,VTRS,2023-05-23,win,high,ok,Affirmed by Federal Circuit 2025-03-28.
+ded:19-2309,Taiho Pharmaceutical v. Accord / Eugia / Natco,Lonsurf,,,2023-08-15,win,high,ok,
+wvnd:22-61,Regeneron Pharmaceuticals v. Mylan,Eylea,REGN,VTRS,2023-12-27,win,medium,ok,BPCIA. Sealed opinion 2023-12-27 per press; public version 2024-01-31; check date.
+njd:18-3632,Corcept Therapeutics v. Teva Pharmaceuticals USA,Korlym,CORT,TEVA,2023-12-29,loss,high,ok,
+ded:21-1229,"UCB, Inc. v. Cipla Ltd.",,,,2026-05-21,win,high,ok,Sealed then public.
+ded:22-228,"Exelixis, Inc. v. MSN Laboratories",Cabometyx,EXEL,,2024-10-15,win,high,ok,Malate salt patents upheld.
+ded:21-1784,Janssen Pharmaceuticals v. Tolmar,Invega Sustenna,JNJ,,2024-02-26,win,medium,ok,"Sealed findings 2024-02-26, public 2024-02-28."
+ded:21-900,Otsuka Pharmaceutical v. Lupin,,,,2024-07-31,split,high,ok,
+ded:21-870,Novartis Pharmaceuticals v. Fresenius Kabi,,NVS,,,settled,medium,ok,Settled after trial; decision_date = FJC termination date.
+ded:22-434,Exeltis USA v. Lupin,Slynd,,,2024-09-04,win,high,ok,
+ded:21-691,Jazz Pharmaceuticals v. Avadel,Xywav/Lumryz,JAZZ,AVDL,2024-03-04,split,medium,ok,"Jury verdict (date known in advance), read in court on 2024-03-04 and docketed the next morning (sealed 09:29, redacted public version 09:31 ET on 2024-03-05). Avadel's 8-K of 2024-03-04 (accession 0001104659-24-030458) says the jury ruled for Avadel on one patent and against it on the other, so split. 505(b)(2) product."
+ded:19-2342,Taiho Pharmaceutical v. MSN Laboratories,Lonsurf,,,2025-01-23,loss,high,ok,Not infringed.
+njd:21-19829,Pacira Pharmaceuticals v. eVenus Pharmaceuticals,Exparel,PCRX,,2024-08-09,loss,high,ok,Claim 7 of '495 invalid.
+ded:22-985,Heron Therapeutics v. Fresenius Kabi,Cinvanti,HRTX,,2024-12-03,win,high,ok,
+ded:21-1714,HQ Specialty Pharma v. Fresenius Kabi,,,,2025-03-31,win,medium,ok,Inequitable conduct rejected after jury trial.
+ded:22-1442,Pierre Fabre Medicament v. Annora,,,,,settled,medium,ok,Consent judgment after trial.
+ded:22-1395,Novartis Pharmaceuticals v. MSN Laboratories (Entresto MDL 20-md-2930),Entresto,NVS,,,loss,high,ok,"Trial decision, not a settlement: docket entry 523 (2025-07-11 10:01 ET, CourtListener RECAP) is the TRIAL OPINION 'I find that Novartis did not prove that MSN's ANDA infringes', with final judgment at 10:07 (entry 524). Filed in 22-cv-1395 and MDL 20-md-2930 (Entresto). Earlier FJC-only classification as a consent judgment was wrong."
+njd:23-790,Bausch & Lomb v. Lupin,,BLCO,,,dismissed,medium,ok,Voluntarily dismissed after trial.
+ded:22-1461,Amicus Therapeutics v. Teva / Lupin / Aurobindo,Galafold,FOLD,TEVA,,settled,medium,ok,Consent judgments after trial; decision_date = FJC termination.
+njd:21-10057,Bausch Health Ireland v. MSN Laboratories,,BHC,,,settled,medium,ok,Settled after trial.
+ded:23-879,Pfizer Inc. v. Dexcel / Zenara,Vyndaqel/Vyndamax (tafamidis),PFE,,,settled,medium,ok,"Settled during trial: bench trial held 2026-04-27 and 2026-04-28; Pfizer/FoldRx stipulated dismissal with Hikma (entry 334, 2026-04-28 08:23 ET) and Cipla (entry 333, 2026-04-27), per CourtListener RECAP docket entries."
+njd:20-12588,Orexo AB v. Sun Pharmaceutical Industries,Zubsolv,,,2023-07-12,win,medium,ok,Sun failed to prove obviousness; Orexo trades only OTC/Stockholm.
+ded:22-913,Purdue Pharma v. Accord Healthcare,OxyContin,,,2024-09-09,loss,high,ok,'908 patent obvious.
+njd:21-6964,Supernus Pharmaceuticals v. Ajanta / Torrent,Trokendi XR,SUPN,,2024-01-30,win,low,check,Opinion under temporary seal; enablement/written description defenses rejected; drug and full result to confirm.
+njd:19-16484,"Janssen Pharmaceuticals v. Mylan Laboratories (decision on remand, with Teva)",Invega Sustenna,JNJ,TEVA;VTRS,2024-12-17,win,medium,ok,"Decision on remand after the Federal Circuit (22-1258) vacated the 2021 nonobviousness ruling; the court again found the claims not obvious on the Oct 13-30, 2020 bench-trial record. Same opinion filed in 18-734 (Teva) and 19-16484 (Mylan). Related dockets: 18-734. Price move unrelated: TEVA;JNJ (Teva rose on its own drug-trial news that day; Invega Sustenna is about 3% of J&J's sales). Docket: the opinion was signed on 2024-11-21 under seal, and the unsealed public version was posted 2024-12-17 15:28 ET. J&J's 10-K for 2024 (filed 2025-02-13) says the district court 'issued its decision on remand' in November 2024, and GovInfo lists the opinion as issued 2024-12-17; whether the result itself was public on 2024-11-21 is unconfirmed, so this row is not counted as a market-hours ruling."
+ded:20-202,AstraZeneca AB v. Alembic Pharmaceuticals (Tagrisso),Tagrisso,AZN,,,settled,medium,ok,"Ended before trial: AstraZeneca's 20-F (filed 2022-02-22) says ""The trial with the remaining defendant, Alembic Pharmaceuticals Limited, is scheduled for May 2022""; the FJC file shows the case terminated 2022-04-25 (disposition 5, settled), 6 to 36 days before that trial month. decision_date = FJC termination date. Source: https://www.sec.gov/Archives/edgar/data/901832/000110465922025720/azn-20211231x20f.htm"
+ded:19-313,Merck Sharp & Dohme v. Apotex,,MRK,,,settled,medium,ok,"Ended before trial (settle-before-trial docket check): a 2021-09-22 docket remark says 'The Bench Trial scheduled to start 10/4/2021, will now be held in Courtroom 4B'; the FJC file shows the case terminated 2021-09-29 (consent judgment), 5 days before trial. decision_date = FJC termination date. Drug not identified from the docket text. Source: CourtListener RECAP https://www.courtlistener.com/docket/14585484/"
+ded:19-314,Merck Sharp & Dohme v. Zydus Pharmaceuticals,,MRK,,,settled,medium,ok,"Ended before trial (settle-before-trial docket check): the 2021-09-22 docket remark says 'The Bench Trial scheduled to start 10/4/2021, will now be held in Courtroom 4B' (tried together with 19-313); the FJC file shows the case terminated 2021-09-28 (settled), 6 days before trial. decision_date = FJC termination date. Drug not identified from the docket text. Source: CourtListener RECAP https://www.courtlistener.com/docket/14639115/"
+ded:22-513,Otsuka Pharmaceutical v. Teva Pharmaceuticals,,,TEVA,,settled,medium,ok,"Ended before trial (settle-before-trial docket check): the 2022-08-18 scheduling-conference minute entry says 'A Trial set to begin on 10/15/2024. A Pretrial Conference is set for 10/4/2024'; a full-docket search found no later reset; the FJC file shows the case terminated 2024-09-23 (settled), 22 days before trial. Otsuka is not US-listed. decision_date = FJC termination date. Source: CourtListener RECAP https://www.courtlistener.com/docket/63257817/"
+ded:22-1040,Novo Nordisk v. Mylan Pharmaceuticals (MDL 22-md-3038),,NVO,VTRS,,settled,medium,ok,"Ended before trial (settle-before-trial docket check): a 2024-03-13 oral order proposed moving trial from September 30 to Monday, December 9, 2024, and the 2024-05-14 order reset the final pretrial conference to 10/29/2024 (proposed pretrial order due 10/8/2024), so trial was set after that, most likely 2024-12-09 (inferred; no single entry states the final trial date); the FJC file shows the case terminated 2024-10-02 (settled), about 68 days before 2024-12-09 and 27 days before the pretrial conference. decision_date = FJC termination date. Source: CourtListener RECAP https://www.courtlistener.com/docket/64875514/"
+njd:20-12470,Alkermes v. Teva Pharmaceuticals (Vivitrol),Vivitrol,ALKS,TEVA,,settled,high,ok,"Settled after trial, before a decision (found in the settle-before-trial docket check): docket minute entries show a bench trial held 2/17/2023 to 2/23/2023 before Judge Arleo; Alkermes' 8-K of 2023-08-30 (exhibit 99.1) announces the settlement, licensing Teva to sell generic Vivitrol from 2027-01-15. decision_date = FJC termination date. Sources: CourtListener RECAP https://www.courtlistener.com/docket/18423985/; https://www.sec.gov/Archives/edgar/data/1520262/000095017023045176/alks-ex99_1.htm"

@@ -1,0 +1,13 @@
+sample,features,model,test_years,n_test,mae,mae_predict_training_median,spearman,big_move_base_rate,big_move_rate_in_top_decile,share_of_big_moves_in_top_decile
+all,at_filing,category_median,"2023,2024,2025,2026",1380,0.0179,0.0179,0.134,0.033,0.101,0.311
+all,at_filing,ridge,"2023,2024,2025,2026",1380,0.0205,0.0179,0.094,0.033,0.101,0.311
+all,at_filing,boosted_trees,"2023,2024,2025,2026",1380,0.0185,0.0179,0.112,0.033,0.116,0.356
+all,before_decision,category_median,"2023,2024,2025,2026",1380,0.0179,0.0179,0.134,0.033,0.101,0.311
+all,before_decision,ridge,"2023,2024,2025,2026",1380,0.0209,0.0179,0.161,0.033,0.138,0.422
+all,before_decision,boosted_trees,"2023,2024,2025,2026",1380,0.0179,0.0179,0.095,0.033,0.094,0.289
+excluding_ptab,at_filing,category_median,"2023,2024,2025,2026",391,0.0274,0.0271,0.072,0.066,0.128,0.192
+excluding_ptab,at_filing,ridge,"2023,2024,2025,2026",391,0.0316,0.0271,0.128,0.066,0.179,0.269
+excluding_ptab,at_filing,boosted_trees,"2023,2024,2025,2026",391,0.0286,0.0271,0.082,0.066,0.128,0.192
+excluding_ptab,before_decision,category_median,"2023,2024,2025,2026",391,0.0274,0.0271,0.072,0.066,0.128,0.192
+excluding_ptab,before_decision,ridge,"2023,2024,2025,2026",391,0.0317,0.0271,0.161,0.066,0.179,0.269
+excluding_ptab,before_decision,boosted_trees,"2023,2024,2025,2026",391,0.0277,0.0271,0.087,0.066,0.179,0.269

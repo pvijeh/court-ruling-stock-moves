@@ -1,0 +1,1345 @@
+[
+ [
+  "drug_patent-ded-23-879",
+  {
+   "decision_date": "2026-04-28",
+   "outcome": "settled",
+   "tickers": [
+    "PFE"
+   ],
+   "cl": [
+    {
+     "id": "67682959",
+     "slug": "pfizer-inc-v-cipla-limited",
+     "dn": "1:23-cv-00879",
+     "last": "2026-05-06"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-njd-21-10057",
+  {
+   "decision_date": "2026-04-06",
+   "outcome": "settled",
+   "tickers": [
+    "BHC"
+   ],
+   "cl": [
+    {
+     "id": "59847627",
+     "slug": "bausch-health-ireland-limited-v-msn-laboratories-private-ltd",
+     "dn": "2:21-cv-10057",
+     "last": "2026-04-24"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-njd-23-790",
+  {
+   "decision_date": "2026-01-05",
+   "outcome": "dismissed",
+   "tickers": [
+    "BLCO"
+   ],
+   "cl": [
+    {
+     "id": "66810046",
+     "slug": "bausch-lomb-incorporated-v-lupin-ltd",
+     "dn": "2:23-cv-00790",
+     "last": "2026-01-05"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-ded-22-1461",
+  {
+   "decision_date": "2025-12-22",
+   "outcome": "settled",
+   "tickers": [
+    "FOLD",
+    "TEVA"
+   ],
+   "cl": [
+    {
+     "id": "65737596",
+     "slug": "amicus-therapeutics-us-llc-v-teva-pharmaceuticals-usa-inc",
+     "dn": "1:22-cv-01461",
+     "last": "2026-01-18"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-ded-22-1395",
+  {
+   "decision_date": "2025-07-11",
+   "outcome": "settled",
+   "tickers": [
+    "NVS"
+   ],
+   "cl": [
+    {
+     "id": "65631764",
+     "slug": "novartis-pharmaceuticals-corporation-v-msn-pharmaceuticals-inc",
+     "dn": "1:22-cv-01395",
+     "last": "2026-01-28"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-ded-21-870",
+  {
+   "decision_date": "2025-02-04",
+   "outcome": "settled",
+   "tickers": [
+    "NVS"
+   ],
+   "cl": [
+    {
+     "id": "59999419",
+     "slug": "novartis-pharmaceuticals-corporation-v-msn-pharmaceuticals-inc",
+     "dn": "1:21-cv-00870",
+     "last": "2025-02-04"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-njd-19-16484",
+  {
+   "decision_date": "2024-12-17",
+   "outcome": "win",
+   "tickers": [
+    "JNJ",
+    "TEVA",
+    "VTRS"
+   ],
+   "cl": [
+    {
+     "id": "16037054",
+     "slug": "janssen-pharmaceuticals-inc-v-mylan-laboratories-limited",
+     "dn": "2:19-cv-16484",
+     "last": "2025-08-14"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-ded-22-985",
+  {
+   "decision_date": "2024-12-03",
+   "outcome": "win",
+   "tickers": [
+    "HRTX"
+   ],
+   "cl": [
+    {
+     "id": "64451677",
+     "slug": "heron-therapeutics-inc-v-fresenius-kabi-usa-llc",
+     "dn": "1:22-cv-00985",
+     "last": "2025-01-08"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-ded-22-228",
+  {
+   "decision_date": "2024-10-15",
+   "outcome": "win",
+   "tickers": [
+    "EXEL"
+   ],
+   "cl": [
+    {
+     "id": "63109700",
+     "slug": "exelixis-inc-v-msn-laboratories-private-limited",
+     "dn": "1:22-cv-00228",
+     "last": "2025-06-10"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-njd-21-19829",
+  {
+   "decision_date": "2024-08-09",
+   "outcome": "loss",
+   "tickers": [
+    "PCRX"
+   ],
+   "cl": [
+    {
+     "id": "60808011",
+     "slug": "pacira-pharmaceuticals-inc-v-evenus-pharmaceuticals-laboratories-inc",
+     "dn": "2:21-cv-19829",
+     "last": "2025-06-25"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-ded-21-691",
+  {
+   "decision_date": "2024-03-04",
+   "outcome": "win",
+   "tickers": [
+    "JAZZ",
+    "AVDL"
+   ],
+   "cl": [
+    {
+     "id": "59902792",
+     "slug": "jazz-pharmaceuticals-inc-v-avadel-cns-pharmaceuticals-llc",
+     "dn": "1:21-cv-00691",
+     "last": "2026-04-30"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-ded-21-1784",
+  {
+   "decision_date": "2024-02-26",
+   "outcome": "win",
+   "tickers": [
+    "JNJ"
+   ],
+   "cl": [
+    {
+     "id": "13060637",
+     "slug": "janssen-pharmaceuticals-inc-v-vivus-inc",
+     "dn": "1:14-cv-01088",
+     "last": "2014-08-29"
+    },
+    {
+     "id": "13252350",
+     "slug": "janssen-pharmaceuticals-inc-v-vintage-pharmaceuticals-llc",
+     "dn": "1:15-cv-00429",
+     "last": "2016-01-28"
+    },
+    {
+     "id": "5166518",
+     "slug": "janssen-pharmaceutica-nv-v-mylan-pharmaceuticals-inc",
+     "dn": "1:15-cv-00760",
+     "last": "2017-11-15"
+    },
+    {
+     "id": "13351936",
+     "slug": "janssen-pharmaceutica-nv-v-xellia-pharmaceuticals-aps",
+     "dn": "1:16-cv-00554",
+     "last": "2016-12-27"
+    },
+    {
+     "id": "16038846",
+     "slug": "janssen-pharmaceuticals-inc-v-mylan-laboratories-limited",
+     "dn": "1:19-cv-01488",
+     "last": "2019-09-30"
+    },
+    {
+     "id": "16613446",
+     "slug": "janssen-pharmaceuticals-inc-v-pharmascience-inc",
+     "dn": "1:19-cv-02313",
+     "last": "2020-03-03"
+    },
+    {
+     "id": "60148633",
+     "slug": "janssen-pharmaceuticals-inc-v-pharmascience-inc",
+     "dn": "1:19-cv-02313",
+     "last": ""
+    },
+    {
+     "id": "61637345",
+     "slug": "janssen-pharmaceuticals-inc-v-tolmar-inc",
+     "dn": "1:21-cv-01784",
+     "last": "2026-05-06"
+    },
+    {
+     "id": "67460825",
+     "slug": "janssen-pharmaceuticals-inc-v-hikma-pharmaceuticals-usa-inc",
+     "dn": "1:23-cv-00595",
+     "last": "2023-08-16"
+    },
+    {
+     "id": "70757062",
+     "slug": "janssen-pharmaceuticals-inc-v-sun-pharmaceutical-industries-ltd",
+     "dn": "1:25-cv-00857",
+     "last": "2025-10-28"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-njd-21-6964",
+  {
+   "decision_date": "2024-01-30",
+   "outcome": "win",
+   "tickers": [
+    "SUPN"
+   ],
+   "cl": [
+    {
+     "id": "59771148",
+     "slug": "supernus-pharmaceuticals-inc-v-ajanta-pharma-limited",
+     "dn": "3:21-cv-06964",
+     "last": "2025-11-06"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-njd-18-3632",
+  {
+   "decision_date": "2023-12-29",
+   "outcome": "loss",
+   "tickers": [
+    "CORT",
+    "TEVA"
+   ],
+   "cl": [
+    {
+     "id": "66894336",
+     "slug": "corcept-therapeutics-inc-v-teva-pharmaceuticals-usa-inc",
+     "dn": "1:18-cv-03632",
+     "last": "2026-09-10"
+    },
+    {
+     "id": "7176314",
+     "slug": "corcept-therapeutics-inc-v-teva-pharmaceuticals-usa-inc",
+     "dn": "2:18-cv-03632",
+     "last": "2022-02-03"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-wvnd-22-61",
+  {
+   "decision_date": "2023-12-27",
+   "outcome": "win",
+   "tickers": [
+    "REGN",
+    "VTRS"
+   ],
+   "cl": [
+    {
+     "id": "64865718",
+     "slug": "regeneron-pharmaceuticals-inc-v-mylan-pharmaceuticals-inc",
+     "dn": "1:22-cv-00061",
+     "last": "2026-06-05"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-ded-21-549",
+  {
+   "decision_date": "2023-09-29",
+   "outcome": "loss",
+   "tickers": [
+    "AMRX"
+   ],
+   "cl": [
+    {
+     "id": "59829946",
+     "slug": "cmp-development-llc-v-amneal-pharmaceuticals-llc",
+     "dn": "1:21-cv-00549",
+     "last": "2025-02-13"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-ded-19-1727",
+  {
+   "decision_date": "2023-09-27",
+   "outcome": "loss",
+   "tickers": [
+    "ABBV"
+   ],
+   "cl": [
+    {
+     "id": "13588031",
+     "slug": "allergan-usa-inc-v-prollenium-us-inc",
+     "dn": "1:19-cv-00126",
+     "last": "2021-02-22"
+    },
+    {
+     "id": "16168595",
+     "slug": "allergan-usa-inc-v-aurobindo-pharma-ltd",
+     "dn": "1:19-cv-01674",
+     "last": "2022-02-24"
+    },
+    {
+     "id": "16199458",
+     "slug": "allergan-usa-inc-v-msn-laboratories-private-limited",
+     "dn": "1:19-cv-01727",
+     "last": "2025-04-16"
+    },
+    {
+     "id": "16615509",
+     "slug": "allergan-usa-inc-v-aurobindo-pharma-limited",
+     "dn": "1:19-cv-02317",
+     "last": "2022-06-03"
+    },
+    {
+     "id": "16752677",
+     "slug": "allergan-usa-inc-v-prollenium-us-inc",
+     "dn": "1:20-cv-00104",
+     "last": "2021-02-22"
+    },
+    {
+     "id": "18504203",
+     "slug": "allergan-usa-inc-v-hetero-labs-limited",
+     "dn": "1:20-cv-01344",
+     "last": "2021-10-20"
+    },
+    {
+     "id": "60080574",
+     "slug": "allergan-usa-inc-v-alkem-laboratories-limited",
+     "dn": "1:21-cv-01061",
+     "last": "2021-10-18"
+    },
+    {
+     "id": "60080661",
+     "slug": "allergan-usa-inc-v-aurobindo-pharma-ltd",
+     "dn": "1:21-cv-01062",
+     "last": "2022-02-24"
+    },
+    {
+     "id": "60080575",
+     "slug": "allergan-usa-inc-v-hetero-labs-limited",
+     "dn": "1:21-cv-01063",
+     "last": "2021-10-20"
+    },
+    {
+     "id": "60080691",
+     "slug": "allergan-usa-inc-v-msn-laboratories-private-limited",
+     "dn": "1:21-cv-01064",
+     "last": "2023-10-12"
+    },
+    {
+     "id": "60080516",
+     "slug": "allergan-usa-inc-v-sun-pharmaceutical-industries-limited",
+     "dn": "1:21-cv-01065",
+     "last": "2023-10-12"
+    },
+    {
+     "id": "60080598",
+     "slug": "allergan-usa-inc-v-zydus-pharmaceuticals-usa-inc",
+     "dn": "1:21-cv-01066",
+     "last": "2022-02-09"
+    },
+    {
+     "id": "62987980",
+     "slug": "allergan-usa-inc-v-msn-laboratories-private-limited",
+     "dn": "1:22-cv-00181",
+     "last": "2023-10-12"
+    },
+    {
+     "id": "62987982",
+     "slug": "allergan-usa-inc-v-sun-pharmaceutical-industries-limited",
+     "dn": "1:22-cv-00182",
+     "last": "2023-10-12"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-wvnd-19-201",
+  {
+   "decision_date": "2023-07-06",
+   "outcome": "win",
+   "tickers": [
+    "NVS",
+    "VTRS"
+   ],
+   "cl": [
+    {
+     "id": "14406795",
+     "slug": "novartis-pharmaceuticals-corporation-v-mylan-inc",
+     "dn": "1:14-cv-00106",
+     "last": "2015-09-16"
+    },
+    {
+     "id": "4414028",
+     "slug": "novartis-pharmaceuticals-corporation-v-mylan-inc",
+     "dn": "1:14-cv-00111",
+     "last": "2015-10-30"
+    },
+    {
+     "id": "7520540",
+     "slug": "novartis-pharmaceuticals-corporation-v-mylan-pharmaceuticals-inc",
+     "dn": "1:17-cv-00054",
+     "last": "2018-09-05"
+    },
+    {
+     "id": "15758145",
+     "slug": "novartis-pharmaceuticals-corporation-v-mylan-pharmaceuticals-inc",
+     "dn": "1:19-cv-00120",
+     "last": "2020-01-13"
+    },
+    {
+     "id": "15835341",
+     "slug": "novartis-pharmaceuticals-corporation-v-mylan-pharmaceuticals-inc",
+     "dn": "1:19-cv-00128",
+     "last": "2020-10-27"
+    },
+    {
+     "id": "16402397",
+     "slug": "novartis-pharmaceuticals-corporation-v-mylan-pharmaceuticals-inc",
+     "dn": "1:19-cv-00201",
+     "last": "2024-06-14"
+    },
+    {
+     "id": "61630226",
+     "slug": "novartis-pharmaceuticals-corporation-v-mylan-pharmaceuticals-inc",
+     "dn": "1:21-cv-00146",
+     "last": "2023-12-05"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-ded-20-804",
+  {
+   "decision_date": "2023-06-26",
+   "outcome": "win",
+   "tickers": [
+    "SNY",
+    "TEVA"
+   ],
+   "cl": [
+    {
+     "id": "17248658",
+     "slug": "sanofi-aventis-us-llc-v-sandoz-inc",
+     "dn": "1:20-cv-00804",
+     "last": "2023-10-18"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-njd-20-10172",
+  {
+   "decision_date": "2023-06-21",
+   "outcome": "win",
+   "tickers": [
+    "TEVA"
+   ],
+   "cl": [
+    {
+     "id": "17427019",
+     "slug": "teva-branded-pharmaceutical-products-rd-inc-v-cipla-ltd",
+     "dn": "2:20-cv-10172",
+     "last": "2025-06-12"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-njd-20-2576",
+  {
+   "decision_date": "2023-06-13",
+   "outcome": "win",
+   "tickers": [
+    "MRK"
+   ],
+   "cl": [
+    {
+     "id": "16978665",
+     "slug": "in-re-sugammadex",
+     "dn": "2:20-cv-02576",
+     "last": "2026-01-15"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-ded-20-1589",
+  {
+   "decision_date": "2023-06-09",
+   "outcome": "loss",
+   "tickers": [
+    "NVS"
+   ],
+   "cl": [
+    {
+     "id": "13252297",
+     "slug": "astellas-pharma-inc-v-fresenius-kabi-usa-llc",
+     "dn": "1:15-cv-00080",
+     "last": "2016-04-01"
+    },
+    {
+     "id": "13252489",
+     "slug": "astellas-pharma-inc-v-apotex-inc",
+     "dn": "1:15-cv-00857",
+     "last": "2016-07-22"
+    },
+    {
+     "id": "4550854",
+     "slug": "astellas-pharma-inc-v-zydus-pharmaceuticals-usa-inc",
+     "dn": "1:16-cv-01120",
+     "last": "2019-05-08"
+    },
+    {
+     "id": "7473108",
+     "slug": "astellas-pharma-inc-v-apotex-inc",
+     "dn": "1:16-cv-01166",
+     "last": "2018-07-19"
+    },
+    {
+     "id": "13450098",
+     "slug": "astellas-pharma-inc-v-zydus-pharmaceuticals-usa-inc",
+     "dn": "1:16-cv-01167",
+     "last": "2019-05-08"
+    },
+    {
+     "id": "4499638",
+     "slug": "astellas-pharma-inc-v-actavis-elizabeth-llc",
+     "dn": "1:16-cv-00905",
+     "last": "2026-05-15"
+    },
+    {
+     "id": "4499640",
+     "slug": "astellas-pharma-inc-v-lupin-ltd",
+     "dn": "1:16-cv-00908",
+     "last": "2020-11-25"
+    },
+    {
+     "id": "4499647",
+     "slug": "astellas-pharma-inc-v-zydus-pharmaceuticals-usa-inc",
+     "dn": "1:16-cv-00924",
+     "last": "2020-11-25"
+    },
+    {
+     "id": "4499648",
+     "slug": "astellas-pharma-inc-v-windlas-healthcare-pvt-ltd",
+     "dn": "1:16-cv-00930",
+     "last": "2020-11-25"
+    },
+    {
+     "id": "4499649",
+     "slug": "astellas-pharma-inc-v-aurobindo-pharma-ltd",
+     "dn": "1:16-cv-00942",
+     "last": "2020-11-25"
+    },
+    {
+     "id": "4499656",
+     "slug": "astellas-pharma-inc-v-prinston-pharmaceutical-inc",
+     "dn": "1:16-cv-00943",
+     "last": "2020-11-25"
+    },
+    {
+     "id": "4499652",
+     "slug": "astellas-pharma-inc-v-sandoz-inc",
+     "dn": "1:16-cv-00952",
+     "last": "2020-11-25"
+    },
+    {
+     "id": "4499654",
+     "slug": "astellas-pharma-inc-v-sawai-pharmaceutical-co-ltd",
+     "dn": "1:16-cv-00954",
+     "last": "2020-11-25"
+    },
+    {
+     "id": "4499667",
+     "slug": "astellas-pharma-inc-v-apotex-inc",
+     "dn": "1:16-cv-00976",
+     "last": "2020-11-25"
+    },
+    {
+     "id": "6074836",
+     "slug": "astellas-pharma-inc-v-roxane-laboratories-inc",
+     "dn": "1:17-cv-00542",
+     "last": "2018-12-07"
+    },
+    {
+     "id": "14766333",
+     "slug": "astellas-pharma-inc-v-xellia-pharmaceuticals-aps",
+     "dn": "1:18-cv-01818",
+     "last": "2019-04-30"
+    },
+    {
+     "id": "6762625",
+     "slug": "astellas-pharma-inc-v-eugia-pharma-specialities-ltd",
+     "dn": "1:18-cv-00757",
+     "last": "2019-09-05"
+    },
+    {
+     "id": "7048039",
+     "slug": "astellas-pharma-inc-v-cipla-limited",
+     "dn": "1:18-cv-00844",
+     "last": "2019-02-28"
+    },
+    {
+     "id": "7272346",
+     "slug": "astellas-pharma-inc-v-aurobindo-pharma-limited",
+     "dn": "1:18-cv-00932",
+     "last": "2018-09-24"
+    },
+    {
+     "id": "18684585",
+     "slug": "astellas-pharma-inc-v-sandoz-inc",
+     "dn": "1:20-cv-01589",
+     "last": "2026-05-11"
+    },
+    {
+     "id": "60112834",
+     "slug": "astellas-pharma-inc-v-apotex-inc",
+     "dn": "1:21-cv-01141",
+     "last": "2022-12-19"
+    },
+    {
+     "id": "61626431",
+     "slug": "astellas-pharma-inc-v-prinston-pharmaceutical-inc",
+     "dn": "1:21-cv-01771",
+     "last": "2022-12-07"
+    },
+    {
+     "id": "59762674",
+     "slug": "astellas-pharma-inc-v-aurobindo-pharma-ltd",
+     "dn": "1:21-cv-00425",
+     "last": "2026-05-04"
+    },
+    {
+     "id": "59890029",
+     "slug": "astellas-pharma-inc-v-sandoz-inc",
+     "dn": "1:21-cv-00664",
+     "last": "2026-05-04"
+    },
+    {
+     "id": "60039364",
+     "slug": "astellas-pharma-inc-v-alkem-laboratories-ltd",
+     "dn": "1:21-cv-00992",
+     "last": "2021-10-26"
+    },
+    {
+     "id": "63397305",
+     "slug": "astellas-pharma-inc-v-sawai-pharmaceutical-co-ltd",
+     "dn": "1:22-cv-00818",
+     "last": "2023-06-29"
+    },
+    {
+     "id": "66712208",
+     "slug": "astellas-pharma-inc-v-qilu-pharma-inc",
+     "dn": "1:23-cv-00022",
+     "last": "2023-09-27"
+    },
+    {
+     "id": "67317928",
+     "slug": "astellas-pharma-inc-v-ascent-pharmaceuticals-inc",
+     "dn": "1:23-cv-00486",
+     "last": "2026-09-04"
+    },
+    {
+     "id": "67490211",
+     "slug": "astellas-pharma-inc-v-evitalin-llc",
+     "dn": "1:23-cv-00629",
+     "last": "2026-04-20"
+    },
+    {
+     "id": "67525314",
+     "slug": "astellas-pharma-inc-v-msn-pharmaceuticals-inc",
+     "dn": "1:23-cv-00689",
+     "last": "2025-06-24"
+    },
+    {
+     "id": "67649153",
+     "slug": "astellas-pharma-inc-v-lupin-ltd",
+     "dn": "1:23-cv-00819",
+     "last": "2026-05-04"
+    },
+    {
+     "id": "69192999",
+     "slug": "astellas-pharma-inc-v-lupin-ltd",
+     "dn": "1:24-cv-01068",
+     "last": "2026-02-20"
+    },
+    {
+     "id": "69192997",
+     "slug": "astellas-pharma-inc-v-zydus-pharmaceuticals-usa-inc",
+     "dn": "1:24-cv-01069",
+     "last": "2026-02-20"
+    },
+    {
+     "id": "69207175",
+     "slug": "astellas-pharma-inc-v-ascent-pharmaceuticals-inc",
+     "dn": "1:24-cv-01084",
+     "last": "2026-05-04"
+    },
+    {
+     "id": "69409353",
+     "slug": "astellas-pharma-inc-v-cipla-limited",
+     "dn": "1:24-cv-01287",
+     "last": "2026-03-06"
+    },
+    {
+     "id": "69451580",
+     "slug": "astellas-pharma-inc-v-cipla-limited",
+     "dn": "1:24-cv-01333",
+     "last": "2026-07-14"
+    },
+    {
+     "id": "69041980",
+     "slug": "astellas-pharma-inc-v-lupin-ltd",
+     "dn": "1:24-cv-00939",
+     "last": "2026-02-20"
+    },
+    {
+     "id": "69042189",
+     "slug": "astellas-pharma-inc-v-zydus-pharmaceuticals-usa-inc",
+     "dn": "1:24-cv-00940",
+     "last": "2026-02-20"
+    },
+    {
+     "id": "71914781",
+     "slug": "astellas-pharma-inc-v-renata-limited",
+     "dn": "1:25-cv-01383",
+     "last": "2026-01-21"
+    },
+    {
+     "id": "69536199",
+     "slug": "astellas-pharma-inc-v-creekwood-pharmaceuticals-llc",
+     "dn": "1:25-cv-00045",
+     "last": "2026-01-08"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-njd-20-13103",
+  {
+   "decision_date": "2023-05-23",
+   "outcome": "win",
+   "tickers": [
+    "JNJ",
+    "VTRS"
+   ],
+   "cl": [
+    {
+     "id": "18467983",
+     "slug": "janssen-pharmaceuticals-inc-v-mylan-laboratories-limited",
+     "dn": "3:20-cv-13103",
+     "last": "2022-09-28"
+    },
+    {
+     "id": "65379431",
+     "slug": "janssen-pharmaceuticals-inc-v-mylan-laboratories-limited",
+     "dn": "2:20-cv-13103",
+     "last": "2025-12-23"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-ded-19-2017",
+  {
+   "decision_date": "2023-01-19",
+   "outcome": "split",
+   "tickers": [
+    "EXEL"
+   ],
+   "cl": [
+    {
+     "id": "16395914",
+     "slug": "exelixis-inc-v-msn-laboratories-private-limited",
+     "dn": "1:19-cv-02017",
+     "last": "2025-12-18"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-njd-20-8966",
+  {
+   "decision_date": "2022-12-27",
+   "outcome": "win",
+   "tickers": [
+    "TAK"
+   ],
+   "cl": [
+    {
+     "id": "17352311",
+     "slug": "takeda-pharmaceutical-company-limited-v-norwich-pharmaceuticals-inc",
+     "dn": "2:20-cv-08966",
+     "last": "2023-08-07"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-ded-18-651",
+  {
+   "decision_date": "2022-12-13",
+   "outcome": "loss",
+   "tickers": [
+    "VNDA",
+    "TEVA"
+   ],
+   "cl": [
+    {
+     "id": "6499268",
+     "slug": "vanda-pharmaceuticals-inc-v-teva-pharmaceuticals-usa-inc",
+     "dn": "1:18-cv-00651",
+     "last": "2025-11-07"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-njd-20-5426",
+  {
+   "decision_date": "2022-12-01",
+   "outcome": "win",
+   "tickers": [
+    "BHC"
+   ],
+   "cl": [
+    {
+     "id": "17141568",
+     "slug": "bausch-health-ireland-limited-v-padagis-israel-pharmaceuticals-ltd",
+     "dn": "2:20-cv-05426",
+     "last": "2023-08-16"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-wvnd-19-101",
+  {
+   "decision_date": "2022-10-26",
+   "outcome": "win",
+   "tickers": [
+    "MRK",
+    "VTRS"
+   ],
+   "cl": [
+    {
+     "id": "15043896",
+     "slug": "merck-sharp-dohme-llc-v-mylan-pharmaceuticals-inc",
+     "dn": "1:19-cv-00101",
+     "last": "2024-07-24"
+    },
+    {
+     "id": "17037913",
+     "slug": "merck-sharp-dohme-bv-v-mylan-pharmaceuticals-inc",
+     "dn": "1:20-cv-00061",
+     "last": "2022-08-08"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-njd-20-5212",
+  {
+   "decision_date": "2022-09-06",
+   "outcome": "loss",
+   "tickers": [
+    "TEVA"
+   ],
+   "cl": [
+    {
+     "id": "17107360",
+     "slug": "tris-pharma-inc-v-teva-pharmaceuticals-usa-inc",
+     "dn": "2:20-cv-05212",
+     "last": "2022-12-14"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-ded-20-755",
+  {
+   "decision_date": "2022-08-31",
+   "outcome": "split",
+   "tickers": [
+    "UTHR",
+    "LQDA"
+   ],
+   "cl": [
+    {
+     "id": "17225404",
+     "slug": "united-therapeutics-corporation-v-liquidia-technologies-inc",
+     "dn": "1:20-cv-00755",
+     "last": "2024-10-10"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-ded-18-390",
+  {
+   "decision_date": "2022-08-18",
+   "outcome": "win",
+   "tickers": [
+    "TEVA"
+   ],
+   "cl": [
+    {
+     "id": "6952148",
+     "slug": "vifor-fresenius-medical-care-renal-pharma-ltd-v-lupin-atlantis-holdings",
+     "dn": "1:18-cv-00390",
+     "last": "2025-01-07"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-ded-20-430",
+  {
+   "decision_date": "2022-08-10",
+   "outcome": "split",
+   "tickers": [
+    "BHC"
+   ],
+   "cl": [
+    {
+     "id": "17015240",
+     "slug": "salix-pharmaceuticals-ltd-v-norwich-pharmaceuticals-inc",
+     "dn": "1:20-cv-00430",
+     "last": "2024-07-01"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-ded-20-365",
+  {
+   "decision_date": "2022-08-08",
+   "outcome": "win",
+   "tickers": [
+    "ETON"
+   ],
+   "cl": [
+    {
+     "id": "16976251",
+     "slug": "exela-pharma-sciences-llc-v-dr-reddys-laboratories-sa",
+     "dn": "1:20-cv-00365",
+     "last": "2024-12-17"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-ded-18-1675",
+  {
+   "decision_date": "2022-05-19",
+   "outcome": "loss",
+   "tickers": [
+    "PFE"
+   ],
+   "cl": [
+    {
+     "id": "14585646",
+     "slug": "astellas-us-llc-v-hospira-inc",
+     "dn": "1:18-cv-01675",
+     "last": "2023-09-07"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-ded-19-78",
+  {
+   "decision_date": "2022-03-22",
+   "outcome": "loss",
+   "tickers": [
+    "NVS"
+   ],
+   "cl": [
+    {
+     "id": "14655095",
+     "slug": "genentech-inc-v-sandoz-inc",
+     "dn": "1:19-cv-00202",
+     "last": "2022-04-19"
+    },
+    {
+     "id": "14655094",
+     "slug": "genentech-inc-v-sandoz-inc",
+     "dn": "1:19-cv-00203",
+     "last": "2022-04-19"
+    },
+    {
+     "id": "14639117",
+     "slug": "genentech-inc-v-sandoz-inc",
+     "dn": "1:19-cv-00078",
+     "last": "2023-02-03"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-ded-18-2032",
+  {
+   "decision_date": "2022-02-09",
+   "outcome": "dismissed",
+   "tickers": [
+    "ENDP",
+    "AMPH"
+   ],
+   "cl": [
+    {
+     "id": "14683744",
+     "slug": "par-pharmaceutical-inc-v-amneal-pharmaceuticals-of-new-york-llc",
+     "dn": "1:18-cv-02032",
+     "last": "2023-07-26"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-njd-19-13955",
+  {
+   "decision_date": "2021-12-29",
+   "outcome": "settled",
+   "tickers": [
+    "VTRS"
+   ],
+   "cl": [
+    {
+     "id": "15797962",
+     "slug": "vifor-international-ag-v-mylan-laboratories-ltd",
+     "dn": "3:19-cv-13955",
+     "last": "2021-12-29"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-ded-18-1395",
+  {
+   "decision_date": "2021-12-20",
+   "outcome": "split",
+   "tickers": [
+    "BDSI"
+   ],
+   "cl": [
+    {
+     "id": "5114491",
+     "slug": "biodelivery-sciences-international-inc-v-teva-pharmaceuticals-usa-inc",
+     "dn": "1:16-cv-01303",
+     "last": "2018-02-08"
+    },
+    {
+     "id": "4563662",
+     "slug": "biodelivery-sciences-international-inc-v-actavis-laboratories-ut-inc",
+     "dn": "1:16-cv-00175",
+     "last": "2017-10-13"
+    },
+    {
+     "id": "5114481",
+     "slug": "biodelivery-sciences-international-inc-v-teva-pharmaceuticals-usa-inc",
+     "dn": "1:17-cv-00118",
+     "last": "2018-02-08"
+    },
+    {
+     "id": "8404837",
+     "slug": "biodelivery-sciences-international-inc-v-teva-pharmaceuticals-usa-inc",
+     "dn": "1:17-cv-00282",
+     "last": "2017-10-13"
+    },
+    {
+     "id": "8404907",
+     "slug": "biodelivery-sciences-international-inc-v-alvogen-pb-research",
+     "dn": "1:18-cv-01395",
+     "last": "2026-02-09"
+    },
+    {
+     "id": "14585654",
+     "slug": "biodelivery-sciences-international-inc-v-chemo-research-sl",
+     "dn": "1:19-cv-00444",
+     "last": "2026-04-13"
+    },
+    {
+     "id": "65342725",
+     "slug": "biodelivery-sciences-international-inc-v-chemo-research-sl",
+     "dn": "1:22-cv-01196",
+     "last": "2026-04-13"
+    },
+    {
+     "id": "70906052",
+     "slug": "biodelivery-sciences-international-inc-v-alvogen-pb-research",
+     "dn": "1:25-cv-00926",
+     "last": "2026-09-25"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-ded-18-664",
+  {
+   "decision_date": "2021-10-15",
+   "outcome": "win",
+   "tickers": [
+    "AZN"
+   ],
+   "cl": [
+    {
+     "id": "6872289",
+     "slug": "astrazeneca-ab-v-zydus-pharmaceuticals-usa-inc",
+     "dn": "1:18-cv-00664",
+     "last": "2022-12-01"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-njd-18-734",
+  {
+   "decision_date": "2021-10-08",
+   "outcome": "win",
+   "tickers": [
+    "JNJ",
+    "TEVA"
+   ],
+   "cl": [
+    {
+     "id": "6727579",
+     "slug": "janssen-pharmaceuticals-inc-v-teva-pharmaceuticals-usa-inc",
+     "dn": "2:18-cv-00734",
+     "last": "2025-12-05"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-ded-18-88",
+  {
+   "decision_date": "2021-10-05",
+   "outcome": "win",
+   "tickers": [
+    "TAK"
+   ],
+   "cl": [
+    {
+     "id": "6260438",
+     "slug": "h-lundbeck-as-v-lupin-limited",
+     "dn": "1:18-cv-00088",
+     "last": "2025-03-06"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-ded-18-823",
+  {
+   "decision_date": "2021-08-31",
+   "outcome": "loss",
+   "tickers": [
+    "ENDP",
+    "EGRX"
+   ],
+   "cl": [
+    {
+     "id": "14683744",
+     "slug": "par-pharmaceutical-inc-v-amneal-pharmaceuticals-of-new-york-llc",
+     "dn": "1:18-cv-02032",
+     "last": "2023-07-26"
+    },
+    {
+     "id": "6993199",
+     "slug": "par-pharmaceutical-inc-v-eagle-pharmaceuticals-inc",
+     "dn": "1:18-cv-00823",
+     "last": "2023-07-25"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-ded-19-434",
+  {
+   "decision_date": "2021-08-19",
+   "outcome": "win",
+   "tickers": [
+    "ABBV",
+    "JNJ"
+   ],
+   "cl": [
+    {
+     "id": "6659092",
+     "slug": "pharmacyclics-llc-v-sandoz-inc",
+     "dn": "1:18-cv-00192",
+     "last": "2021-05-11"
+    },
+    {
+     "id": "14612805",
+     "slug": "pharmacyclics-llc-v-alvogen-pine-brook-llc",
+     "dn": "1:19-cv-00434",
+     "last": "2024-10-02"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-ded-19-678",
+  {
+   "decision_date": "2021-06-29",
+   "outcome": "settled",
+   "tickers": [
+    "AMRX"
+   ],
+   "cl": [
+    {
+     "id": "14925020",
+     "slug": "silvergate-pharmaceuticals-inc-v-amneal-pharmaceuticals-llc",
+     "dn": "1:19-cv-00678",
+     "last": "2021-08-22"
+    }
+   ]
+  }
+ ],
+ [
+  "drug_patent-wvnd-18-193",
+  {
+   "decision_date": "2021-03-02",
+   "outcome": "win",
+   "tickers": [
+    "AZN",
+    "VTRS"
+   ],
+   "cl": [
+    {
+     "id": "4414026",
+     "slug": "astrazeneca-ab-v-mylan-pharmaceuticals-inc",
+     "dn": "1:14-cv-00094",
+     "last": "2017-03-10"
+    },
+    {
+     "id": "13370534",
+     "slug": "astrazeneca-pharmaceuticals-lp-v-mylan-pharmaceuticals-inc",
+     "dn": "1:15-cv-00183",
+     "last": "2017-01-05"
+    },
+    {
+     "id": "4414058",
+     "slug": "astrazeneca-lp-v-mylan-inc",
+     "dn": "1:15-cv-00202",
+     "last": "2017-07-19"
+    },
+    {
+     "id": "8022741",
+     "slug": "astrazeneca-ab-v-mylan-pharmaceuticals-inc",
+     "dn": "1:18-cv-00193",
+     "last": "2024-05-03"
+    },
+    {
+     "id": "16424004",
+     "slug": "astrazeneca-ab-v-mylan-pharmaceuticals-inc",
+     "dn": "1:19-cv-00203",
+     "last": "2023-03-08"
+    },
+    {
+     "id": "63263633",
+     "slug": "astrazeneca-ab-v-mylan-pharmaceuticals-inc",
+     "dn": "1:22-cv-00035",
+     "last": "2023-03-08"
+    }
+   ]
+  }
+ ]
+]

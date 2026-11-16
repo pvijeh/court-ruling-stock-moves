@@ -1,0 +1,8 @@
+category,rows,cases,priced_events,price_years,median_abs_abn,events_gt5,events_gt10,events_gt25,gt10_per_year,share_unscheduled,unscheduled_gt10_per_year,market_hours_share_of_timed,n_timed_unscheduled,est_liquidia_like_per_year,share_timed,fast_alert_events,fast_alert_priced,fast_alert_gt5,fast_alert_gt10,median_lead_min,n_lead,median_min_to_half,n_half
+drug_patent,121,91,93,5.5,0.0224,25,11,5,2.0,0.98,2.0,0.71,14,1.43,0.16,10,10,2,1,280.5,2,,0
+merger_challenge,48,32,38,5.2,0.0368,14,6,2,1.2,1.0,0.78,0.25,8,0.19,0.17,2,2,1,0,1593.5,2,1.0,2
+deal_litigation,67,60,57,5.5,0.0132,7,3,1,0.5,1.0,0.37,0.6,35,0.22,0.57,21,18,2,0,2416.0,2,37.5,6
+antitrust_conduct,89,38,60,5.6,0.0159,5,2,0,0.4,0.85,0.18,0.75,4,0.13,0.11,3,3,0,0,326.0,1,1.0,1
+jury_verdict,132,132,104,5.6,0.014,13,6,2,1.1,0.0,0.0,,0,,0.0,0,0,0,0,,0,,0
+itc337,312,312,283,5.7,0.0167,40,10,1,1.7,0.81,0.35,,0,,0.0,0,0,0,0,,0,,0
+ptab,6266,4833,989,2.0,0.0119,79,19,1,9.5,1.0,8.53,0.26,3887,2.21,0.85,669,510,34,8,,0,46.0,276

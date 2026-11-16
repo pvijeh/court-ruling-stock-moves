@@ -1,0 +1,285 @@
+## ded 21-653 | 10X GENOMICS, INC., ET AL v BRUKER SPATIAL BIOLOGY, ET A | filed 2021-05-06 trial 2023-11-13..2023-11-17 term 2025-05-13 DISP 7 JURY B
+  2024-12-23 ded 79k [post-trial,infringe,invalid,injunction,JUDGMENT] 10X Genomics, Inc. et al v. Brucker Spatial Biology Inc. et al
+  2024-12-23 gov 83k [post-trial,infringe,invalid,injunction,JUDGMENT] MEMORANDUM AND ORDER. Signed by Judge Matthew F Kennelly on 12/23/2024
+## ded 24-95 | ADVANCED ACCELERATOR AP, ET  v LANTHEUS MEDICAL IMAGIN, ET  | filed 2024-01-25 trial 2025-12-15..2025-12-19 term 2026-06-22 DISP 9 JURY N
+  2026-06-18 ded 0k [] Advanced Accelerator Applications USA, Inc. et al v. Lantheus Medical 
+## ded 24-1161 | ADVANCED ACCELERATOR AP, ET  v CURIUM US LLC, ET AL | filed 2024-10-17 trial 2025-12-15..2025-12-19 term 2026-06-24 DISP 9 JURY N
+## ded 18-73 | ADVERIO PHARMA GMBH, ET AL v ALEMBIC PHARMACEUTICALS, ET  | filed 2018-01-09 trial 2020-12-15..2020-12-17 term 2020-12-21 DISP 13 JURY D
+## ded 18-111 | ADVERIO PHARMA GMBH, ET AL v MSN LABORATORIES PRIVAT, ET  | filed 2018-01-19 trial 2020-12-15..2020-12-17 term 2020-12-21 DISP 13 JURY N
+## ded 19-1727 | ALLERGAN USA, INC., ET AL v AUROBINDO PHARMA LTD., ET AL | filed 2019-09-13 trial 2022-11-07..2022-11-09 term 2023-10-12 DISP 9 JURY N
+  2022-11-14 ded 26k [infringe,JUDGMENT] Allergan USA, Inc., et al. v. MSN Laboratories Private Limited, et al.
+  2022-11-14 gov 27k [infringe,JUDGMENT] MEMORANDUM OPINION regarding Motion for Judgment Pursuant to FED. R. C
+  2023-08-04 ded 8k [bench trial,JUDGMENT] Allergan USA, Inc., et al. v. MSN Laboratories Private Limited, et al.
+  2023-08-04 gov 8k [bench trial,JUDGMENT] MEMORANDUM ORDER: Defendants motion to strike Dr. Berkland&apos;s test
+  2023-09-27 ded 83k [TRIAL OPINION,after a,invalid,obvious,written description,JUDGMENT] Allergan USA, Inc., et al. v. MSN Laboratories Private Limited, et al.
+  2023-09-27 gov 87k [TRIAL OPINION,after a,invalid,obvious,written description,JUDGMENT] TRIAL OPINION: For the foregoing reasons, I find the asserted claims o
+## ded 22-1461 | AMICUS THERAPEUTICS US, ET A v TEVA PHARMACEUTICALS US, ET  | filed 2022-11-07 trial 2025-09-29..2025-10-01 term 2025-12-22 DISP 5 JURY N
+## ded 22-1465 | AMICUS THERAPEUTICS US, ET A v LUPIN LTD., ET AL | filed 2022-11-07 trial 2025-09-29..2025-10-01 term 2025-12-22 DISP 5 JURY N
+## ded 22-1467 | AMICUS THERAPEUTICS US, ET A v AUROBINDO PHARMA LTD., ET AL | filed 2022-11-07 trial 2025-09-29..2025-10-01 term 2025-12-22 DISP 5 JURY N
+## ded 23-964 | AMICUS THERAPEUTICS US, ET A v LUPIN LTD., ET AL | filed 2023-09-01 trial 2025-09-29..2025-10-01 term 2025-12-22 DISP 5 JURY N
+## ded 24-698 | AMICUS THERAPEUTICS US, ET A v AUROBINDO PHARMA LTD., ET AL | filed 2024-06-13 trial 2025-09-29..2025-10-01 term 2025-12-22 DISP 5 JURY N
+## ded 24-1331 | AMICUS THERAPEUTICS US, ET A v AUROBINDO PHARMA LTD., ET AL | filed 2024-12-06 trial 2025-09-29..2025-10-01 term 2025-12-22 DISP 5 JURY N
+## ded 20-1589 | ASTELLAS PHARMA INC., ET AL v SANDOZ INC., ET AL | filed 2020-11-24 trial 2023-02-06..2023-02-10 term 2023-06-09 DISP 17 JURY D
+  2023-06-09 gov 7k [post-trial,infringe,invalid] MEMORANDUM AND ORDER, claims 5, 20, and 25 of U.S. Patent No. 10,842,7
+  2024-10-22 ded 21k [bench trial,post-trial,infringe] Astellas Pharma Inc. et al v. Sandoz Inc. et al
+  2024-10-22 gov 22k [bench trial,post-trial,infringe] MEMORANDUM AND ORDER: Astellas&apos;s Motion to Supplement (D.I. 620) 
+  2025-04-15 ded 113k [FINDINGS OF FACT,bench trial,after a,infringe,invalid,enablement,written description] Astellas Pharma Inc. et al v. Sandoz Inc. et al
+  2025-04-15 gov 119k [FINDINGS OF FACT,bench trial,after a,infringe,invalid,enablement,written description] FINDINGS OF FACT AND CONCLUSIONS OF LAW. Signed by Judge Joseph F. Bat
+  2025-05-30 gov 13k [infringe,obvious,enablement,written description] MEMORANDUM AND ORDER: Defendants&apos; Motion to Clarify or Provide Re
+  2025-06-02 ded 12k [infringe,obvious,enablement,written description] Astellas Pharma Inc. et al v. Sandoz Inc. et al
+  2025-06-10 gov 32k [infringe] MEMORANDUM AND ORDER. Signed by Judge Joseph F. Bataillon on 06/10/202
+  2025-06-11 ded 31k [infringe] Astellas Pharma Inc. et al v. Sandoz Inc. et al
+  2026-01-30 ded 14k [] Astellas Pharma Inc. et al v. Sandoz Inc. et al
+## ded 21-425 | ASTELLAS PHARMA INC., ET AL v AUROBINDO PHARMA LTD., ET AL | filed 2021-03-24 trial 2023-02-06..2023-02-10 term 2023-06-09 DISP 17 JURY N
+  2023-06-09 gov 7k [post-trial,infringe,invalid] MEMORANDUM AND ORDER, claims 5, 20, and 25 of U.S. Patent No. 10,842,7
+## ded 21-664 | ASTELLAS PHARMA INC., ET AL v SANDOZ INC. | filed 2021-05-07 trial 2023-02-06..2023-02-10 term 2023-06-09 DISP 17 JURY N
+  2023-06-09 gov 7k [post-trial,infringe,invalid] MEMORANDUM AND ORDER, claims 5, 20, and 25 of U.S. Patent No. 10,842,7
+## ded 18-1675 | ASTELLAS US LLC, ET AL v APOTEX INC., ET AL | filed 2018-10-25 trial 2022-01-27..2022-01-31 term 2022-06-01 DISP 9 JURY B
+  2022-05-19 ded 109k [infringe,invalid,JUDGMENT] Astellas US LLC et al v. Hospira, Inc.
+  2022-05-19 gov 116k [infringe,invalid,JUDGMENT] OPINION Signed by Judge Colm F. Connolly on 5/19/2022. (nmf)
+## ded 18-664 | ASTRAZENECA AB v ZYDUS PHARMACEUTICALS (USA)  | filed 2018-05-01 trial 2021-05-17..2021-05-19 term 2022-07-28 DISP 9 JURY N
+  2021-10-15 ded 16k [bench trial,TRIAL OPINION,infringe,invalid,obvious,JUDGMENT] AstraZeneca AB v. Zydus Pharmaceuticals (USA) Inc.
+  2021-10-15 gov 17k [bench trial,TRIAL OPINION,infringe,invalid,obvious,JUDGMENT] TRIAL OPINION: I find that Zydus has failed to prove any of the assert
+## ded 20-1094 | AZURITY PHARMACEUTICALS, INC v ALKEM LABORATORIES LTD. | filed 2020-08-20 trial 2022-10-03..2022-10-06 term 2023-05-04 DISP 17 JURY N
+  2023-05-04 gov 75k [bench trial,infringe] MEMORANDUM OPINION. Signed by Judge Mitchell S. Goldberg on 5/4/2023. 
+## ded 18-304 | BIAL - PORTELA & CA S.A, ET  v ALKEM LABORATORIES LIMI, ET  | filed 2018-02-22 trial 2022-06-06..2022-06-08 term 2022-10-24 DISP 9 JURY N
+  2022-09-15 ded 109k [infringe,invalid,obvious,JUDGMENT] BIAL - PORTELA &amp; CA S.A. et al v. Alkem Laboratories Limited
+  2022-09-15 gov 117k [infringe,invalid,obvious,JUDGMENT] OPINION Signed by Judge Colm F. Connolly on 9/15/2022. (nmf) (Main Doc
+  2022-10-24 ded 6k [FINDINGS OF FACT,bench trial,infringe,invalid,JUDGMENT] BIAL - PORTELA &amp; CA S.A. et al v. Alkem Laboratories Limited
+  2022-10-24 gov 6k [FINDINGS OF FACT,bench trial,infringe,invalid,JUDGMENT] MEMORANDUM ORDER regarding final judgment. Signed by Judge Colm F. Con
+## ded 20-786 | BIAL - PORTELA & CA. S., ET  v ALKEM LABORATORIES LIMI, ET  | filed 2020-06-09 trial 2022-06-06..2022-06-08 term 2022-10-24 DISP 9 JURY N
+  2022-09-15 ded 109k [infringe,invalid,obvious,JUDGMENT] BIAL - PORTELA &amp; CA S.A. et al v. Alkem Laboratories Limited
+  2022-09-15 gov 117k [infringe,invalid,obvious,JUDGMENT] OPINION Signed by Judge Colm F. Connolly on 9/15/2022. (nmf) (Main Doc
+  2022-10-24 ded 6k [FINDINGS OF FACT,bench trial,infringe,invalid,JUDGMENT] BIAL - PORTELA &amp; CA S.A. et al v. Alkem Laboratories Limited
+  2022-10-24 gov 6k [FINDINGS OF FACT,bench trial,infringe,invalid,JUDGMENT] MEMORANDUM ORDER regarding final judgment. Signed by Judge Colm F. Con
+## ded 18-1395 | BIODELIVERY SCIENCES IN, ET  v ALVOGEN PB RESEARCH & D, ET  | filed 2018-09-07 trial ..2021-03-03 term 2022-01-21 DISP 9 JURY N
+  2021-12-20 ded 84k [infringe,invalid,written description,JUDGMENT] BioDelivery Sciences International, Inc. et al v. Alvogen Pb Research 
+  2021-12-20 gov 89k [infringe,invalid,written description,JUDGMENT] OPINION Signed by Judge Colm F. Connolly on 12/20/2021. (nmf)
+  2026-01-09 ded 3k [JUDGMENT] BioDelivery Sciences International, Inc. et al v. Alvogen Pb Research 
+  2026-01-12 ded 15k [infringe,injunction,JUDGMENT] BioDelivery Sciences International, Inc. et al v. Alvogen Pb Research 
+## ded 21-549 | CMP DEVELOPMENT, LLC v AMNEAL PHARMACEUTICALS LLC | filed 2021-04-16 trial 2023-01-13..2023-01-18 term 2023-10-11 DISP 9 JURY N
+  2023-09-29 ded 53k [infringe,JUDGMENT] CMP Development, LLC v. Amneal Pharmaceuticals LLC
+  2023-09-29 gov 54k [infringe] MEMORANDUM OPINION. Signed by Judge Maryellen Noreika on 9/29/2023. (d
+  2023-10-02 ded 53k [infringe,JUDGMENT] CMP Development, LLC v. Amneal Pharmaceuticals LLC
+  2024-05-07 ded 7k [invalid,JUDGMENT] CMP Development, LLC v. Amneal Pharmaceuticals LLC
+  2024-05-07 ded 7k [invalid,JUDGMENT] CMP Development, LLC v. Amneal Pharmaceuticals LLC
+  2024-05-07 ded 7k [invalid,JUDGMENT] CMP Development, LLC v. Amneal Pharmaceuticals LLC
+  2024-05-07 gov 7k [infringe,invalid,JUDGMENT] MEMORANDUM OPINION. Signed by Judge Maryellen Noreika on 5/7/2024. (dl
+## ded 21-1256 | EAGLE PHARMACEUTICALS, INC. v SLAYBACK PHARMA LLC, ET AL | filed 2021-08-31 trial 2022-09-29..2022-09-29 term 2022-10-25 DISP 9 JURY N
+  2022-10-25 ded 24k [infringe] Eagle Pharmaceuticals, Inc. v. Slayback Pharma LLC et al
+  2022-10-25 gov 26k [infringe] OPINION Signed by Judge Colm F. Connolly on 10/25/2022. (nmf)
+## ded 20-365 | EXELA PHARMA SCIENCES, LLC v ETON PHARMACEUTICALS, I, ET  | filed 2020-03-16 trial 2022-03-14..2022-03-16 term 2022-09-02 DISP 9 JURY D
+  2022-08-08 gov 118k [infringe,invalid,obvious] MEMORANDUM OPINION. Signed by Judge Maryellen Noreika on 8/8/2022. Thi
+  2022-08-11 ded 114k [infringe,invalid,obvious,JUDGMENT] Exela Pharma Sciences, LLC v. Eton Pharmaceuticals, Inc.
+## ded 19-2017 | EXELIXIS, INC. v MSN LABORATORIES PRIVAT, ET  | filed 2019-10-29 trial 2022-05-16..2022-05-19 term 2023-01-30 DISP 9 JURY N
+  2023-01-19 ded 62k [bench trial,post-trial,TRIAL OPINION,infringe,invalid,obvious,JUDGMENT] Exelixis, Inc. v. MSN Laboratories Private Limited et al
+  2023-01-19 gov 65k [bench trial,TRIAL OPINION,infringe,invalid,obvious,JUDGMENT] TRIAL OPINION: MSN failed to prove by clear and convincing evidence th
+## ded 22-228 | EXELIXIS, INC. v MSN LABORATORIES PRIVAT, ET  | filed 2022-02-23 trial 2023-10-23..2023-10-26 term 2024-10-23 DISP 9 JURY N
+  2024-10-15 ded 135k [bench trial,TRIAL OPINION,infringe,invalid,obvious,JUDGMENT] Exelixis, Inc. v. MSN Laboratories Private Limited et al
+  2024-10-15 gov 141k [bench trial,TRIAL OPINION,infringe,invalid,obvious,JUDGMENT] TRIAL OPINION: For the foregoing reasons, I find the asserted claim of
+## ded 22-434 | EXELTIS USA, INC., ET AL v LUPIN LTD., ET AL | filed 2022-04-01 trial 2024-02-26..2024-02-29 term 2024-10-30 DISP 9 JURY P
+  2024-09-04 ded 130k [bench trial,TRIAL OPINION,infringe,invalid,obvious,written description,JUDGMENT] Exeltis USA, Inc. et al v. Lupin Ltd. et al
+  2024-09-04 gov 136k [bench trial,TRIAL OPINION,infringe,invalid,obvious,written description,JUDGMENT] TRIAL OPINION: For the foregoing reasons, I find that Exeltis has prov
+  2024-10-29 ded 0k [] Exeltis USA, Inc. et al v. Lupin Ltd. et al
+  2024-10-29 gov 0k [] MEMORANDUM ORDER: Plaintiff&apos;s Motion to Voluntarily Dismiss Witho
+## ded 20-431 | FERRING PHARMACEUTICALS, ET  v FRESENIUS KABI USA, LLC, ET  | filed 2020-03-26 trial 2022-01-24..2022-01-27 term 2023-01-30 DISP 9 JURY P
+  2022-12-12 gov 186k [infringe,invalid,obvious] MEMORANDUM OPINION. Signed by Judge Maryellen Noreika on 12/12/2022. (
+## ded 21-1710 | GALDERMA LABORATORIES L, ET  v LUPIN INC., ET AL | filed 2021-12-03 trial 2024-01-09..2024-02-22 term 2024-04-01 DISP 9 JURY D
+  2024-03-22 gov 34k [infringe] [UNSEALED] MEMORANDUM OPINION Signed by Judge Stephanos Bibas on 3/22/
+  2024-04-01 ded 32k [infringe] Galderma Laboratories L.P. et al v. Lupin Inc. et al
+  2024-04-11 ded 12k [injunction,JUDGMENT] Galderma Laboratories L.P. et al v. Lupin Inc. et al
+  2024-04-11 gov 13k [injunction,JUDGMENT] [UNSEALED] MEMORANDUM OPINION. Signed by Judge Stephanos Bibas on 4/11
+## ded 19-78 | GENENTECH, INC., ET AL v LAURUS LABS LTD., ET AL | filed 2019-01-14 trial 2021-11-08..2021-11-12 term 2022-04-19 DISP 9 JURY N
+  2022-03-22 gov 86k [FINDINGS OF FACT,bench trial,post-trial,TRIAL OPINION,infringe,invalid,obvious,JUDGMENT] TRIAL OPINION: Plaintiffs have not proven their claim of induced infri
+## ded 19-202 | GENENTECH, INC., ET AL v SANDOZ, INC., ET AL | filed 2019-01-31 trial 2021-11-08..2021-11-12 term 2022-04-19 DISP 9 JURY N
+## ded 19-203 | GENENTECH, INC., ET AL v SANDOZ, INC., ET AL | filed 2019-01-31 trial 2021-11-08..2021-11-12 term 2022-04-19 DISP 9 JURY N
+## ded 18-88 | H. LUNDBECK A/S, ET AL v APOTEX INC., ET AL | filed 2018-01-12 trial 2021-01-15..2021-01-28 term 2021-10-28 DISP 9 JURY D
+  2021-10-05 ded 439k [infringe,invalid,obvious,written description] H. Lundbeck A/S et al. v. Lupin Limited et al.
+## ded 22-985 | HERON THERAPEUTICS, INC. v FRESENIUS KABI USA, LLC, ET  | filed 2022-07-27 trial 2024-06-28..2024-06-28 term 2024-12-09 DISP 17 JURY N
+  2024-12-03 gov 119k [FINDINGS OF FACT,infringe,invalid,obvious,written description,JUDGMENT] [UNSEALED on 12/16/2024] FINDINGS OF FACT AND CONCLUSIONS OF LAW Signe
+  2024-12-17 ded 113k [FINDINGS OF FACT,infringe,invalid,obvious,written description,JUDGMENT] Heron Therapeutics, Inc. v. Fresenius Kabi USA, LLC
+## ded 24-1363 | HERON THERAPEUTICS, INC. v AZURITY PHARMACEUTICALS, ET  | filed 2024-12-12 trial ..2025-11-18 term 2026-06-01 DISP 9 JURY N
+  2025-11-26 ded 18k [written description] Heron Therapeutics, Inc. v. Azurity Pharmaceuticals, Inc. et al
+  2026-07-01 ded 119k [FINDINGS OF FACT,post-trial,infringe,invalid,enablement,written description,JUDGMENT] Heron Therapeutics, Inc. v. Azurity Pharmaceuticals, Inc. et al
+## ded 18-1014 | HORIZON PHARMA, INC., ET AL v ALKEM LABORATORIES LTD. | filed 2018-07-09 trial 2020-09-14..2020-09-16 term 2020-11-30 DISP 9 JURY D
+## ded 21-1714 | HQ SPECIALTY PHARMA COR, ET  v FRESENIUS KABI USA, LLC | filed 2021-12-03 trial 2024-08-27..2024-08-30 term 2025-08-01 DISP 7 JURY D
+  2025-03-31 ded 52k [bench trial,post-trial,infringe,JUDGMENT] HQ Specialty Pharma Corp. et al v. Fresenius Kabi USA, LLC
+  2025-03-31 gov 54k [bench trial,infringe] MEMORANDUM OPINION (regarding Inequitable Conduct). Signed by Judge Ma
+  2025-07-02 ded 62k [infringe,invalid,JUDGMENT] HQ Specialty Pharma Corp. et al v. Fresenius Kabi USA, LLC
+  2025-07-02 gov 65k [infringe,invalid,JUDGMENT] MEMORANDUM OPINION. Signed by Judge Maryellen Noreika on 7/2/2025. (dl
+## ded 21-1784 | JANSSEN PHARMACEUTICALS, ET  v TOLMAR, INC., ET AL | filed 2021-12-21 trial 2023-12-07..2023-12-07 term 2024-03-13 DISP 9 JURY N
+  2024-02-26 gov 118k [FINDINGS OF FACT,infringe,invalid,JUDGMENT] FINDINGS OF FACT AND CONCLUSIONS OF LAW - Within three business days o
+  2024-02-28 ded 113k [FINDINGS OF FACT,infringe,invalid,JUDGMENT] Janssen Pharmaceuticals, Inc., et al. v. Tolmar, Inc.
+  2024-06-13 ded 113k [FINDINGS OF FACT,infringe,invalid,JUDGMENT] Janssen Pharmaceuticals, Inc., et al. v. Tolmar, Inc
+  2024-06-13 gov 17k [FINDINGS OF FACT,bench trial,after a,infringe,obvious,injunction,JUDGMENT] OPINION AND ORDER on Reconsideration re 175. Signed by Judge William C
+  2024-06-14 ded 16k [FINDINGS OF FACT,bench trial,after a,infringe,obvious,injunction,JUDGMENT] Janssen Pharmaceuticals, Inc., et al. v. Tolmar, Inc.
+## ded 21-691 | JAZZ PHARMACEUTICALS, INC. v AVADEL PHARMACEUTICALS , ET  | filed 2021-05-12 trial 2024-02-23..2024-03-04 term 2025-10-27 DISP 13 JURY B
+  2024-03-01 ded 50k [JUDGMENT] Jazz Pharmaceuticals, Inc. v. Avadel CNS Pharmaceuticals, LLC
+  2024-03-01 ded 3k [] Jazz Pharmaceuticals, Inc. v. Avadel CNS Pharmaceuticals, LLC
+  2024-09-24 gov 1k [] MEMORANDUM ORDER re (547 in 1:21-cv-01138-GBW, 670 in 1:21-cv-00691-GB
+  2025-09-08 gov 3k [] MEMORANDUM ORDER re (746 in 1:21-cv-00691-GBW, 614 in 1:21-cv-01594-GB
+## ded 22-35 | LINDIS BIOTECH, GMBH v AMGEN INC. | filed 2022-01-10 trial 2025-01-29..2025-01-30 term 2025-10-01 DISP 7 JURY P
+  2025-08-21 gov 8k [] OPINION-- PUBLIC VERSION OF D.I. 409 AS PER THE PARTIES LETTER OF 8/20
+## ded 19-97 | MAGNOLIA MEDICAL TECHNOLOGIE v KURIN, INC. | filed 2019-01-16 trial 2022-07-22..2022-07-28 term 2024-06-10 DISP 7 JURY P
+  2023-08-04 ded 52k [infringe,invalid,JUDGMENT] Magnolia Medical Technologies, Inc. v. Kurin, Inc.
+  2023-08-04 gov 55k [infringe] MEMORANDUM OPINION Signed by Judge Colm F. Connolly on 8/4/2023. (nmf)
+  2024-05-14 ded 24k [infringe,invalid,JUDGMENT] Magnolia Medical Technologies, Inc. v. Kurin, Inc.
+  2024-05-14 gov 25k [infringe,JUDGMENT] MEMORANDUM OPINION Signed by Judge Colm F. Connolly on 5/14/2024. (nmf
+## ded 21-870 | NOVARTIS PHARMACEUTICAL, ET  v FRESENIUS KABI USA, LLC, ET  | filed 2021-06-17 trial 2024-02-05..2024-02-07 term 2025-02-04 DISP 13 JURY N
+## ded 19-2021 | NOVARTIS PHARMACEUTICALS COR v ALEMBIC PHARMACEUTICALS, ET  | filed 2019-10-24 trial 2022-09-13..2022-09-14 term 2024-02-07 DISP 5 JURY N
+  2023-07-07 gov 4k [] TRIAL OPINION (Regarding the &apos;569 Patent): For the foregoing reas
+## ded 19-2053 | NOVARTIS PHARMACEUTICALS COR v DR. REDDY'S LABORATORIE, ET  | filed 2019-10-29 trial 2022-09-13..2022-09-14 term 2025-06-17 DISP 17 JURY N
+  2023-07-07 gov 4k [] TRIAL OPINION (Regarding the &apos;659 Patent): For the foregoing reas
+  2024-08-12 ded 17k [injunction] Novartis Pharmaceuticals Corporation v. Hetero USA Inc.. et al
+  2024-08-12 gov 18k [injunction] MEMORANDUM ORDER: Novartis&apos;s motion for an injunction pending app
+## ded 19-1979 | NOVARTIS PHARMACEUTICALS COR v ALKEM LABORATORIES LTD., ET  | filed 2019-10-17 trial 2022-10-18..2022-10-19 term 2024-09-06 DISP 17 JURY N
+  2023-07-07 gov 4k [] TRIAL OPINION (Regarding the &apos;569 Patent): For the foregoing reas
+## ded 21-1330 | NOVARTIS PHARMACEUTICALS COR v ALKEM LABORATORIES LTD., ET  | filed 2021-09-20 trial 2024-02-12..2024-02-16 term 2024-07-08 DISP 5 JURY N
+## ded 21-1760 | NOVARTIS PHARMACEUTICALS COR v HETERO USA INC., ET AL | filed 2021-12-16 trial 2024-02-12..2024-02-16 term 2024-06-21 DISP 5 JURY N
+## ded 21-1794 | NOVARTIS PHARMACEUTICALS COR v TORRENT PHARMA INC., ET AL | filed 2021-12-22 trial 2024-02-12..2024-02-16 term 2024-07-08 DISP 5 JURY N
+## ded 22-1395 | NOVARTIS PHARMACEUTICALS COR v ALEMBIC PHARMACEUTICALS, ET  | filed 2022-10-24 trial ..2024-12-13 term 2025-07-11 DISP 5 JURY D
+  2025-07-11 gov 2k [] TRIAL OPINION: I find that Novartis did not prove that MSN&apos;s ANDA
+## ded 23-401 | NOVARTIS PHARMACEUTICALS COR v NANJING NORATECH PHARMA, ET  | filed 2023-08-16 trial ..2024-12-13 term 2025-06-17 DISP 5 JURY D
+## ded 21-900 | OTSUKA PHARMACEUTICAL CO., L v LUPIN LIMITED, ET AL | filed 2021-06-23 trial 2023-12-18..2023-12-20 term 2024-08-07 DISP 9 JURY N
+  2024-07-31 ded 90k [TRIAL OPINION,after a,infringe,invalid,obvious,JUDGMENT] Otsuka Pharmaceutical Co., Ltd. v. Lupin Limited et al
+  2024-07-31 gov 93k [TRIAL OPINION,infringe,invalid,obvious,JUDGMENT] t a final judgment consistent with this memorandum opinion within one 
+## ded 18-823 | PAR PHARMACEUTICAL, INC, ET  v EAGLE PHARMACEUTICALS, INC. | filed 2018-05-31 trial ..2021-07-09 term 2021-09-16 DISP 9 JURY N
+  2021-08-31 ded 48k [infringe,JUDGMENT] Par Pharmaceutical, Inc. et al v. Eagle Pharmaceuticals, Inc.
+  2021-08-31 gov 50k [infringe] MEMORANDUM OPINION Signed by Judge Colm F. Connolly on 8/31/2021. (nmf
+## ded 18-2032 | PAR PHARMACEUTICAL, INC, ET  v AMPHASTAR PHARMACEUTICA, ET  | filed 2018-12-20 trial ..2021-07-09 term 2022-02-09 DISP 12 JURY N
+## ded 23-879 | PFIZER INC., ET AL v DEXCEL PHARMA TECHNOLOG, ET  | filed 2023-08-10 trial 2026-04-27..2026-04-28 term 2026-04-28 DISP 13 JURY N
+## ded 23-924 | PFIZER INC., ET AL v ZENARA PHARMA PRIVATE L, ET  | filed 2023-08-23 trial 2026-04-27..2026-04-28 term 2026-04-28 DISP 14 JURY N
+## ded 18-192 | PHARMACYCLICS LLC, ET AL v FRESENIUS KABI USA, LLC, ET  | filed 2018-02-01 trial ..2020-10-21 term 2021-05-11 DISP 13 JURY D
+## ded 19-434 | PHARMACYCLICS LLC, ET AL v ALVOGEN PINE BROOK LLC, ET A | filed 2019-03-01 trial ..2020-10-21 term 2021-08-30 DISP 9 JURY N
+  2020-11-10 gov 0k [] MEMORANDUM ORDER granting Plaintiffs&apos; request to preclude Sandoz 
+  2021-08-19 ded 140k [infringe,invalid,written description,JUDGMENT] Pharmacyclics LLC et al v. Alvogen Pine Brook LLC et al
+  2021-08-19 gov 149k [infringe,invalid,obvious,written description,JUDGMENT] MEMORANDUM OPINION Signed by Judge Colm F. Connolly on 8/19/2021. (nmf
+  2024-04-30 ded 16k [infringe] Pharmacyclics LLC, et al., v. Alvogen Pine Brook LLC, et al.,
+  2024-04-30 gov 16k [infringe] MEMORANDUM Signed by Judge Colm F. Connolly on 4/30/2024. (nmf)
+## ded 22-1442 | PIERRE FABRE MEDICAMENT, ET  v ANNORA PHARMA PRIVATE LIMITE | filed 2022-11-02 trial 2024-09-30..2024-10-01 term 2024-11-25 DISP 5 JURY N
+## ded 21-1338 | PUMA BIOTECHNOLOGY, INC, ET  v ASTRAZENECA PHARMACEUTI, ET  | filed 2021-09-22 trial 2024-05-13..2024-06-25 term 2024-08-14 DISP 17 JURY P
+  2024-08-06 ded 68k [FINDINGS OF FACT,bench trial,after a,infringe,invalid] Puma Biotechnology, Inc. v. AstraZeneca Pharmaceuticals LP et al
+  2024-08-06 gov 71k [FINDINGS OF FACT,bench trial,after a,infringe,invalid] FINDINGS OF FACT AND CONCLUSIONS OF LAW. Signed by Judge Matthew F Ken
+  2024-08-14 ded 80k [after a,infringe,invalid,enablement,written description,JUDGMENT] Puma Biotechnology, Inc. v. AstraZeneca Pharmaceuticals LP et al
+  2024-08-14 gov 84k [after a,infringe,invalid,enablement,written description,JUDGMENT] MEMORANDUM AND ORDER. Signed by Judge Matthew F Kennelly on 8/14/2024.
+## ded 20-1362 | PURDUE PHARMA L.P., ET AL v ACCORD HEALTHCARE INC., ET A | filed 2020-10-08 trial 2022-09-19..2022-10-04 term 2023-04-26 DISP 9 JURY N
+  2023-04-11 ded 100k [bench trial,TRIAL OPINION,infringe,invalid,obvious,JUDGMENT] Purdue Pharma L.P. et al v. Accord Healthcare Inc.
+  2023-04-11 gov 104k [bench trial,TRIAL OPINION,infringe,invalid,obvious,JUDGMENT] TRIAL OPINION: For the foregoing reasons, I find claim 3 of the Mannio
+## ded 22-913 | PURDUE PHARMA L.P., ET AL v ACCORD HEALTHCARE INC., ET A | filed 2022-07-08 trial 2024-02-13..2024-02-13 term 2024-09-09 DISP 9 JURY N
+  2024-09-09 gov 96k [FINDINGS OF FACT,post-trial,invalid,obvious,enablement,written description,JUDGMENT] FINDINGS OF FACT AND CONCLUSIONS OF LAW Signed by Judge William C. Bry
+## ded 19-5 | REX MEDICAL, L.P. v INTUITIVE SURGICAL, INC, ET  | filed 2019-01-02 trial 2022-10-17..2022-10-19 term 2023-09-20 DISP 7 JURY P
+  2023-09-20 ded 45k [infringe,JUDGMENT] Rex Medical, L.P. v. Intuitive Surgical, Inc. et al
+  2023-09-20 gov 46k [infringe,written description,JUDGMENT] MEMORANDUM OPINION. Signed by Judge Maryellen Noreika on 9/20/2023. (d
+## ded 20-430 | SALIX PHARMACEUTICALS, , ET  v NORWICH PHARMACEUTICALS, ET  | filed 2020-03-26 trial 2022-03-21..2022-03-25 term 2022-08-10 DISP 9 JURY N
+  2022-08-10 ded 87k [bench trial,TRIAL OPINION,infringe,invalid,obvious,written description,JUDGMENT] Salix Pharmaceuticals, Ltd. et al v. Norwich Pharmaceuticals, Inc.
+  2022-08-10 ded 3k [bench trial,after a,infringe,invalid,injunction,JUDGMENT] Salix Pharmaceuticals, Ltd. et al v. Norwich Pharmaceuticals, Inc.
+  2022-08-10 gov 91k [bench trial,TRIAL OPINION,infringe,invalid,obvious,written description,JUDGMENT] TRIAL OPINION for bench trial held March 21 through March 25, 2022. Si
+  2022-08-10 gov 3k [bench trial,after a,infringe,invalid,injunction,JUDGMENT] MEMORANDUM regarding dispute over final judgment (D.I. 190). Signed by
+  2023-05-17 gov 8k [bench trial,infringe,invalid,JUDGMENT] MEMORANDUM ORDER: Defendant&apos;s Rule 60(b) motion (D.I. 205) is DEN
+## ded 20-804 | SANOFI-AVENTIS U.S. LLC, ET  v ACTAVIS LLC, ET AL | filed 2020-06-12 trial 2023-01-11..2023-01-13 term 2023-07-05 DISP 9 JURY N
+  2023-06-26 ded 62k [bench trial,TRIAL OPINION,infringe,invalid,obvious,JUDGMENT] Sanofi-Aventis U.S. LLC, et al. v. Sandoz Inc.
+  2023-06-26 gov 64k [bench trial,TRIAL OPINION,infringe,invalid,obvious,JUDGMENT] opinion within one week. Signed by Judge Richard G. Andrews on 6/26/20
+## ded 19-2100 | SILVERGATE PHARMACEUTIC, ET  v ALKEM LABORATORIES LTD. | filed 2019-11-05 trial 2022-08-17..2022-08-18 term 2023-02-10 DISP 9 JURY N
+  2023-02-10 gov 106k [bench trial,infringe,invalid,obvious,written description] MEMORANDUM OPINION. Signed by Judge Mitchell S. Goldberg on 02/10/2023
+## ded 18-1962 | SILVERGATE PHARMACEUTICALS,  v BIONPHARMA INC. | filed 2018-12-12 trial 2021-02-01..2021-02-05 term 2021-05-17 DISP 9 JURY N
+  2021-08-02 ded 131k [infringe,written description] Silvergate Pharmaceuticals, Inc. v. Bionpharma Inc.
+  2024-10-04 ded 32k [bench trial,after a,infringe] Silvergate Pharmaceuticals, Inc. v. Bionpharma Inc.
+  2024-10-04 gov 33k [bench trial,after a,infringe] MEMORANDUM OPINION. Signed by Judge Mitchell S. Goldberg on 10/4/2024.
+## ded 19-678 | SILVERGATE PHARMACEUTICALS,  v AMNEAL PHARMACEUTICALS LLC | filed 2019-04-11 trial 2021-02-01..2021-02-05 term 2021-06-29 DISP 13 JURY N
+## ded 19-1067 | SILVERGATE PHARMACEUTICALS,  v BIONPHARMA INC. | filed 2019-06-07 trial 2021-02-01..2021-02-05 term 2021-05-17 DISP 9 JURY N
+  2021-08-02 ded 131k [infringe,written description] Silvergate Pharmaceuticals, Inc. v. Bionpharma Inc.
+  2024-10-04 ded 32k [bench trial,after a,infringe] Silvergate Pharmaceuticals, Inc. v. Bionpharma Inc.
+  2024-10-04 gov 33k [bench trial,after a,infringe] MEMORANDUM OPINION. Signed by Judge Mitchell S. Goldberg on 10/4/2024.
+## ded 21-186 | SUNOVION PHARMACEUTICAL, ET  v ALKEM LABORATORIES LIMI, ET  | filed 2021-02-10 trial 2022-06-06..2022-06-08 term 2022-10-24 DISP 9 JURY N
+  2022-09-15 ded 109k [infringe,invalid,obvious,JUDGMENT] BIAL - PORTELA &amp; CA S.A. et al v. Alkem Laboratories Limited
+  2022-09-15 gov 116k [infringe,invalid,obvious,JUDGMENT] OPINION Signed by Judge Colm F. Connolly on 9/15/2022. (nmf) (Main Doc
+  2022-10-24 ded 6k [FINDINGS OF FACT,bench trial,infringe,invalid,JUDGMENT] BIAL - PORTELA &amp; CA S.A. et al v. Alkem Laboratories Limited
+  2022-10-24 gov 6k [FINDINGS OF FACT,bench trial,infringe,invalid,JUDGMENT] MEMORANDUM ORDER regarding final judgment. Signed by Judge Colm F. Con
+## ded 19-2309 | TAIHO PHARMACEUTICAL CO, ET  v EUGIA PHARMA SPECIALITI, ET  | filed 2019-12-19 trial 2023-03-29..2023-03-30 term 2024-04-03 DISP 14 JURY N
+  2023-08-15 ded 92k [invalid,written description,JUDGMENT] Taiho Pharmaceutical Co., Ltd. et al v. Eugia Pharma Specialities Ltd.
+  2023-08-15 gov 97k [invalid,obvious,written description,JUDGMENT] OPINION. Signed by Judge Colm F. Connolly on 8/15/2023. Associated Cas
+  2023-08-15 gov 1k [JUDGMENT] ORDER. The parties shall submit no later thanAugust 22, 2023, a propos
+## ded 19-2321 | TAIHO PHARMACEUTICAL CO, ET  v ACCORD HEALTHCARE INC., ET A | filed 2019-12-20 trial 2023-03-29..2023-03-30 term 2024-04-02 DISP 14 JURY N
+  2023-08-15 ded 92k [invalid,written description,JUDGMENT] Taiho Pharmaceutical Co., Ltd. et al v. Eugia Pharma Specialities Ltd.
+  2023-08-15 gov 97k [invalid,obvious,written description,JUDGMENT] OPINION. Signed by Judge Colm F. Connolly on 8/15/2023. Associated Cas
+  2023-08-15 gov 1k [JUDGMENT] ORDER. The parties shall submit no later thanAugust 22, 2023, a propos
+## ded 19-2368 | TAIHO PHARMACEUTICAL CO, ET  v NATCO PHARMA LTD., ET AL | filed 2019-12-30 trial 2023-03-29..2023-03-30 term 2024-04-11 DISP 13 JURY N
+  2023-08-15 gov 97k [invalid,obvious,written description,JUDGMENT] OPINION. Signed by Judge Colm F. Connolly on 8/15/2023. Associated Cas
+  2023-08-15 gov 1k [JUDGMENT] ORDER. The parties shall submit no later thanAugust 22, 2023, a propos
+## ded 19-2342 | TAIHO PHARMACEUTICAL CO, ET  v MSN LABORATORIES PRIVAT, ET  | filed 2019-12-23 trial 2024-04-08..2024-04-09 term 2025-01-31 DISP 17 JURY N
+  2025-01-23 ded 20k [infringe,JUDGMENT] Taiho Pharmaceutical Co., Ltd. et al v. MSN Laboratories Private Ltd. 
+  2025-01-23 gov 21k [infringe,JUDGMENT] MEMORANDUM OPINION: This Memorandum Opinion addresses a claim construc
+## ded 19-2103 | THE UNITED STATES OF AMERICA v GILEAD SCIENCES, INC., ET AL | filed 2019-11-06 trial 2023-05-04..2023-05-09 term 2024-03-22 DISP 7 JURY P
+  2024-03-22 ded 61k [infringe,invalid,JUDGMENT] The United States of America v. Gilead Sciences, Inc. et al
+  2024-03-22 gov 63k [infringe,invalid,JUDGMENT] MEMORANDUM OPINION. Signed by Judge Maryellen Noreika on 3/22/2024. (d
+## ded 20-987 | UCB, INC., ET AL v ANNORA PHARMA PRIVATE L, ET  | filed 2020-07-24 trial 2022-11-14..2022-11-17 term 2023-09-12 DISP 9 JURY N
+  2023-08-16 ded 107k [infringe,invalid,obvious,JUDGMENT] UCB, Inc. et al v. Annora Pharma Private Limited et al
+  2023-08-16 gov 114k [infringe,invalid,obvious,JUDGMENT] OPINION. Signed by Judge Colm F. Connolly on 8/16/2023. (kmd)
+## ded 21-1229 | UCB, INC., ET AL v CIPLA LIMITED, ET AL | filed 2021-08-26 trial 2023-10-02..2023-10-05 term 2026-05-27 DISP 17 JURY N
+  2026-05-21 ded 87k [FINDINGS OF FACT,infringe,invalid,obvious,JUDGMENT] UCB, Inc. et al v. Cipla Limited et al
+## ded 20-755 | UNITED THERAPEUTICS CORPORAT v LIQUIDIA TECHNOLOGIES, INC. | filed 2020-06-04 trial 2022-03-28..2022-03-31 term 2022-09-09 DISP 9 JURY N
+  2022-05-12 ded 4k [invalid,JUDGMENT] United Therapeutics Corporation v. Liquidia Technologies, Inc.
+  2022-05-12 gov 4k [invalid,JUDGMENT] MEMORANDUM ORDER: The Report &amp; Recommendation (D.I. 360) is ADOPTE
+  2022-08-31 ded 110k [bench trial,infringe,invalid,enablement,JUDGMENT] United Therapeutics Corporation v. Liquidia Technologies, Inc.
+  2022-08-31 gov 115k [infringe,invalid,enablement,JUDGMENT] TRIAL OPINION. Signed by Judge Richard G. Andrews on 8/31/2022. (nms)
+  2023-12-15 ded 5k [bench trial,after a,infringe,invalid,obvious,enablement,written description,injunction,JUDGMENT] United Therapeutics Corporation v. Liquidia Technologies, Inc.
+  2023-12-15 gov 5k [bench trial,after a,infringe,invalid,obvious,enablement,written description,injunction,JUDGMENT] MEMORANDUM ORDER: The Motion to Stay Enforcement of Paragraph 4 of the
+  2024-03-13 gov 3k [injunction] MEMORANDUM ORDER: Regarding the request to modify the protective Order
+  2024-03-28 ded 8k [bench trial,after a,infringe,invalid,enablement,written description,injunction,JUDGMENT] United Therapeutics Corporation v. Liquidia Technologies, Inc.
+  2024-03-28 gov 9k [bench trial,after a,infringe,invalid,enablement,written description,injunction,JUDGMENT] MEMORANDUM ORDER: I GRANT Liquidia&apos;s motion for post-judgment rel
+## ded 18-651 | VANDA PHARMACEUTICALS INC. v TEVA PHARMACEUTICALS US, ET  | filed 2018-04-30 trial 2022-03-28..2022-03-31 term 2022-12-14 DISP 9 JURY N
+  2022-12-13 ded 99k [infringe,invalid,obvious,JUDGMENT] Vanda Pharmaceuticals Inc. v. Teva Pharmaceuticals USA, Inc.
+  2022-12-13 gov 106k [infringe,invalid,obvious,JUDGMENT] OPINION Signed by Judge Colm F. Connolly on 12/13/2022. (nmf)
+## ded 18-390 | VIFOR FRESENIUS MEDICAL, ET  v LUPIN ATLANTIS HOLDINGS, ET  | filed 2018-03-12 trial 2021-01-19..2021-01-22 term 2022-09-02 DISP 9 JURY D
+  2022-08-18 ded 107k [infringe,invalid,obvious,enablement,JUDGMENT] Vifor Fresenius Medical Care Renal Pharma Ltd. et al v. Lupin Atlantis
+  2022-08-18 gov 111k [infringe,invalid,obvious,enablement] MEMORANDUM OPINION. Signed by Judge Maryellen Noreika on 8/18/2022. (d
+## njd 20-12470 | ALKERMES, INC., ET AL v TEVA PHARMACEUTICAL IND, ET  | filed 2020-09-09 trial 2023-02-16..2023-06-06 term 2023-08-30 DISP 13 JURY N
+## njd 23-790 | BAUSCH & LOMB INCORPORA, ET  v LUPIN LTD., ET AL | filed 2023-02-10 trial 2025-01-13..2025-01-16 term 2026-01-05 DISP 12 JURY N
+## njd 20-5426 | BAUSCH HEALTH IRELAND L, ET  v PERRIGO ISRAEL PHARMACE, ET  | filed 2020-05-01 trial 2022-10-04..2022-10-07 term 2022-12-01 DISP 9 JURY N
+  2022-12-01 gov 168k [infringe,invalid,obvious] OPINION. Signed by Judge Stanley R. Chesler on 12/1/2022. (qa, )
+## njd 21-10057 | BAUSCH HEALTH IRELAND L, ET  v MSN LABORATORIES PRIVAT, ET  | filed 2021-04-22 trial 2025-11-10..2025-11-13 term 2026-04-06 DISP 13 JURY N
+## njd 18-11026 | CELGENE CORPORATION, ET AL v SANDOZ  INC. | filed 2018-06-26 trial 2021-06-14..2021-07-28 term 2021-09-28 DISP 9 JURY N
+## njd 19-18756 | CHIESI USA, INC., ET AL v AUROBINDO PHARMA USA, I, ET  | filed 2019-10-07 trial 2022-01-10..2022-04-26 term 2022-08-30 DISP 9 JURY N
+## njd 18-3632 | CORCEPT THERAPEUTICS, INC. v TEVA PHARMACEUTICALS US, ET  | filed 2018-03-15 trial 2023-09-26..2023-09-28 term 2023-12-29 DISP 9 JURY N
+  2023-12-29 gov 83k [infringe,JUDGMENT] OPINION. Signed by Chief Judge Renee Marie Bumb on 12/29/2023. (alb, )
+## njd 18-734 | JANSSEN PHARMACEUTICALS, ET  v TEVA PHARMACEUTICALS US, ET  | filed 2018-01-17 trial 2020-10-13..2021-11-16 term 2021-11-16 DISP 17 JURY N
+  2021-11-16 gov 218k [FINDINGS OF FACT,bench trial,post-trial,invalid] OPINION. Signed by Judge Claire C. Cecchi on 10/8/2021. (ams, )
+  2024-04-01 gov 78k [invalid,obvious] USCA OPINION re 275 Notice of Appeal (Federal Circuit), filed by TEVA 
+  2024-12-17 gov 136k [bench trial,infringe,invalid,obvious] OPINION - Unsealed pursuant to parties&apos; request (see DE#337). Sig
+  2025-07-08 gov 63k [invalid,obvious,JUDGMENT] FEDERAL CIRCUIT OPINION filed for the court by Prost, Circuit Judge; R
+## njd 20-13103 | JANSSEN PHARMACEUTICALS, ET  v MYLAN LABORATORIES LIMI, ET  | filed 2020-09-23 trial 2022-11-16..2023-03-16 term 2023-05-23 DISP 9 JURY N
+  2023-05-23 gov 10k [] REDACTED OPINION. Signed by Judge Evelyn Padin on 5/15/2023. (dam)
+  2025-03-28 gov 18k [after a,infringe,invalid,obvious] Federal Circuit OPINION filed for the court by Dyk, Circuit Judge; Pro
+## njd 20-2576 | MERCK SHARP & DOHME B.V, ET  v AUROBINDO PHARMA USA, I, ET  | filed 2020-03-10 trial 2022-12-19..2023-02-03 term 2023-06-29 DISP 9 JURY N
+  2023-06-13 gov 106k [after a,invalid] OPINION. Signed by Judge Claire C. Cecchi on 6/13/2023. (jl, )
+  2025-03-13 gov 32k [] FEDERAL CIRCUIT OPINION re 424 Notice of Appeal (Federal Circuit). Sig
+  2025-03-19 gov 1k [] Federal Circuit ERRATA to the Precedential Opinion. Service as of this
+## njd 17-5319 | MITSUBISHI TANABE PHARM, ET  v SANDOZ  INC., ET AL | filed 2017-07-20 trial 2020-09-24..2020-12-22 term 2021-04-05 DISP 6 JURY N
+## njd 20-12588 | OREXO AB, ET AL v SUN PHARMACEUTICALS IND, ET  | filed 2020-09-11 trial 2023-01-30..2023-03-30 term 2023-07-20 DISP 9 JURY N
+  2023-07-12 gov 163k [] REDACTED OPINION filed. Signed by Judge Georgette Castner on 7/12/2023
+## njd 21-19829 | PACIRA PHARMACEUTICALS, ET A v EVENUS PHARMACEUTICALS , ET  | filed 2021-11-08 trial 2024-02-06..2024-05-07 term 2024-08-27 DISP 9 JURY N
+  2024-08-09 gov 86k [infringe,invalid,obvious,enablement] OPINION. Signed by Judge Madeline Cox Arleo on 8/9/2024. (lag) (Modifi
+## njd 18-2213 | SUN PHARMA GLOBAL FZE, ET AL v LUPIN LIMITED, ET AL | filed 2020-07-31 trial 2021-03-22..2021-05-27 term 2021-09-30 DISP 9 JURY B
+  2021-09-30 gov 175k [bench trial,infringe,invalid,obvious,JUDGMENT] VACATED OPINION filed. Signed by Chief Judge Freda L. Wolfson on 9/30/
+## njd 21-6964 | SUPERNUS PHARMACEUTICALS, IN v AJANTA PHARMA LIMITED, ET AL | filed 2021-03-26 trial 2023-07-31..2023-10-04 term 2024-02-22 DISP 9 JURY N
+  2023-07-31 gov 14k [post-trial,infringe,JUDGMENT] MEMORANDUM ORDER granting 126 MOTION in Limine. The Court RESERVES on 
+  2024-01-30 gov 257k [after a,infringe,written description] OPINION Filed. Signed by Judge Georgette Castner on 1/30/2024. (jal, )
+## njd 20-8966 | TAKEDA PHARMACEUTICAL C, ET  v NORWICH PHARMACEUTICALS, ET  | filed 2020-07-15 trial 2022-11-07..2022-11-09 term 2022-12-27 DISP 9 JURY N
+  2022-12-27 gov 230k [infringe,JUDGMENT] OPINION. Signed by Judge Stanley R. Chesler on 12/27/2022. (qa, )
+## njd 20-10172 | TEVA BRANDED PHARMACEUT, ET  v CIPLA LTD. | filed 2020-08-07 trial 2022-11-16..2022-11-18 term 2023-06-29 DISP 9 JURY N
+  2023-06-21 gov 97k [infringe,invalid,obvious,JUDGMENT] *** UNSEALED pursuant to 306 Letter Order *** OPINION. Signed by Judge
+## njd 20-5212 | TRIS PHARMA, INC. v TEVA PHARMACEUTICALS USA, IN | filed 2020-04-28 trial 2022-05-23..2022-05-26 term 2022-09-22 DISP 5 JURY N
+  2022-08-16 gov 146k [infringe,invalid,obvious] OPINION. Signed by Judge Kevin McNulty on 8/16/2022. (sm)
+  2022-09-06 gov 148k [infringe,invalid,obvious] AMENDED OPINION. Signed by Judge Kevin McNulty on 9/6/2022. (dam)
+## njd 19-13955 | VIFOR (INTERNATIONAL) A, ET  v MYLAN LABORATORIES LTD. | filed 2019-06-18 trial 2021-07-12..2021-11-15 term 2021-12-29 DISP 13 JURY N
+## wvnd 20-110 | ACTELION PHARMACEUTICALS LTD v MYLAN PHARMACEUTICALS INC. | filed 2023-12-13 trial ..2024-02-20 term 2024-03-18 DISP 9 JURY N
+## wvnd 18-193 | ASTRAZENECA AB, ET AL v MYLAN PHARMACEUTICALS I, ET  | filed 2018-10-12 trial 2020-10-13..2021-01-12 term 2021-03-02 DISP 6 JURY N
+  2021-03-02 gov 69k [FINDINGS OF FACT,infringe,obvious,JUDGMENT] MEMORANDUM OPINION AND ORDER MAKING FINDINGS OF FACT AND GRANTING JUDG
+  2022-11-09 gov 99k [FINDINGS OF FACT,bench trial,infringe,invalid,enablement,written description,JUDGMENT] VACATED PER ORDER 625. MEMORANDUM OPINION AND ORDER FOLLOWING BENCH TR
+## wvnd 19-101 | MERCK SHARP & DOHME COR, ET  v MYLAN PHARMACEUTICALS I, ET  | filed 2021-08-20 trial 2021-12-13..2022-04-13 term 2022-09-26 DISP 9 JURY N
+  2022-10-26 gov 175k [bench trial,infringe,invalid,obvious,enablement,written description,JUDGMENT] MEMORANDUM OPINION AND ORDER FOLLOWING BENCH TRIAL. Signed by Senior J
+## wvnd 19-201 | NOVARTIS PHARMACEUTICALS COR v MYLAN PHARMACEUTICALS I, ET  | filed 2022-09-22 trial 2023-02-27..2023-03-01 term 2023-07-06 DISP 8 JURY N
+  2023-07-06 gov 180k [FINDINGS OF FACT,infringe,JUDGMENT] MEMORANDUM OPINION AND ORDER MAKING FINDINGS OF FACT AND GRANTING JUDG
+  2024-01-31 gov 181k [FINDINGS OF FACT,infringe,JUDGMENT] AMENDED MEMORANDUM OPINION AND ORDER MAKING FINDINGS OF FACT AND GRANT
+## wvnd 22-61 | REGENERON PHARMACEUTICALS, I v MYLAN PHARMACEUTICALS I, ET  | filed 2022-08-02 trial 2023-06-12..2023-08-03 term 2025-04-22 DISP 12 JURY P
+  2024-01-31 gov 475k [bench trial,infringe,invalid,obvious,enablement,written description,JUDGMENT] REDACTED MEMORANDUM OPINION AND ORDER FOLLOWING BENCH TRIAL. Signed by

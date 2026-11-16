@@ -1,0 +1,20 @@
+tickers,note,ruled,last_step_date,last_step_document,last_step,days_last_step_to_ruling,within_14d_before_cjra_cutoff
+LQDA UTHR,YUTREPIA '327 trial opinion,2026-09-30,2025-08-06,441,"Letter to The Honorable Richard G. Andrews, from Michael Flynn, regarding electronic version of Plaintiff's Reply Post-Trial Brief (D.I. 434",420,True
+GOOGL AAPL,search antitrust remedies,2025-09-02,,,,,False
+GOOGL,search antitrust liability,2024-08-05,2024-04-10,873,SEALED MOTION FOR LEAVE TO FILE DOCUMENT UNDER SEAL filed by APPLE INC. (This document is SEALED and only available to authorized persons.) ,117,False
+GOOGL,ad tech liability,2025-04-17,2024-11-25,1389,Minute Entry for proceedings held before District Judge Leonie M. Brinkema: Bench Trial (Day #16) held on 11/25/2024. Counsel appeared for P,143,False
+CPRI TPR,Tapestry-Capri merger blocked,2024-10-24,,,,,False
+KR ACI,Kroger-Albertsons blocked,2024-12-10,2024-10-07,495,"Motion to Seal Post Trial Filings. (DOCUMENT SEALED ACCORDING TO PROTECTIVE ORDER) Filed by C&S Wholesale Grocers, LLC. (Attachments: # 1 Pr",64,False
+META,FTC v Meta monopoly ruling,2025-11-18,,,,,False
+CORT,Korlym patent trial,2023-12-29,,,,,False
+REGN,Eylea biosimilar injunction denied,2024-09-23,,,,,True
+EXEL,Cabometyx patent ruling,2024-10-23,2024-02-27,180,"Letter to The Honorable Richard G. Andrews, from Dominick T. Gattuso, Esq., enclosing hyperlinked post-trial documents. (Gattuso, Dominick) ",239,False
+PCRX,Exparel patent ruling,2024-08-09,,,,,False
+NVS,Entresto trial opinion,2025-07-11,,,,,False
+LNTH,Pluvicto/Lutathera opinion,2026-06-17,,,,,False
+VRTX,Vertex patent opinion,2026-08-24,,,,,False
+AZN,Calquence patent opinion,2025-11-25,,,,,False
+ACAD,Nuplazid patent opinion,2025-05-16,,,,,False
+PFE,Pfizer patent opinion,2026-03-10,,,,,False
+NVO,Novo patent opinion,2025-07-22,,,,,False
+NTRA NEO,RaDaR preliminary injunction,2023-12-27,,,,,False

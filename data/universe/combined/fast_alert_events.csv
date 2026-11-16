@@ -1,0 +1,706 @@
+category,case_name,ticker,company_role,outcome,decision_date,first_public_source,first_public_time_et,time_precision,abn_ret_decision_day,market_cap_usd_at_filing,lead_minutes_vs_company_release,minutes_to_half_move,confidence
+drug_patent,Pacira Pharmaceuticals v. eVenus Pharmaceuticals,PCRX,brand,loss,2024-08-09,court docket (opinion posted under seal; result out before the close),2024-08-09 15:17,hour,-0.4824,2587589373.0,246.0,,high
+ptab,"Biofrontera AG v. Sun Pharmaceutical Industries, Inc. (US patent 11697028)",BFRI,petitioner,loss,2024-11-12,PTAB system (P-TACTS public document),2024-11-12 13:19,minute,0.1777,,,,high
+ptab,"At&T Enterprises, LLC v. Innovative Sonic Limited (US patent 9560559)",ERIC,petitioner,loss,2025-01-24,PTAB system (P-TACTS public document),2025-01-24 11:26,minute,-0.1409,,,23.0,medium
+ptab,Ford Motor Company v. AutoConnect Holdings LLC (US patent 9082239),F,petitioner,loss,2026-05-13,PTAB system (P-TACTS public document),2026-05-13 09:46,minute,0.1262,48567148365.0,,75.0,medium
+ptab,"CommScope Technologies LLC v. Belden, Inc.  (US patent 6998537)",COMM,petitioner,win,2024-12-18,PTAB system (P-TACTS public document),2024-12-18 14:03,minute,0.1225,,,4.0,medium
+ptab,"Hesai Technology Co. Ltd.  v. Ouster, Inc. (US patent 11178381)",HSAI,petitioner,win,2025-03-17,PTAB system (P-TACTS public document),2025-03-17 14:40,minute,0.1186,,,17.0,low
+ptab,"Micron Technology, Inc. v. Yangtze Memory Technologies Company, Ltd. (US patent 11568941)",MU,petitioner,loss,2026-07-21,PTAB system (P-TACTS public document),2026-07-21 14:27,minute,0.1134,112870005028.0,,,medium
+ptab,"Gilgamesh Pharmaceuticals, Inc. v. Enveric Biosciences Canada, Inc. (US patent 12138276)",ENVB,patent_owner,dismissed,2025-12-08,PTAB system (P-TACTS public document),2025-12-08 10:14,minute,-0.1081,31736063.0,,29.0,high
+ptab,"Roku, Inc. v. Dolby International AB  (US patent 6339757)",ROKU,petitioner,loss,2025-04-03,PTAB system (P-TACTS public document),2025-04-03 12:40,minute,-0.107,,,94.0,medium
+deal_litigation,"In re AMC Entertainment Holdings, Inc. Stockholder Litigation",AMC,appellee,win,2024-05-20,Delaware Courts opinions page (courts.delaware.gov),2024-05-20 14:10,hour,0.0966,2113796312.0,,,high
+ptab,"Voltage, LLC v. Shoals Technologies Group, LLC  (US patent 10553739)",SHLS,patent_owner,win,2024-11-22,PTAB system (P-TACTS public document),2024-11-22 12:58,minute,0.0946,,,110.0,high
+ptab,"Micron Technology, Inc. v. Yangtze Memory Technologies Company, Ltd. (US patent 11468957)",MU,petitioner,loss,2025-11-05,PTAB system (P-TACTS public document),2025-11-05 13:28,minute,0.0858,,,,medium
+drug_patent,"Exelixis, Inc. v. MSN Laboratories",EXEL,brand,win,2024-10-15,court docket (CM/ECF entry time via CourtListener RECAP),2024-10-15 11:00,minute,0.0837,6261184332.0,315.0,,high
+ptab,Genius Sports Ltd. v. SportsCastr Inc. (US patent 10425697),GENI,petitioner,win,2026-03-04,PTAB system (P-TACTS public document),2026-03-04 09:30,minute,-0.0735,,,,medium
+ptab,"Voltage, LLC v. Shoals Technologies Group, LLC  (US patent 10992254)",SHLS,patent_owner,win,2024-11-18,PTAB system (P-TACTS public document),2024-11-18 12:20,minute,-0.0699,,,53.0,high
+ptab,"American Airlines, Inc. v. Intellectual Ventures I LLC (US patent 8407722)",LUV,petitioner,loss,2025-10-23,PTAB system (P-TACTS public document),2025-10-23 09:58,minute,-0.0684,17768415613.0,,20.0,medium
+ptab,"Mobileye Global, Inc. v. Facet Technology Corp. (US patent 9335255)",MBLY,petitioner,loss,2026-01-23,PTAB system (P-TACTS public document),2026-01-23 12:29,minute,-0.0679,,,21.0,medium
+ptab,"Biofrontera Incorporated v. Sun Pharmaceutical Industries, Inc. (US patent 11697028)",BFRI,petitioner,dismissed,2026-07-29,PTAB system (P-TACTS public document),2026-07-29 14:18,minute,0.0665,,,27.0,high
+ptab,"Arashi Vision Inc. (d/b/a Insta360) v. GoPro, Inc. (US patent 10574894)",GPRO,patent_owner,win,2025-12-10,PTAB system (P-TACTS public document),2025-12-10 13:57,minute,-0.0655,,,,medium
+ptab,"Cambridge Industries USA Inc.  v. Applied Optoelectronics, Inc.  (US patent 10379301)",AAOI,patent_owner,win,2025-12-19,PTAB system (P-TACTS public document),2025-12-19 11:54,minute,0.0647,1398776639.0,,92.0,high
+ptab,"Micron Technology, Inc. v. Yangtze Memory Technologies Company, Ltd. (US patent 10672711)",MU,petitioner,win,2026-06-01,PTAB system (P-TACTS public document),2026-06-01 14:45,minute,0.0637,115420113196.0,,,medium
+deal_litigation,In re Oracle Corporation Derivative Litigation,ORCL,nominal defendant,loss,2025-01-21,Delaware Courts opinions page (courts.delaware.gov),2025-01-21 09:34,hour,0.0625,344883545947.0,1846.0,194.0,medium
+ptab,"American Airlines, Inc. v. Intellectual Ventures I LLC (US patent 7949785)",LUV,petitioner,loss,2025-11-05,PTAB system (P-TACTS public document),2025-11-05 09:37,minute,0.0623,15521793790.0,,124.0,medium
+ptab,"Accelight Technologies, Inc.  v. Applied Optoelectronics, Inc. (US patent 9523826)",AAOI,patent_owner,win,2026-03-03,PTAB system (P-TACTS public document),2026-03-03 13:41,minute,-0.0611,2060171072.0,,7.0,high
+ptab,"Cambridge Industries USA Inc.  v. Applied Optoelectronics, Inc.  (US patent 9523826)",AAOI,patent_owner,win,2025-06-27,PTAB system (P-TACTS public document),2025-06-27 14:31,minute,-0.0608,1398776639.0,,75.0,high
+ptab,"Hesai Technology Co. Ltd.  v. Ouster, Inc. (US patent 11178381)",OUST,patent_owner,loss,2025-03-17,PTAB system (P-TACTS public document),2025-03-17 14:40,minute,0.06,,,,high
+ptab,"Google LLC v. WIRELESSWERX IP LLC, (US patent 8315203)",GOOGL,petitioner,win,2024-12-10,PTAB system (P-TACTS public document),2024-12-10 11:59,minute,0.059,,,84.0,medium
+ptab,"American Airlines, Inc. v. Intellectual Ventures I LLC (US patent 7949785)",AAL,petitioner,loss,2025-11-05,PTAB system (P-TACTS public document),2025-11-05 09:37,minute,0.0574,6358755878.0,,41.0,medium
+merger_challenge,FTC et al. v. The Kroger Company and Albertsons Companies,KR,acquirer,loss,2024-12-10,"first price jump, Polygon 1-minute bars (ACI)",2024-12-10 15:21,inferred from price,0.057,34683403721.0,1857.0,2.0,medium
+ptab,"Micron Technology, Inc. v. Yangtze Memory Technologies Company, Ltd. (US patent 11482532)",MU,petitioner,loss,2025-08-08,PTAB system (P-TACTS public document),2025-08-08 15:14,minute,0.055,93768709797.0,,,medium
+ptab,"Samsung Electronics Co., Ltd. v. Cerence Operating Company (US patent 8682671)",CRNC,patent_owner,win,2025-06-25,PTAB system (P-TACTS public document),2025-06-25 15:55,minute,-0.0548,585027598.0,,2.0,high
+ptab,"Fresenius Kabi SwissBioSim GmbH v. Regeneron Pharmaceuticals, Inc. (US patent 11084865)",REGN,patent_owner,win,2025-11-20,PTAB system (P-TACTS public document),2025-11-20 15:19,minute,0.0546,53609846215.0,,7.0,medium
+ptab,"Reed Semiconductor Corporation v. Monolithic Power Systems, Inc. (US patent 9590608)",MPWR,patent_owner,win,2024-11-26,PTAB system (P-TACTS public document),2024-11-26 15:25,minute,-0.0531,,,,medium
+ptab,"SAMSUNG ELECTRONICS CO., LTD. v. OMNI MEDSCI, INC. (US patent 12193790)",FOSL,petitioner,loss,2026-05-14,PTAB system (P-TACTS public document),2026-05-14 11:19,minute,0.0531,87423986.0,,2.0,medium
+ptab,"Peloton Interactive, Inc. v. Johnson Health Tech Co., Ltd. (US patent 10032227)",PTON,petitioner,win,2024-11-20,PTAB system (P-TACTS public document),2024-11-20 10:59,minute,0.0526,,,46.0,high
+ptab,"Apple Inc.  v. Proxense, LLC (US patent 9679289)",AAPL,petitioner,loss,2025-05-02,PTAB system (P-TACTS public document),2025-05-02 11:51,minute,-0.0522,3355863864230.0,,,medium
+ptab,"lululemon usa inc. v. Nike, Inc. (US patent 9730484)",NKE,patent_owner,loss,2025-03-21,PTAB system (P-TACTS public document),2025-03-21 13:10,minute,-0.0519,,,3.0,medium
+ptab,"Samsung Electronics Co., Ltd. v. Network-1 Technologies, Inc. (US patent 11606204)",NTIP,patent_owner,win,2026-04-28,PTAB system (P-TACTS public document),2026-04-28 11:29,minute,-0.0503,33750279.0,,,high
+ptab,"American Airlines, Inc. v. Intellectual Ventures I LLC (US patent 8407722)",AAL,petitioner,loss,2025-10-23,PTAB system (P-TACTS public document),2025-10-23 09:58,minute,0.0503,7327182109.0,,60.0,medium
+ptab,"Arashi Vision Inc. (d/b/a Insta360) v. GoPro, Inc. (US patent 10529052)",GPRO,patent_owner,win,2025-04-28,PTAB system (P-TACTS public document),2025-04-28 15:17,minute,-0.0497,,,35.0,medium
+ptab,"Peloton Interactive, Inc. v. NEC Corporation (US patent 8752101)",PTON,petitioner,loss,2025-03-03,PTAB system (P-TACTS public document),2025-03-03 09:41,minute,-0.0489,,,185.0,medium
+ptab,"Align Technology, Inc. v. Dental Monitoring SAS (US patent 10755409)",ALGN,petitioner,win,2025-03-03,PTAB system (P-TACTS public document),2025-03-03 13:07,minute,-0.0463,,,105.0,medium
+ptab,"Meta Platforms, Inc. v. Sterling Computers Corporation (US patent 7716217)",META,petitioner,win,2026-08-03,PTAB system (P-TACTS public document),2026-08-03 11:46,minute,0.046,,,,medium
+ptab,Amgen Inc. v. Bristol-Myers Squibb Company (US patent 11332529),AMGN,petitioner,win,2025-10-01,PTAB system (P-TACTS public document),2025-10-01 11:31,minute,0.0459,165491354741.0,,48.0,medium
+ptab,Apple Inc. v. S.M.R Innovations LTD (US patent 8711866),AAPL,petitioner,loss,2025-01-27,PTAB system (P-TACTS public document),2025-01-27 14:31,minute,0.0459,,,17.0,medium
+ptab,"Roku, Inc. v. Universal Electronics, Inc. (US patent 10325486)",ROKU,petitioner,loss,2025-03-10,PTAB system (P-TACTS public document),2025-03-10 11:40,minute,-0.0454,,,,medium
+ptab,"Palo Alto Networks, Inc. v. Centripetal Networks, Inc. (US patent 9917856)",PANW,petitioner,win,2026-06-11,PTAB system (P-TACTS public document),2026-06-11 15:41,minute,0.045,,,13.0,medium
+ptab,Google LLC v. 138 East LCD Advancements Limited (US patent 8355574),GOOGL,petitioner,win,2025-05-21,PTAB system (P-TACTS public document),2025-05-21 14:22,minute,0.0448,,,,medium
+ptab,Canadian Solar Inc. v. Maxeon Solar Pte. Ltd. (US patent 11251315),CSIQ,petitioner,loss,2026-01-12,PTAB system (P-TACTS public document),2026-01-12 15:48,minute,0.0433,,,,medium
+ptab,"American Airlines, Inc. v. Intellectual Ventures II LLC (US patent 8332844)",LUV,petitioner,loss,2025-11-21,PTAB system (P-TACTS public document),2025-11-21 10:28,minute,0.0427,15933447740.0,,28.0,medium
+merger_challenge,FTC et al. v. The Kroger Company and Albertsons Companies,ACI,target,loss,2024-12-10,"first price jump, Polygon 1-minute bars (ACI)",2024-12-10 15:21,inferred from price,-0.0421,12350295035.0,1330.0,0.0,medium
+ptab,"American Airlines, Inc. v. Intellectual Ventures II LLC (US patent 8332844)",AAL,petitioner,loss,2025-11-21,PTAB system (P-TACTS public document),2025-11-21 10:28,minute,0.0415,6562147793.0,,81.0,medium
+deal_litigation,"Yatra Online, Inc. v. Ebix, Inc.",YTRA,plaintiff,dismissed,2021-08-30,Delaware Courts opinions page (courts.delaware.gov),2021-08-30 12:54,hour,-0.0412,,,,high
+ptab,"CrowdStrike, Inc. v. GoSecure, Inc. (US patent 9106697)",CRWD,petitioner,loss,2025-05-09,PTAB system (P-TACTS public document),2025-05-09 13:07,minute,-0.0409,,,,medium
+ptab,"Align Technology, Inc. v. Dental Monitoring SAS (US patent 11049248)",ALGN,petitioner,win,2025-04-16,PTAB system (P-TACTS public document),2025-04-16 10:18,minute,0.0407,,,34.0,medium
+ptab,fuboTV Media Inc. v. DISH Technologies L.L.C. (US patent 10757156),FUBO,petitioner,win,2025-11-19,PTAB system (P-TACTS public document),2025-11-19 12:55,minute,-0.0406,,,182.0,medium
+ptab,fuboTV Media Inc. v. DISH Technologies L.L.C. (US patent 10469555),FUBO,petitioner,split,2025-04-17,PTAB system (P-TACTS public document),2025-04-17 11:47,minute,0.0404,,,119.0,medium
+ptab,"American Airlines, Inc. v. Intellectual Ventures I LLC (US patent 7257582)",AAL,petitioner,loss,2025-11-04,PTAB system (P-TACTS public document),2025-11-04 10:07,minute,-0.0399,6253543785.0,,155.0,high
+ptab,Ericsson Inc. v. Pegasus Wireless Innovation LLC (US patent 10638463),GOOGL,petitioner,win,2026-06-02,PTAB system (P-TACTS public document),2026-06-02 12:01,minute,-0.0399,,,170.0,medium
+ptab,Amgen Inc. v. Bristol-Myers Squibb Company (US patent 11332529),BMY,patent_owner,loss,2025-10-01,PTAB system (P-TACTS public document),2025-10-01 11:31,minute,0.0398,120987582811.0,,,medium
+ptab,Disney Entertainment & Sports LLC v. Adeia Media Holdings Inc. (US patent 8280987),ADEA,patent_owner,dismissed,2026-02-25,PTAB system (P-TACTS public document),2026-02-25 14:55,minute,0.0381,1863640910.0,,,high
+ptab,"Roku, Inc. v. Intent IQ, LLC (US patent 10715878)",ROKU,petitioner,loss,2025-02-19,PTAB system (P-TACTS public document),2025-02-19 11:34,minute,-0.0377,,,162.0,medium
+ptab,"CommScope Technologies LLC v. Belden, Inc.  (US patent 9991030)",COMM,petitioner,loss,2024-12-11,PTAB system (P-TACTS public document),2024-12-11 12:35,minute,0.0374,,,4.0,medium
+ptab,Valve Corporation v. Immersion Corporation (US patent 7336260),IMMR,patent_owner,loss,2025-06-12,PTAB system (P-TACTS public document),2025-06-12 15:32,minute,-0.0368,,,,high
+ptab,"DISH Network L.L.C. v. Entropic Communications, LLC (US patent 7594249)",SATS,petitioner,win,2025-11-14,PTAB system (P-TACTS public document),2025-11-14 13:55,minute,-0.0367,,,119.0,medium
+ptab,"QIAGEN Sciences, LLC v. Tecan Group AG (US patent 10036012)",QGEN,petitioner,win,2026-05-13,PTAB system (P-TACTS public document),2026-05-13 14:19,minute,-0.0366,,,,low
+ptab,"Meta Platforms, Inc. v. Eight kHz, LLC (US patent 10798509)",META,petitioner,split,2025-01-06,PTAB system (P-TACTS public document),2025-01-06 14:42,minute,0.0365,,,59.0,medium
+ptab,"Samsung Electronics Co., Ltd. v. Cerence Operating Company (US patent 7680334)",CRNC,patent_owner,win,2025-08-04,PTAB system (P-TACTS public document),2025-08-04 12:39,minute,0.0364,712783384.0,,12.0,high
+ptab,"MIM Software Inc. v. Progenics Pharmaceuticals, Inc. (US patent 11894141)",LNTH,patent_owner,win,2025-10-10,PTAB system (P-TACTS public document),2025-10-10 09:41,minute,0.0363,6922981732.0,,154.0,high
+ptab,"Micron Technology, Inc. v. Yangtze Memory Technologies Company, Ltd. (US patent 10861872)",MU,petitioner,win,2025-10-23,PTAB system (P-TACTS public document),2025-10-23 15:30,minute,0.0356,,,,medium
+ptab,Ericsson Inc. v. Pegasus Wireless Innovation LLC (US patent 10638463),NOK,petitioner,win,2026-06-02,PTAB system (P-TACTS public document),2026-06-02 12:01,minute,0.0356,,,21.0,medium
+ptab,"At&T Enterprises, LLC v. Innovative Sonic Limited (US patent 9560559)",NOK,petitioner,loss,2025-01-24,PTAB system (P-TACTS public document),2025-01-24 11:26,minute,-0.0355,,,,medium
+ptab,"Nokia of America Corporation v. General Access Solutions, Ltd. (US patent 7230931)",NOK,petitioner,win,2024-12-05,PTAB system (P-TACTS public document),2024-12-05 15:06,minute,0.0352,,,,medium
+ptab,"ResMed Corp. v. Cleveland Medical Devices, Inc. (US patent 11786680)",RMD,petitioner,loss,2026-06-05,PTAB system (P-TACTS public document),2026-06-05 10:27,minute,0.0347,35437961042.0,,25.0,medium
+ptab,"Samsung Electronics Co., Ltd. v. Network-1 Technologies, Inc. (US patent 11233780)",NTIP,patent_owner,win,2026-05-06,PTAB system (P-TACTS public document),2026-05-06 11:15,minute,0.0347,32175722.0,,151.0,high
+ptab,Google LLC v. Multifold International Incorporated Pte. Ltd. (US patent 9158494),GOOGL,petitioner,loss,2026-05-13,PTAB system (P-TACTS public document),2026-05-13 13:45,minute,0.0338,,,,medium
+ptab,"Arashi Vision Inc. (d/b/a Insta360)  v. GoPro, Inc. (US patent 10958840)",GPRO,patent_owner,win,2025-11-25,PTAB system (P-TACTS public document),2025-11-25 11:06,minute,-0.0335,,,88.0,medium
+ptab,"Netflix, Inc. v. Avago Technologies International Sales Pte. Limited (US patent 8646014)",NFLX,petitioner,split,2026-01-21,PTAB system (P-TACTS public document),2026-01-21 14:37,minute,-0.0333,,,11.0,medium
+ptab,"Micron Technology, Inc. v. Palisade Technologies, LLP (US patent 9524974)",MU,petitioner,dismissed,2026-02-09,PTAB system (P-TACTS public document),2026-02-09 14:14,minute,-0.0332,215446130758.0,,100.0,medium
+ptab,"Peloton Interactive, Inc. v. NEC Corporation (US patent 9769427)",PTON,petitioner,win,2025-02-05,PTAB system (P-TACTS public document),2025-02-05 14:12,minute,0.0329,,,8.0,medium
+ptab,"Liberty Energy Inc. v. U.S. WELL SERVICES, LLC (US patent 11959533)",ACDC,patent_owner,dismissed,2025-04-08,PTAB system (P-TACTS public document),2025-04-08 10:27,minute,-0.0329,1076185165.0,,84.0,low
+ptab,"Micron Technology, Inc. v. Yangtze Memory Technologies Company, Ltd. (US patent 10879254)",MU,petitioner,loss,2025-08-28,PTAB system (P-TACTS public document),2025-08-28 10:53,minute,0.0326,,,,medium
+ptab,"Intel Corporation v. InterDigital, Inc. (US patent 9674556)",INTC,petitioner,loss,2025-04-01,PTAB system (P-TACTS public document),2025-04-01 10:43,minute,-0.0319,,,,medium
+ptab,"Meta Platforms, Inc. v. SitNet, LLC (US patent 12245325)",META,petitioner,loss,2026-04-14,PTAB system (P-TACTS public document),2026-04-14 15:16,minute,0.0319,,,,medium
+ptab,"QIAGEN Sciences, LLC v. Tecan Group AG (US patent 11098357)",QGEN,petitioner,win,2026-05-12,PTAB system (P-TACTS public document),2026-05-12 14:05,minute,0.0316,,,,low
+ptab,"Tableau Software, LLC v. iCharts LLC (US patent 8271892)",CRM,petitioner,win,2026-05-07,PTAB system (P-TACTS public document),2026-05-07 09:55,minute,0.0315,,,,medium
+ptab,"Microsoft Corporation v. X1 Discovery, Inc. (US patent 7370035)",DELL,petitioner,loss,2026-06-18,PTAB system (P-TACTS public document),2026-06-18 13:54,minute,-0.0312,,,57.0,medium
+ptab,"Dropbox, Inc. v. Motion Offense LLC (US patent 11611520)",DBX,petitioner,win,2025-07-01,PTAB system (P-TACTS public document),2025-07-01 10:02,minute,-0.0311,,,25.0,medium
+ptab,"Liberty Energy Inc. v. U.S. WELL SERVICES, LLC (US patent 11959533)",LBRT,petitioner,dismissed,2025-04-08,PTAB system (P-TACTS public document),2025-04-08 10:27,minute,-0.031,,,31.0,medium
+ptab,"Wix.com, Ltd. v. Express Mobile, Inc. (US patent 7594168)",EBAY,petitioner,win,2026-01-16,PTAB system (P-TACTS public document),2026-01-16 13:44,minute,-0.0308,,,41.0,medium
+ptab,Mylan Pharmaceuticals Inc. v. Bayer Pharma AG (US patent 10828310),JNJ,patent_owner,loss,2026-01-12,PTAB system (P-TACTS public document),2026-01-12 11:12,minute,0.0307,,,36.0,medium
+ptab,"Wix.com, Ltd. v. Express Mobile, Inc. (US patent 7594168)",EXPE,petitioner,win,2026-01-16,PTAB system (P-TACTS public document),2026-01-16 13:44,minute,-0.0303,,,102.0,medium
+ptab,Ericsson Inc. v. Pegasus Wireless Innovation LLC (US patent 10638463),ERIC,petitioner,win,2026-06-02,PTAB system (P-TACTS public document),2026-06-02 12:01,minute,0.0302,,,,medium
+ptab,"Charter Communications, Inc. v. Adaptive Spectrum and Signal Alignment, Inc. (US patent 11477108)",CHTR,petitioner,loss,2025-05-05,PTAB system (P-TACTS public document),2025-05-05 09:30,minute,0.0297,88758665731.0,,,medium
+ptab,"Caihong Display Devices Co., Ltd. v. Corning Incorporated (US patent 8627684)",GLW,patent_owner,win,2025-11-20,PTAB system (P-TACTS public document),2025-11-20 15:16,minute,-0.0296,43208984501.0,,,medium
+ptab,"Advanced Micro Devices, Inc. v. XtreamEdge, Inc. (US patent 10944634)",AMD,petitioner,loss,2025-08-29,PTAB system (P-TACTS public document),2025-08-29 11:41,minute,-0.0293,192886881146.0,,,medium
+ptab,Google LLC v. Cerence Operating Company (US patent 11393461),CRNC,patent_owner,win,2025-04-23,PTAB system (P-TACTS public document),2025-04-23 12:10,minute,0.0293,137117487.0,,26.0,high
+ptab,"Charter Communications, Inc. v. Iarnach Technologies Limited (US patent 9287982)",CHTR,petitioner,split,2026-02-19,PTAB system (P-TACTS public document),2026-02-19 11:58,minute,-0.0291,,,161.0,medium
+ptab,"Arashi Vision Inc. (d/b/a Insta360)  v. GoPro, Inc. (US patent 11336832)",GPRO,patent_owner,split,2025-12-02,PTAB system (P-TACTS public document),2025-12-02 10:44,minute,0.0285,,,,medium
+ptab,"Amazon.com, Inc. v. Audio Pod IP, LLC (US patent 10091266)",AMZN,petitioner,loss,2025-08-14,PTAB system (P-TACTS public document),2025-08-14 14:59,minute,0.0285,2072279997490.0,,,medium
+ptab,"Maplebear Inc. d/b/a Instacart  v. Consumeron, LLC (US patent 11238465)",CART,petitioner,win,2024-11-20,PTAB system (P-TACTS public document),2024-11-20 13:35,minute,-0.0284,,,116.0,medium
+ptab,"Facebook, Inc. v. Express Mobile (US patent 7594168)",META,petitioner,win,2026-06-25,PTAB system (P-TACTS public document),2026-06-25 15:06,minute,-0.028,,,42.0,medium
+ptab,"POSCO Co., Ltd. v. ArcelorMittal (US patent 10961602)",MT,patent_owner,loss,2026-07-16,PTAB system (P-TACTS public document),2026-07-16 10:13,minute,-0.0279,18908792128.0,,207.0,medium
+ptab,"Merck Sharp & Dohme LLC v. Halozyme, Inc. (US patent 12091692)",HALO,patent_owner,loss,2026-10-02,PTAB system (P-TACTS public document),2026-10-02 12:01,minute,0.0278,7490165460.0,,,high
+ptab,"Roku, Inc. v. Anonymous Media Research Holdings, LLC (US patent 8756622)",ROKU,petitioner,loss,2025-02-12,PTAB system (P-TACTS public document),2025-02-12 12:19,minute,0.0278,,,,medium
+deal_litigation,"Shareholder Representative Services LLC v. Alexion Pharmaceuticals, Inc.",AZN,defendant,loss,2024-09-05,Delaware Courts opinions page (courts.delaware.gov),2024-09-05 10:35,hour,-0.0276,,,,medium
+ptab,Apple Inc. v. Varia Holdings LLC (US patent 8381974),AAPL,petitioner,win,2026-02-27,PTAB system (P-TACTS public document),2026-02-27 10:44,minute,-0.0273,,,150.0,medium
+ptab,AT&T Corp.  v. Daingean Technologies Ltd. (US patent 10841958),ERIC,petitioner,win,2025-07-14,PTAB system (P-TACTS public document),2025-07-14 14:12,minute,-0.0268,,,37.0,medium
+ptab,"Meta Platforms, Inc. v. SitNet, LLC (US patent 10117290)",META,petitioner,win,2026-07-15,PTAB system (P-TACTS public document),2026-07-15 10:00,minute,0.0267,,,22.0,medium
+drug_patent,Sanofi-Aventis U.S. v. Actavis,SNY,brand,win,2023-06-26,court docket (CM/ECF entry time via CourtListener RECAP),2023-06-26 12:15,minute,0.0263,62051882023.0,,,high
+ptab,"SAP America, Inc. v. Cyandia, Inc. (US patent 8578285)",SAP,petitioner,loss,2025-04-07,PTAB system (P-TACTS public document),2025-04-07 11:51,minute,-0.0262,,,9.0,medium
+ptab,Merck Sharp & Dohme LLC v. The Johns Hopkins University (US patent 11339219),MRK,petitioner,win,2025-09-18,PTAB system (P-TACTS public document),2025-09-18 13:41,minute,-0.0262,,,,medium
+ptab,"DK Crown Holdings Inc. (formerly DraftKings Inc.), a Delaware corporation v. Diogenes Limited (US patent 11200779)",DKNG,petitioner,win,2025-05-09,PTAB system (P-TACTS public document),2025-05-09 13:35,minute,0.0262,,,21.0,medium
+ptab,Intel Corporation v. Telefonaktiebolaget LM Ericsson (US patent 9641841),INTC,petitioner,loss,2024-12-18,PTAB system (P-TACTS public document),2024-12-18 12:53,minute,-0.026,,,128.0,medium
+ptab,"Skechers U.S.A., Inc. v. Nike, Inc. (US patent 9986781)",NKE,patent_owner,win,2025-05-27,PTAB system (P-TACTS public document),2025-05-27 14:28,minute,0.026,64425081683.0,,,medium
+ptab,"Aptiv Services US, LLC v. Microchip Technology Inc. (US patent 7564665)",APTV,petitioner,loss,2024-11-07,PTAB system (P-TACTS public document),2024-11-07 14:26,minute,0.0259,,,,low
+ptab,"ResMed Corp. v. Cleveland Medical Devices, Inc. (US patent 11857333)",RMD,petitioner,win,2026-06-29,PTAB system (P-TACTS public document),2026-06-29 12:08,minute,-0.0258,34323781330.0,,54.0,medium
+ptab,"Cambridge Industries USA Inc.  v. Applied Optoelectronics, Inc. (US patent 10313024)",AAOI,patent_owner,win,2025-08-26,PTAB system (P-TACTS public document),2025-08-26 11:50,minute,0.0258,1398776639.0,,228.0,high
+ptab,"Bio-Rad Laboratories, Inc. v. California Institute of Technology (US patent 10068051)",BIO,petitioner,loss,2025-01-29,PTAB system (P-TACTS public document),2025-01-29 11:25,minute,-0.0256,,,,medium
+drug_patent,Sanofi-Aventis U.S. v. Actavis,TEVA,challenger,win,2023-06-26,court docket (CM/ECF entry time via CourtListener RECAP),2023-06-26 12:15,minute,0.0255,12412295640.0,,,high
+deal_litigation,"VT Shareholder Representative, LLC v. Edwards Lifesciences Corporation",EW,appellee,win,2024-07-31,Delaware Courts opinions page (courts.delaware.gov),2024-07-31 11:24,hour,-0.0255,,,,medium
+ptab,"Samsung Electronics Co., Ltd. v. EyesMatch Ltd. (US patent 8982110)",GOOGL,petitioner,win,2025-11-21,PTAB system (P-TACTS public document),2025-11-21 15:23,minute,0.0253,,,,medium
+ptab,Abbott Laboratories v. MIRACOR MEDICAL SA (US patent 11351356),ABT,petitioner,split,2026-06-11,PTAB system (P-TACTS public document),2026-06-11 15:18,minute,-0.0248,204197412226.0,,34.0,medium
+ptab,Robert Bosch LLC v. Westport Fuel Systems Canada Inc. (US patent 6298829),GM,petitioner,loss,2025-02-03,PTAB system (P-TACTS public document),2025-02-03 15:12,minute,-0.0248,,,,medium
+ptab,"Samsung Bioepis Co., Ltd. v. Regeneron Pharmaceuticals, Inc. (US patent 11084865)",REGN,patent_owner,win,2025-06-02,PTAB system (P-TACTS public document),2025-06-02 13:24,minute,-0.0248,69841531018.0,,45.0,medium
+ptab,"Apple Inc. v. Smith Interface Technologies, LLC (US patent 10642413)",AAPL,petitioner,win,2026-01-26,PTAB system (P-TACTS public document),2026-01-26 15:25,minute,0.0246,,,,medium
+drug_patent,Bausch & Lomb v. Lupin,BLCO,brand,dismissed,2026-01-05,court docket (CM/ECF entry time via CourtListener RECAP),2026-01-05 14:02,minute,0.0245,5838012600.0,,,medium
+ptab,Aylo Freesites Ltd  v. DISH Technologies L.L.C. (US patent 11991234),SATS,patent_owner,dismissed,2026-02-02,PTAB system (P-TACTS public document),2026-02-02 10:59,minute,0.0244,,,201.0,medium
+ptab,"Illumina, Inc. v. Molecular Loop Biosciences, Inc. (US patent 11768200)",ILMN,petitioner,win,2026-01-16,PTAB system (P-TACTS public document),2026-01-16 14:05,minute,-0.0243,,,21.0,medium
+ptab,Microsoft Corporation v. Sterling Computers Corporation (US patent 8073911),MSFT,petitioner,win,2026-09-14,PTAB system (P-TACTS public document),2026-09-14 13:59,minute,0.0242,3189786899327.0,,31.0,medium
+ptab,"Micron Technology, Inc. v. Yangtze Memory Technologies Company, Ltd. (US patent 11501822)",MU,petitioner,win,2025-10-07,PTAB system (P-TACTS public document),2025-10-07 12:59,minute,-0.0239,,,,medium
+ptab,"Micron Technology, Inc. v. Yangtze Memory Technologies Company, Ltd. (US patent 11450604)",MU,petitioner,loss,2025-05-08,PTAB system (P-TACTS public document),2025-05-08 13:50,minute,0.0237,,,21.0,medium
+ptab,"Cambridge Industries USA Inc.  v. Applied Optoelectronics, Inc. (US patent 10788690)",AAOI,patent_owner,win,2026-07-27,PTAB system (P-TACTS public document),2026-07-27 10:52,minute,-0.0235,1398776639.0,,92.0,high
+ptab,"Micron Technology, Inc. v. Yangtze Memory Technologies Company, Ltd. (US patent 11600342)",MU,petitioner,loss,2025-04-25,PTAB system (P-TACTS public document),2025-04-25 12:13,minute,0.0233,,,20.0,medium
+ptab,"Roku, Inc. v. ANCORA TECHNOLOGIES, INC. (US patent 6411941)",ROKU,petitioner,win,2026-01-22,PTAB system (P-TACTS public document),2026-01-22 10:44,minute,0.0233,,,206.0,medium
+ptab,Microsoft Corporation v. EyesMatch Ltd. (US patent 8982110),MSFT,petitioner,win,2025-11-21,PTAB system (P-TACTS public document),2025-11-21 15:23,minute,-0.0232,3246068946802.0,,,medium
+ptab,Apple Inc. v. Masimo Corporation (US patent 10736507),MASI,patent_owner,loss,2025-06-26,PTAB system (P-TACTS public document),2025-06-26 13:35,minute,-0.0231,,,,medium
+ptab,"Netflix, Inc. v. Avago Technologies International Sales Pte. Limited (US patent 8646014)",AVGO,patent_owner,split,2026-01-21,PTAB system (P-TACTS public document),2026-01-21 14:37,minute,-0.023,,,,medium
+ptab,Google LLC v. Mullen Industries LLC  (US patent 11109218),GOOGL,petitioner,loss,2025-06-25,PTAB system (P-TACTS public document),2025-06-25 15:56,minute,0.0229,,,,medium
+ptab,"Tessell, Inc. v. Nutanix, Inc. (US patent 10817157)",NTNX,patent_owner,win,2025-08-14,PTAB system (P-TACTS public document),2025-08-14 15:04,minute,-0.0226,19333029075.0,,,medium
+ptab,"Easebon Services Ltd. v. Hasbro, Inc. (US patent 8371282)",HAS,patent_owner,win,2025-10-10,PTAB system (P-TACTS public document),2025-10-10 15:58,minute,-0.0224,,,,medium
+ptab,Ericsson Inc. v. Pegasus Wireless Innovation LLC (US patent 11219000),GOOGL,petitioner,loss,2025-06-06,PTAB system (P-TACTS public document),2025-06-06 11:25,minute,0.0222,,,23.0,medium
+ptab,"Ericsson Inc.  v. General Access Solutions, Ltd. (US patent 7230931)",ERIC,petitioner,win,2024-12-05,PTAB system (P-TACTS public document),2024-12-05 15:06,minute,0.0222,,,,medium
+ptab,AT&T Corp.  v. Daingean Technologies Ltd. (US patent 10841958),NOK,petitioner,win,2025-07-14,PTAB system (P-TACTS public document),2025-07-14 14:12,minute,-0.022,,,40.0,medium
+ptab,"Harbor Freight Tools USA, Inc.  v. Champion Power Equipment, Inc. (US patent 10393034)",GNRC,petitioner,loss,2026-02-03,PTAB system (P-TACTS public document),2026-02-03 14:45,minute,0.022,6750692191.0,,13.0,low
+ptab,"Neurocrine Biosciences, Inc. v. Spruce Biosciences, Inc. (US patent 11007201)",NBIX,petitioner,win,2024-11-27,PTAB system (P-TACTS public document),2024-11-27 13:14,minute,-0.022,,,,medium
+deal_litigation,"VT Shareholder Representative, LLC v. Edwards Lifesciences Corporation",EW,defendant,dismissed,2023-12-12,Delaware Courts opinions page (courts.delaware.gov),2023-12-12 15:07,hour,0.022,,,,medium
+ptab,"Cisco Systems, Inc. v. Portsmouth Network Corporation (US patent 7596088)",CSCO,petitioner,loss,2026-03-31,PTAB system (P-TACTS public document),2026-03-31 15:40,minute,-0.0219,,,,medium
+ptab,"MOTOROLA SOLUTIONS, INC. v. Stellar, LLC (US patent 7593034)",MSI,petitioner,loss,2025-03-28,PTAB system (P-TACTS public document),2025-03-28 15:06,minute,0.0217,,,,medium
+ptab,"Cradlepoint, Inc. v. Sisvel S.p.A. (US patent 7869396)",DELL,petitioner,split,2025-09-29,PTAB system (P-TACTS public document),2025-09-29 14:47,minute,0.0212,,,,medium
+ptab,"Micron Technology, Inc. v. Yangtze Memory Technologies Company, Ltd. (US patent 11101276)",MU,petitioner,win,2026-07-20,PTAB system (P-TACTS public document),2026-07-20 14:45,minute,0.0211,108601345702.0,,17.0,medium
+ptab,"Microchip Technology, Inc. v. Aptiv Technologies AG (US patent 9619420)",APTV,patent_owner,split,2025-08-18,PTAB system (P-TACTS public document),2025-08-18 15:11,minute,0.0208,,,,low
+ptab,"Charter Communications, Inc. v. Touchstream Technologies, Inc. (US patent 11048751)",CHTR,petitioner,loss,2025-02-11,PTAB system (P-TACTS public document),2025-02-11 14:54,minute,0.0202,,,,medium
+ptab,"Meta Platforms, Inc. v. Intent IQ, LLC (US patent 10715878)",META,petitioner,loss,2025-02-19,PTAB system (P-TACTS public document),2025-02-19 11:34,minute,-0.0199,,,,medium
+ptab,"Micron Technology, Inc. v. Yangtze Memory Technologies Company, Ltd. (US patent 12010838)",MU,petitioner,win,2026-09-02,PTAB system (P-TACTS public document),2026-09-02 13:38,minute,0.0198,110592705970.0,,70.0,medium
+ptab,"UNION ELECTRIC COMPANY v. MES, Inc. (US patent 10596517)",AEE,petitioner,loss,2025-11-20,PTAB system (P-TACTS public document),2025-11-20 15:13,minute,0.0198,25957587189.0,,,medium
+ptab,Nokia of America Corporation v. Pegasus Wireless Innovation LLC (US patent 11627631),NOK,petitioner,loss,2025-04-25,PTAB system (P-TACTS public document),2025-04-25 10:26,minute,0.0195,,,,medium
+ptab,"Amazon.com Services LLC v. InterDigital VC Holdings, Inc. (US patent 12143606)",AMZN,petitioner,loss,2026-06-02,PTAB system (P-TACTS public document),2026-06-02 12:33,minute,-0.0195,2491461743524.0,,54.0,medium
+ptab,"CommScope Technologies LLC v. Belden, Inc.  (US patent 9991030)",BDC,patent_owner,win,2024-12-11,PTAB system (P-TACTS public document),2024-12-11 12:35,minute,0.0194,,,13.0,medium
+ptab,"Integrated DNA Technologies, Inc. v. Tecan Group AG (US patent 11725241)",DHR,petitioner,win,2025-08-12,PTAB system (P-TACTS public document),2025-08-12 12:39,minute,0.0192,,,,medium
+ptab,"Intel Corporation v. Collision Communications, Inc. (US patent 7463703)",INTC,petitioner,dismissed,2025-06-13,PTAB system (P-TACTS public document),2025-06-13 12:10,minute,-0.0192,89624140000.0,,126.0,medium
+ptab,Comcast Corporation v. Entropic Communications LLC (US patent 9825826),CMCSA,petitioner,split,2025-08-15,PTAB system (P-TACTS public document),2025-08-15 11:36,minute,0.0191,,,34.0,medium
+ptab,"Palo Alto Networks, Inc. v. Centripetal Networks, Inc., (US patent 10530903)",PANW,petitioner,loss,2025-07-21,PTAB system (P-TACTS public document),2025-07-21 09:45,minute,0.019,,,9.0,medium
+ptab,"Intas Pharmaceuticals, Limited. v. Atossa Therapeutics, Inc.  (US patent 11572334)",ATOS,patent_owner,loss,2025-01-29,PTAB system (P-TACTS public document),2025-01-29 13:43,minute,-0.0189,,,0.0,high
+ptab,Masimo Corporation v. Apple Inc. (US patent 10076257),AAPL,patent_owner,win,2024-10-15,PTAB system (P-TACTS public document),2024-10-15 12:41,minute,0.0188,,,,medium
+ptab,General Motors LLC  v. Neo Wireless LLC (US patent 10447450),GM,petitioner,loss,2025-09-03,PTAB system (P-TACTS public document),2025-09-03 11:24,minute,-0.0187,,,137.0,medium
+ptab,"WEATHERFORD U.S., L.P. v. Halliburton Energy Services, Inc. (US patent 11333007)",HAL,patent_owner,split,2025-12-09,PTAB system (P-TACTS public document),2025-12-09 12:12,minute,0.0187,,,,medium
+ptab,Comcast Corporation v. Entropic Communications LLC (US patent 11399206),CMCSA,petitioner,win,2025-10-01,PTAB system (P-TACTS public document),2025-10-01 11:15,minute,-0.0187,,,84.0,medium
+ptab,"Ecto World, LLC d/b/a Demand Vape v. RAI Strategic Holdings, Inc. (US patent 11925202)",BTI,patent_owner,win,2025-03-10,PTAB system (P-TACTS public document),2025-03-10 10:39,minute,0.0183,,,67.0,medium
+ptab,"Home Depot U.S.A., Inc.  v. H2 Intellect LLC (US patent 8433296)",HD,petitioner,loss,2025-10-20,PTAB system (P-TACTS public document),2025-10-20 15:27,minute,-0.0181,351787984255.0,,,medium
+ptab,"CRADLEPOINT, INC. v. 3G Licensing S.A. (US patent 7580388)",HON,petitioner,win,2025-05-07,PTAB system (P-TACTS public document),2025-05-07 14:31,minute,0.0181,,,,medium
+ptab,"Google LLC v. VirtaMove, Corp. (US patent 7519814)",GOOGL,petitioner,loss,2025-07-11,PTAB system (P-TACTS public document),2025-07-11 10:52,minute,0.018,,,39.0,medium
+ptab,Disney Entertainment & Sports LLC v. Adeia Media Holdings Inc. (US patent 8280987),DIS,petitioner,dismissed,2026-02-25,PTAB system (P-TACTS public document),2026-02-25 14:55,minute,-0.0179,202483308272.0,,,medium
+ptab,Comcast Corporation v. Entropic Communications LLC (US patent 8223775),CMCSA,petitioner,win,2025-08-29,PTAB system (P-TACTS public document),2025-08-29 10:32,minute,0.0179,,,74.0,medium
+ptab,Google LLC v. Multifold International Incorporated Pte. Ltd. (US patent 9141135),GOOGL,petitioner,win,2026-04-07,PTAB system (P-TACTS public document),2026-04-07 13:50,minute,0.0178,,,125.0,medium
+ptab,"Nokia of America Corporation v. SPADA INNOVATIONS, INC. (US patent 11589142)",NOK,petitioner,loss,2026-02-24,PTAB system (P-TACTS public document),2026-02-24 10:29,minute,-0.0178,,,,medium
+ptab,"Berkshire Hathaway Energy Company  v. MES, Inc. (US patent 10343114)",LNT,petitioner,loss,2026-05-18,PTAB system (P-TACTS public document),2026-05-18 11:16,minute,0.0175,15537081681.0,,269.0,medium
+ptab,Aylo Freesites Ltd v. DISH Technologies L.L.C (US patent 10469555),SATS,patent_owner,split,2025-04-17,PTAB system (P-TACTS public document),2025-04-17 11:47,minute,-0.0173,,,115.0,medium
+ptab,Ciena Corporation v. K.Mizra LLC (US patent 8782282),CIEN,petitioner,loss,2026-01-09,PTAB system (P-TACTS public document),2026-01-09 10:31,minute,0.0171,13284277475.0,,234.0,medium
+drug_patent,Merck Sharp & Dohme v. Aurobindo et al.,MRK,brand,win,2023-06-13,court docket (CM/ECF entry time via CourtListener RECAP),2023-06-13 15:04,minute,-0.0171,191091399530.0,,,high
+ptab,"Micron Technology, Inc. v. Yangtze Memory Technologies Company, Ltd. (US patent 10658378)",MU,petitioner,win,2026-01-05,PTAB system (P-TACTS public document),2026-01-05 11:27,minute,-0.017,,,14.0,medium
+ptab,Clearwater Paper Corporation v. -- (US patent 8637126),CLW,petitioner,win,2026-09-23,PTAB system (P-TACTS public document),2026-09-23 10:41,minute,-0.017,394673928.0,,305.0,medium
+ptab,"Intel Corporation v. Advanced Cluster Systems, Inc. (US patent 12021679)",AMD,petitioner,win,2026-09-01,PTAB system (P-TACTS public document),2026-09-01 15:31,minute,-0.0167,155663113030.0,,,medium
+ptab,"Meta Platforms, Inc. v. COGMEDIA LLC (US patent 9817562)",META,petitioner,loss,2026-08-25,PTAB system (P-TACTS public document),2026-08-25 14:30,minute,0.0165,,,67.0,medium
+ptab,"Google LLC v. Proxense, LLC (US patent 8646042)",GOOGL,petitioner,win,2025-11-12,PTAB system (P-TACTS public document),2025-11-12 13:27,minute,-0.0163,,,,medium
+ptab,"Apple Inc. v. MessageLoud, Inc. (US patent 9591117)",AAPL,petitioner,dismissed,2026-02-23,PTAB system (P-TACTS public document),2026-02-23 11:29,minute,0.0163,3445048134600.0,,,medium
+ptab,"MIM Software Inc. v. Progenics Pharmaceuticals, Inc. (US patent 11894141)",GEHC,petitioner,loss,2025-10-10,PTAB system (P-TACTS public document),2025-10-10 09:41,minute,-0.0162,37484742471.0,,86.0,medium
+ptab,Google LLC v. SoundClear Technologies LLC (US patent 9070374),GOOGL,petitioner,loss,2025-08-04,PTAB system (P-TACTS public document),2025-08-04 12:36,minute,0.016,,,85.0,medium
+ptab,"MIM Software Inc. v. Progenics Pharmaceuticals, Inc. (US patent 10665346)",LNTH,patent_owner,win,2025-10-08,PTAB system (P-TACTS public document),2025-10-08 14:47,minute,0.016,5439084771.0,,49.0,high
+ptab,"Belden Inc. v. CommScope, Inc. of North Carolina (US patent 9266697)",COMM,patent_owner,win,2025-09-12,PTAB system (P-TACTS public document),2025-09-12 14:05,minute,-0.016,,,11.0,medium
+ptab,"Google LLC v. Metarail, Inc. (US patent 9633378)",GOOGL,petitioner,loss,2025-08-25,PTAB system (P-TACTS public document),2025-08-25 14:14,minute,0.016,,,14.0,medium
+ptab,Lenovo (United States) Inc. v. Universal Connectivity Technologies Inc. (US patent 7746798),DELL,petitioner,loss,2025-04-17,PTAB system (P-TACTS public document),2025-04-17 14:37,minute,0.0158,,,,medium
+ptab,"Ecto World, LLC d/b/a Demand Vape v. RAI Strategic Holdings, Inc. (US patent 11925202)",BTI,patent_owner,win,2025-06-25,PTAB system (P-TACTS public document),2025-06-25 14:10,minute,-0.0158,,,,medium
+ptab,Merck Sharp & Dohme LLC  v. The Johns Hopkins University (US patent 11325974),MRK,petitioner,win,2025-11-06,PTAB system (P-TACTS public document),2025-11-06 10:03,minute,0.0157,,,,medium
+ptab,Apple Inc. v. Geoscope Technologies Pte. Ltd. (US patent 8786494),AAPL,petitioner,win,2025-05-07,PTAB system (P-TACTS public document),2025-05-07 14:53,minute,-0.0156,,,3.0,medium
+ptab,"Apple Inc. v. Allani, Ferid (US patent 8271877)",AAPL,petitioner,loss,2025-11-04,PTAB system (P-TACTS public document),2025-11-04 14:03,minute,0.0155,3130149351010.0,,,medium
+ptab,Novartis Pharmaceuticals Corporation v. The Regents of the University of Michigan (US patent 10633344),NVS,petitioner,win,2025-03-05,PTAB system (P-TACTS public document),2025-03-05 12:26,minute,-0.0155,,,168.0,low
+ptab,"Microchip Technology, Inc. v. Aptiv Technologies AG (US patent 11176072)",APTV,patent_owner,loss,2025-07-14,PTAB system (P-TACTS public document),2025-07-14 14:19,minute,0.0154,,,28.0,low
+ptab,"Apple Inc. v. IngenioSpec, LLC (US patent 11644693)",AAPL,petitioner,loss,2026-10-08,PTAB system (P-TACTS public document),2026-10-08 11:05,minute,0.0154,3979469808400.0,,71.0,medium
+ptab,"Charles River Laboratories, Inc. v. Seikagaku Corporation (US patent 11236318)",CRL,petitioner,win,2026-09-08,PTAB system (P-TACTS public document),2026-09-08 15:01,minute,-0.0154,8478378312.0,,49.0,medium
+ptab,"CRADLEPOINT, INC. v. 3G Licensing S.A. (US patent 7580388)",DELL,petitioner,win,2025-05-07,PTAB system (P-TACTS public document),2025-05-07 14:31,minute,0.0154,,,70.0,medium
+antitrust_conduct,United States v. Google LLC (search),GOOGL,defendant,loss,2024-08-05,court docket (CourtListener RECAP entry time),2024-08-05 14:42,minute,-0.0153,,326.0,,high
+ptab,Google LLC v. DH International Ltd. (US patent 9022294),GOOGL,petitioner,win,2026-02-10,PTAB system (P-TACTS public document),2026-02-10 09:49,minute,-0.0151,,,5.0,medium
+ptab,"Gilgamesh Pharmaceuticals, Inc. v. Enveric Biosciences Canada, Inc. (US patent 12138276)",ABBV,petitioner,dismissed,2025-12-08,PTAB system (P-TACTS public document),2025-12-08 10:14,minute,-0.0151,350909131376.0,,221.0,medium
+ptab,"New Balance Athletics, Inc. v. Nike, Inc. (US patent 8898932)",NKE,patent_owner,win,2025-06-09,PTAB system (P-TACTS public document),2025-06-09 15:13,minute,-0.0151,66700316910.0,,,medium
+ptab,Apple Inc. v. Ginko LLC (US patent 11025573),AAPL,petitioner,loss,2026-02-24,PTAB system (P-TACTS public document),2026-02-24 10:29,minute,0.0151,3451281098400.0,,2.0,medium
+ptab,Arm Ltd v. DAEDALUS PRIME LLC (US patent 8984228),ARM,petitioner,win,2026-09-09,PTAB system (P-TACTS public document),2026-09-09 14:05,minute,0.015,158036605799.0,,,medium
+ptab,"Globus Medical, Inc. v. Spinelogik, Inc. (US patent 9730805)",GMED,petitioner,win,2026-07-10,PTAB system (P-TACTS public document),2026-07-10 12:14,minute,0.0149,11561969009.0,,,medium
+ptab,"AT&T Enterprises, LLC v. Innovative Sonic Limited (US patent 9237489)",NOK,petitioner,loss,2025-02-04,PTAB system (P-TACTS public document),2025-02-04 12:06,minute,0.0149,,,,medium
+ptab,"PROFRAC HOLDING CORPORATION v. Halliburton Energy Services, Inc. (US patent 11373058)",HAL,patent_owner,loss,2024-10-29,PTAB system (P-TACTS public document),2024-10-29 10:47,minute,-0.0149,,,37.0,medium
+deal_litigation,"In re Tesla Motors, Inc. Stockholder Litigation",TSLA,nominal defendant,loss,2023-06-06,Delaware Courts opinions page (courts.delaware.gov),2023-06-06 09:37,hour,0.0148,902115980794.0,,,high
+ptab,"Meta Platforms, Inc. v. Mullen Industries LLC (US patent 10967270)",META,petitioner,win,2025-12-19,PTAB system (P-TACTS public document),2025-12-19 12:43,minute,-0.0146,,,192.0,medium
+ptab,"Belden Inc. v. CommScope, Inc. of North Carolina (US patent 9266697)",BDC,petitioner,loss,2025-09-12,PTAB system (P-TACTS public document),2025-09-12 14:05,minute,-0.0146,4105061617.0,,,medium
+deal_litigation,"In re GGP, Inc. Stockholder Litigation",BN,appellee,win,2022-07-19,Delaware Courts opinions page (courts.delaware.gov),2022-07-19 14:11,hour,0.0146,,,,high
+ptab,"Roku, Inc. v. Anonymous Media Research Holdings, LLC (US patent 8296791)",ROKU,petitioner,loss,2025-02-05,PTAB system (P-TACTS public document),2025-02-05 12:22,minute,0.0145,,,108.0,medium
+ptab,"Google LLC v. ART RESEARCH AND TECHNOLOGY, LLC (US patent 10609442)",GOOGL,petitioner,dismissed,2026-01-13,PTAB system (P-TACTS public document),2026-01-13 09:49,minute,0.0144,,,13.0,medium
+ptab,Ericsson Inc. v. XR COMMUNICATIONS LLC (US patent 8737511),NOK,petitioner,win,2025-11-25,PTAB system (P-TACTS public document),2025-11-25 13:49,minute,-0.0143,,,25.0,medium
+ptab,"Apple Inc. v. Haptic, Inc. (US patent 9996738)",AAPL,petitioner,loss,2025-04-04,PTAB system (P-TACTS public document),2025-04-04 14:34,minute,-0.0143,,,,medium
+ptab,Ford Motor Company v. Neo Wireless LLC (US patent 10447450),F,petitioner,loss,2025-09-03,PTAB system (P-TACTS public document),2025-09-03 11:25,minute,-0.014,,,,medium
+drug_patent,Regeneron Pharmaceuticals v. Mylan,REGN,brand,win,2023-12-27,court docket (CM/ECF entry time via CourtListener RECAP),2023-12-27 13:20,minute,0.0139,54182032147.0,,,medium
+ptab,"Hesai Technology Co., Ltd. v. Ouster, Inc. (US patent 11422236)",OUST,patent_owner,win,2025-01-21,PTAB system (P-TACTS public document),2025-01-21 09:59,minute,-0.0139,,,,high
+ptab,"Qualcomm Incorporated v. NETWORK SYSTEM TECHNOLOGIES, LLC (US patent 7594052)",QCOM,petitioner,win,2025-06-13,PTAB system (P-TACTS public document),2025-06-13 12:23,minute,-0.0139,,,124.0,medium
+ptab,"Apple Inc. v. Carbyne Biometrics, LLC (US patent 9972010)",AAPL,petitioner,win,2025-07-14,PTAB system (P-TACTS public document),2025-07-14 13:18,minute,-0.0139,,,,medium
+ptab,Lenovo (United States) Inc. v. Universal Connectivity Technologies Inc. (US patent 7746798),HPQ,petitioner,loss,2025-04-17,PTAB system (P-TACTS public document),2025-04-17 14:37,minute,0.0139,,,12.0,medium
+ptab,Apple Inc. v. DH International Ltd (US patent 9022294),AAPL,petitioner,win,2026-04-16,PTAB system (P-TACTS public document),2026-04-16 13:10,minute,-0.0138,3667854450950.0,,,medium
+ptab,"AT&T Enterprises, LLC v. Innovative Sonic Limited (US patent 7664059)",NOK,petitioner,loss,2025-02-11,PTAB system (P-TACTS public document),2025-02-11 13:46,minute,0.0137,,,59.0,medium
+ptab,"Micron Technology, Inc. v. Yangtze Memory Technologies Company, Ltd. (US patent 10950623)",MU,petitioner,split,2025-10-22,PTAB system (P-TACTS public document),2025-10-22 12:23,minute,-0.0137,,,157.0,medium
+ptab,"Microchip Technology, Inc. v. Aptiv Technologies AG (US patent 11681643)",APTV,patent_owner,loss,2025-07-09,PTAB system (P-TACTS public document),2025-07-09 13:07,minute,-0.0136,,,,low
+ptab,Apple Inc. v. HBCU Messaging US LP (US patent 11653183),AAPL,petitioner,loss,2026-04-14,PTAB system (P-TACTS public document),2026-04-14 15:17,minute,-0.0136,3995082560610.0,,,medium
+ptab,"Meta Platforms, Inc. v. Dialect, LLC (US patent 9263039)",META,petitioner,loss,2025-11-20,PTAB system (P-TACTS public document),2025-11-20 15:25,minute,0.0133,,,,medium
+deal_litigation,"Brookfield Asset Management, Inc. v. Rosson",BN,appellant,win,2021-09-20,Delaware Courts opinions page (courts.delaware.gov),2021-09-20 12:52,hour,-0.0132,,,,high
+ptab,"Apple Inc. v. Carbyne Biometrics, LLC (US patent 10929512)",AAPL,petitioner,win,2025-07-01,PTAB system (P-TACTS public document),2025-07-01 12:00,minute,0.0132,,,,medium
+ptab,"Viant Technology LLC v. AlmondNet, Inc. (US patent 8959146)",DSP,petitioner,loss,2025-11-20,PTAB system (P-TACTS public document),2025-11-20 15:58,minute,0.0131,,,,medium
+ptab,"Mastercard Incorporated v. OV Loop, Inc. (US patent 10032171)",MA,petitioner,win,2025-08-07,PTAB system (P-TACTS public document),2025-08-07 11:50,minute,-0.0131,,,,medium
+ptab,"Skechers U.S.A., Inc. v. Nike, Inc. (US patent 9918511)",NKE,patent_owner,win,2025-06-16,PTAB system (P-TACTS public document),2025-06-16 09:37,minute,0.0131,64425081683.0,,,medium
+ptab,"American Airlines, Inc. v. Intellectual Ventures I LLC (US patent 7257582)",LUV,petitioner,loss,2025-11-04,PTAB system (P-TACTS public document),2025-11-04 10:07,minute,-0.0131,15284729356.0,,46.0,medium
+ptab,fuboTV Media Inc. v. DISH Technologies L.L.C. (US patent 10757156),SATS,patent_owner,loss,2025-11-19,PTAB system (P-TACTS public document),2025-11-19 12:55,minute,-0.013,,,,medium
+ptab,"Amazon.com, Inc.  v. Audio Pod IP, LLC (US patent 9729907)",AMZN,petitioner,loss,2025-10-03,PTAB system (P-TACTS public document),2025-10-03 15:27,minute,-0.013,2243978408268.0,,,medium
+deal_litigation,Hollywood Firefighters' Pension Fund v. Malone (Charter / Liberty Broadband),LBRDA,defendant,split,2023-07-19,Delaware Courts opinions page (courts.delaware.gov),2023-07-19 15:52,hour,0.013,,,,medium
+ptab,"BabyBjorn AB v. The Ergo Baby Carrier, Inc. (US patent 11786055)",CODI,patent_owner,win,2025-04-22,PTAB system (P-TACTS public document),2025-04-22 13:42,minute,0.0129,1576593640.0,,88.0,medium
+ptab,"Keysight Technologies, Inc. v. Centripetal Networks, Inc. (US patent 10681009)",KEYS,petitioner,win,2024-11-01,PTAB system (P-TACTS public document),2024-11-01 13:39,minute,0.0128,,,,medium
+ptab,"Apple Inc. v. Omni MedSci, Inc. (US patent 10517484)",AAPL,petitioner,split,2025-02-14,PTAB system (P-TACTS public document),2025-02-14 13:07,minute,0.0128,,,,medium
+ptab,"CommScope Technologies LLC v. Belden, Inc.  (US patent 6998537)",BDC,patent_owner,loss,2024-12-18,PTAB system (P-TACTS public document),2024-12-18 14:03,minute,-0.0128,,,43.0,medium
+ptab,"Apple Inc. v. Resonant Systems, Inc. (US patent 8093767)",AAPL,petitioner,win,2025-10-09,PTAB system (P-TACTS public document),2025-10-09 15:29,minute,-0.0127,,,,medium
+ptab,"Microsoft Corporation v. Sandpiper CDN, LLC (US patent 9762692)",MSFT,petitioner,loss,2026-05-26,PTAB system (P-TACTS public document),2026-05-26 15:21,minute,-0.0127,3538703649099.0,,,medium
+ptab,Apple Inc. v. Rally AG LLC (US patent 11361107),AAPL,petitioner,loss,2025-03-31,PTAB system (P-TACTS public document),2025-03-31 15:36,minute,0.0127,,,,medium
+ptab,"Cradlepoint, Inc. v. Sisvel S.p.A. (US patent 7869396)",ERIC,petitioner,split,2025-09-29,PTAB system (P-TACTS public document),2025-09-29 14:47,minute,-0.0126,,,,medium
+ptab,Comcast Corporation v. Entropic Communications LLC (US patent 8792008),CMCSA,petitioner,win,2025-09-03,PTAB system (P-TACTS public document),2025-09-03 11:10,minute,-0.0125,,,137.0,medium
+ptab,"Berkshire Hathaway Energy Company  v. MES, Inc. (US patent 10343114)",BRK-B,petitioner,loss,2026-05-18,PTAB system (P-TACTS public document),2026-05-18 11:16,minute,0.0125,440566034.0,,,medium
+ptab,Google LLC v. -- (US patent 8646042),GOOGL,petitioner,loss,2024-11-20,PTAB system (P-TACTS public document),2024-11-20 15:45,minute,-0.0124,,,,medium
+ptab,"QUALCOMM INCORPORATED v. COBBLESTONE WIRELESS, LLC, (US patent 7924802)",QCOM,petitioner,split,2026-03-05,PTAB system (P-TACTS public document),2026-03-05 13:18,minute,-0.0124,,,106.0,medium
+ptab,"Walt Disney Parks and Resorts U.S., Inc.  v. Agile Journeys LLC (US patent 7212983)",DIS,petitioner,split,2025-04-14,PTAB system (P-TACTS public document),2025-04-14 13:01,minute,-0.0124,,,,low
+ptab,"Microsoft Corporation v. InterDigital Patent Holdings, Inc. (US patent 8737933)",IDCC,patent_owner,loss,2025-06-23,PTAB system (P-TACTS public document),2025-06-23 13:38,minute,0.0124,,,24.0,high
+ptab,"Amazon.com, Inc. v. SoundClear Technologies LLC (US patent 9070374)",AMZN,petitioner,loss,2025-10-17,PTAB system (P-TACTS public document),2025-10-17 10:11,minute,-0.0123,2173379664761.0,,,medium
+ptab,"Dropbox, Inc. v. Motion Offense LLC (US patent 11611520)",DBX,petitioner,win,2025-06-30,PTAB system (P-TACTS public document),2025-06-30 14:15,minute,0.0123,,,,medium
+ptab,"Azurity Pharmaceuticals, Inc. v. EXELIXIS, INC. (US patent 11298349)",EXEL,patent_owner,win,2025-06-04,PTAB system (P-TACTS public document),2025-06-04 10:34,minute,-0.0122,9858187770.0,,271.0,high
+ptab,"Netflix, Inc.  v. GOTV STREAMING, LLC (US patent 8103865)",NFLX,petitioner,loss,2024-10-29,PTAB system (P-TACTS public document),2024-10-29 13:57,minute,0.0122,,,,medium
+ptab,"Nokia of America Corporation v. General Access Solutions, Ltd. (US patent 6947477)",ERIC,petitioner,loss,2025-04-14,PTAB system (P-TACTS public document),2025-04-14 13:27,minute,0.0122,,,150.0,medium
+ptab,Nokia of America Corporation v. Pegasus Wireless Innovation LLC (US patent 11627631),ERIC,petitioner,loss,2025-04-25,PTAB system (P-TACTS public document),2025-04-25 10:26,minute,-0.0121,,,,medium
+ptab,Robert Bosch LLC v. Westport Fuel Systems Canada Inc. (US patent 6298829),F,petitioner,loss,2025-02-03,PTAB system (P-TACTS public document),2025-02-03 15:12,minute,-0.0121,,,,medium
+ptab,"Fresenius Kabi SwissBiosim, GmbH v. Regeneron Pharmaceuticals, Inc. (US patent 10828345)",REGN,patent_owner,win,2026-01-09,PTAB system (P-TACTS public document),2026-01-09 10:28,minute,-0.012,53609846215.0,,20.0,medium
+ptab,Shopify Inc. v. DKR Consulting LLC (US patent 10846785),SHOP,petitioner,loss,2025-06-02,PTAB system (P-TACTS public document),2025-06-02 13:19,minute,-0.012,,,79.0,medium
+ptab,"Aptiv Services US, LLC v. Microchip Technology, Inc. (US patent 9471074)",MCHP,patent_owner,loss,2026-03-20,PTAB system (P-TACTS public document),2026-03-20 14:22,minute,0.012,,,,medium
+ptab,"TVision Insights, Inc. v. The Nielsen Company (US) LLC (US patent 11470243)",BN,patent_owner,loss,2025-01-06,PTAB system (P-TACTS public document),2025-01-06 12:46,minute,-0.012,,,,medium
+ptab,"CrowdStrike, Inc. v. GoSecure, Inc. (US patent 9954872)",CRWD,petitioner,loss,2025-08-13,PTAB system (P-TACTS public document),2025-08-13 12:06,minute,-0.0119,,,,medium
+ptab,"ResMed Corp. v. Cleveland Medical Devices, Inc.  (US patent 11375921)",RMD,petitioner,loss,2026-05-18,PTAB system (P-TACTS public document),2026-05-18 14:53,minute,0.0119,35437961042.0,,,medium
+ptab,Precision Planting LLC v. Maschio Holding S.p.A. (US patent 8770121),AGCO,petitioner,loss,2025-03-21,PTAB system (P-TACTS public document),2025-03-21 15:21,minute,-0.0119,,,,medium
+ptab,"American Airlines, Inc. v. Intellectual Ventures II LLC (US patent 7324469)",LUV,petitioner,loss,2025-11-18,PTAB system (P-TACTS public document),2025-11-18 15:35,minute,0.0119,15933447740.0,,,medium
+ptab,"Merck Sharp & Dohme LLC v. Halozyme, Inc. (US patent 12049652)",MRK,petitioner,win,2026-09-25,PTAB system (P-TACTS public document),2026-09-25 12:15,minute,0.0119,239089330116.0,,82.0,medium
+ptab,"Apple Inc. v. MyPort Technologies, Inc. (US patent 11188998)",AAPL,petitioner,dismissed,2026-03-04,PTAB system (P-TACTS public document),2026-03-04 12:25,minute,-0.0117,3477845396500.0,,51.0,medium
+ptab,"Intel Corporation v. InterDigital, Inc. (US patent 9674556)",IDCC,patent_owner,win,2025-04-01,PTAB system (P-TACTS public document),2025-04-01 10:43,minute,-0.0116,,,199.0,medium
+ptab,Google LLC v. Headwater Research LLC (US patent 8589541),GOOGL,petitioner,loss,2024-12-04,PTAB system (P-TACTS public document),2024-12-04 11:06,minute,0.0115,,,,medium
+ptab,Canadian Solar (USA) Inc. v. Trina Solar Co. Ltd. (US patent 10230009),CSIQ,petitioner,win,2026-04-15,PTAB system (P-TACTS public document),2026-04-15 11:33,minute,0.0115,649678837.0,,18.0,medium
+ptab,"Roku, Inc. v. Anonymous Media Research Holdings, LLC (US patent 8510768)",ROKU,petitioner,loss,2025-02-10,PTAB system (P-TACTS public document),2025-02-10 13:38,minute,-0.0115,,,123.0,medium
+ptab,"Hesai Technology Co., Ltd. v. Ouster, Inc. (US patent 11422236)",HSAI,petitioner,loss,2025-01-21,PTAB system (P-TACTS public document),2025-01-21 09:59,minute,0.0114,,,,low
+ptab,"Motorola Solutions, Inc. v. STA Group LLC (US patent 8831664)",MSI,petitioner,win,2025-03-14,PTAB system (P-TACTS public document),2025-03-14 11:09,minute,-0.0114,,,10.0,medium
+ptab,Snap Inc. v. Nokia Technologies Oy (US patent 8050321),NOK,patent_owner,win,2025-11-20,PTAB system (P-TACTS public document),2025-11-20 15:07,minute,-0.0113,,,20.0,medium
+ptab,"Merck Sharp & Dohme LLC v. Halozyme, Inc. (US patent 12264345)",HALO,patent_owner,loss,2026-10-01,PTAB system (P-TACTS public document),2026-10-01 13:25,minute,-0.0112,6433368410.0,,145.0,high
+ptab,"Charter Communications, Inc. v. Touchstream Technologies, Inc. (US patent 8356251)",CHTR,petitioner,split,2025-06-12,PTAB system (P-TACTS public document),2025-06-12 10:03,minute,-0.0112,,,,medium
+ptab,"Micron Technology, Inc. v. Yangtze Memory Technologies Company, Ltd. (US patent 11145666)",MU,petitioner,win,2026-06-09,PTAB system (P-TACTS public document),2026-06-09 14:53,minute,-0.0112,115841435415.0,,64.0,medium
+ptab,Ford Motor Company v. Neo Wireless LLC (US patent 10075941),F,petitioner,win,2024-11-01,PTAB system (P-TACTS public document),2024-11-01 12:32,minute,-0.011,,,60.0,medium
+ptab,Google LLC  v. Multifold International Incorporated Pte. Ltd. (US patent 8842080),GOOGL,petitioner,win,2026-04-22,PTAB system (P-TACTS public document),2026-04-22 15:51,minute,0.011,,,,medium
+ptab,"AT&T Enterprises, LLC v. Innovative Sonic Limited (US patent 7664059)",ERIC,petitioner,loss,2025-02-11,PTAB system (P-TACTS public document),2025-02-11 13:46,minute,0.011,,,,medium
+ptab,"Axon Enterprise, Inc. v. Airspace Systems, Inc. (US patent 10713959)",AXON,petitioner,win,2026-10-06,PTAB system (P-TACTS public document),2026-10-06 15:47,minute,0.011,50550053558.0,,4.0,medium
+ptab,"IKEA Supply AG v. Everlight Electronics Co., Ltd. (US patent 7554126)",PHG,petitioner,loss,2024-12-12,PTAB system (P-TACTS public document),2024-12-12 14:00,minute,-0.011,,,52.0,medium
+ptab,HP Inc. v. Universal Connectivity Technologies Inc. (US patent 7187307),HPQ,petitioner,loss,2025-04-16,PTAB system (P-TACTS public document),2025-04-16 10:23,minute,0.0109,,,,medium
+ptab,Merck Sharp & Dohme LLC  v. The Johns Hopkins University (US patent 11634491),MRK,petitioner,win,2025-09-19,PTAB system (P-TACTS public document),2025-09-19 12:59,minute,0.0109,,,56.0,medium
+ptab,"Cisco Systems, Inc. v. WSOU Investments LLC d/b/a Brazos Licensing and Development (US patent 8982691)",CSCO,petitioner,loss,2025-08-22,PTAB system (P-TACTS public document),2025-08-22 11:19,minute,-0.0109,229307621263.0,,,medium
+ptab,Google LLC v. Dialect LLC (US patent 7398209),GOOGL,petitioner,loss,2024-10-15,PTAB system (P-TACTS public document),2024-10-15 14:20,minute,0.0108,,,,medium
+ptab,Google LLC v. Geoscope Technologies Pte. Ltd. (US patent 7561104),GOOGL,petitioner,win,2025-02-18,PTAB system (P-TACTS public document),2025-02-18 15:25,minute,-0.0108,,,,medium
+ptab,Belden Inc. v. CommScope Technologies LLC (US patent 10996417),COMM,patent_owner,win,2025-11-20,PTAB system (P-TACTS public document),2025-11-20 15:40,minute,-0.0106,,,,medium
+deal_litigation,"In re Tesla, Inc. Derivative Litigation (Tornetta v. Musk)",TSLA,nominal defendant,win,2025-12-19,Delaware Courts opinions page (courts.delaware.gov),2025-12-19 12:43,hour,-0.0106,1267138918445.0,,24.0,high
+ptab,Apple Inc. v. Masimo Corporation (US patent 10736507),AAPL,petitioner,win,2025-06-26,PTAB system (P-TACTS public document),2025-06-26 13:35,minute,-0.0106,,,,medium
+ptab,"Element TV Company, LP v. Nokia Technologies Oy (US patent 7532808)",NOK,patent_owner,dismissed,2025-08-28,PTAB system (P-TACTS public document),2025-08-28 13:56,minute,-0.0105,,,,medium
+ptab,"Apple Inc. v. Proxense, LLC (US patent 8646042)",AAPL,petitioner,win,2025-08-04,PTAB system (P-TACTS public document),2025-08-04 12:52,minute,-0.0104,,,,medium
+ptab,Valve Corporation  v. Immersion Corporation (US patent 9116546),IMMR,patent_owner,loss,2025-07-31,PTAB system (P-TACTS public document),2025-07-31 14:01,minute,-0.0104,,,26.0,high
+ptab,"Tessell, Inc. v. Nutanix, Inc. (US patent 11010336)",NTNX,patent_owner,win,2025-06-12,PTAB system (P-TACTS public document),2025-06-12 15:44,minute,-0.0103,16967895819.0,,,medium
+ptab,"Arista Networks, Inc. v. Corrigent Corporation (US patent 9118602)",ANET,petitioner,loss,2024-12-03,PTAB system (P-TACTS public document),2024-12-03 11:40,minute,0.0102,,,12.0,medium
+ptab,"Google LLC v. Secure Communication Technologies, LLC (US patent 11334918)",GOOGL,petitioner,loss,2025-12-23,PTAB system (P-TACTS public document),2025-12-23 13:31,minute,0.0102,,,,medium
+ptab,Ericsson Inc. v. Active Wireless Technologies LLC (US patent 11019557),NOK,petitioner,loss,2024-11-12,PTAB system (P-TACTS public document),2024-11-12 09:46,minute,-0.0101,,,12.0,medium
+ptab,"Microsoft Corporation v. Edge Networking Systems, LLC (US patent 11695823)",MSFT,petitioner,win,2026-03-25,PTAB system (P-TACTS public document),2026-03-25 12:55,minute,-0.0101,3036261364241.0,,,medium
+ptab,Comcast Corporation v. Entropic Communications LLC (US patent 11381866),CMCSA,petitioner,win,2025-09-29,PTAB system (P-TACTS public document),2025-09-29 12:50,minute,-0.0101,,,,medium
+ptab,Google LLC v. Cerence Operating Company (US patent 11393461),GOOGL,petitioner,loss,2025-04-23,PTAB system (P-TACTS public document),2025-04-23 12:10,minute,0.0101,,,20.0,medium
+ptab,"American Airlines, Inc. v. Intellectual Ventures II LLC (US patent 7324469)",AAL,petitioner,loss,2025-11-18,PTAB system (P-TACTS public document),2025-11-18 15:35,minute,0.01,6562147793.0,,,medium
+ptab,"Micron Technology, Inc. v. Yangtze Memory Technologies Company, Ltd. (US patent 10879254)",MU,petitioner,loss,2025-06-04,PTAB system (P-TACTS public document),2025-06-04 12:38,minute,0.01,125742507566.0,,,medium
+ptab,Google LLC v. EyesMatch Ltd. (US patent 8982109),GOOGL,petitioner,loss,2025-11-04,PTAB system (P-TACTS public document),2025-11-04 11:46,minute,-0.0099,,,,medium
+ptab,Cellco Partnership d/b/a Verizon Wireless v. Pegasus Wireless Innovation LLC (US patent 11540272),NOK,petitioner,loss,2025-06-26,PTAB system (P-TACTS public document),2025-06-26 11:41,minute,-0.0098,,,109.0,medium
+ptab,"M&A Ventures, LLC v. Autoscribe Corporation (US patent 11620621)",RPAY,petitioner,loss,2025-01-29,PTAB system (P-TACTS public document),2025-01-29 12:18,minute,0.0098,,,,medium
+ptab,"Merck Sharp & Dohme LLC v. Halozyme, Inc. (US patent 12264345)",MRK,petitioner,win,2026-10-01,PTAB system (P-TACTS public document),2026-10-01 13:25,minute,0.0098,198622572112.0,,,medium
+ptab,Intel Corporation v. BeSang Inc. (US patent 7378702),INTC,petitioner,loss,2024-12-11,PTAB system (P-TACTS public document),2024-12-11 11:16,minute,-0.0097,,,,medium
+ptab,"Amazon.com, Services LLC v. VB Assets, LLC (US patent 11087385)",AMZN,petitioner,loss,2025-11-20,PTAB system (P-TACTS public document),2025-11-20 15:21,minute,-0.0097,2294193755153.0,,14.0,medium
+deal_litigation,TC Energy Corp. v. Columbia Pipeline stockholders,TRP,appellant,win,2025-06-17,Delaware Courts opinions page (courts.delaware.gov),2025-06-17 14:49,hour,-0.0097,40202653374.0,,51.0,medium
+drug_patent,Regeneron Pharmaceuticals v. Mylan,VTRS,challenger,win,2023-12-27,court docket (CM/ECF entry time via CourtListener RECAP),2023-12-27 13:20,minute,-0.0097,11711077746.0,,,medium
+ptab,"Liberty Energy Inc. v. U.S. WELL SERVICES, LLC (US patent 10598258)",LBRT,petitioner,loss,2025-04-29,PTAB system (P-TACTS public document),2025-04-29 15:04,minute,-0.0096,,,,medium
+ptab,Apple Inc. v. Telcom Ventures LLC (US patent 11924743),AAPL,petitioner,loss,2026-01-16,PTAB system (P-TACTS public document),2026-01-16 11:14,minute,-0.0095,3011411938800.0,,,medium
+ptab,"Dr. Squatch, LLC  v. The Procter & Gamble Company (US patent 10966915)",PG,patent_owner,loss,2026-01-26,PTAB system (P-TACTS public document),2026-01-26 15:41,minute,-0.0095,,,,medium
+ptab,Google LLC v. 138 East LCD Advancements Limited (US patent 7428082),GOOGL,petitioner,win,2025-12-19,PTAB system (P-TACTS public document),2025-12-19 13:46,minute,0.0094,,,128.0,medium
+ptab,"Merck Sharp & Dohme LLC v. Halozyme, Inc. (US patent 12018298)",HALO,patent_owner,loss,2026-06-08,PTAB system (P-TACTS public document),2026-06-08 14:58,minute,-0.0093,6080178330.0,,30.0,high
+ptab,Google LLC v. 138 East LCD Advancements Limited (US patent 7668365),GOOGL,petitioner,loss,2025-01-08,PTAB system (P-TACTS public document),2025-01-08 15:06,minute,-0.0093,,,,medium
+ptab,"Activision Blizzard, Inc. v. Milestone Entertainment, LLC (US patent 11335164)",MSFT,petitioner,win,2026-10-08,PTAB system (P-TACTS public document),2026-10-08 14:39,minute,-0.0093,2899030052183.0,,,medium
+ptab,"The Boeing Company v. Laser Spallation Technologies, LLC (US patent 7487684)",BA,petitioner,loss,2025-10-02,PTAB system (P-TACTS public document),2025-10-02 13:26,minute,0.0092,,,,medium
+ptab,"Apple Inc. v. Smith Interface Technologies, LLC (US patent 10656754)",AAPL,petitioner,loss,2025-02-13,PTAB system (P-TACTS public document),2025-02-13 12:30,minute,0.0091,,,,medium
+ptab,Belden Inc. v. CommScope Technologies LLC (US patent 10996417),BDC,petitioner,loss,2025-11-20,PTAB system (P-TACTS public document),2025-11-20 15:40,minute,-0.009,4400740475.0,,,medium
+ptab,"Berkshire Hathaway Energy Company  v. MES, Inc. (US patent 10343114)",MGEE,petitioner,loss,2026-05-18,PTAB system (P-TACTS public document),2026-05-18 11:16,minute,0.0089,3396266220.0,,,medium
+ptab,"Arista Networks, Inc. v. Orckit Corporation (US patent 7545740)",ANET,petitioner,loss,2025-03-25,PTAB system (P-TACTS public document),2025-03-25 14:39,minute,-0.0089,,,,medium
+ptab,Cellco Partnership d/b/a Verizon Wireless v. Pegasus Wireless Innovation LLC (US patent 11540272),GOOGL,petitioner,loss,2025-06-26,PTAB system (P-TACTS public document),2025-06-26 11:41,minute,0.0089,,,119.0,medium
+ptab,"Amphenol Corp.  v. PPC Broadband, Inc. (US patent 9008483)",APH,petitioner,win,2025-02-19,PTAB system (P-TACTS public document),2025-02-19 11:49,minute,0.0089,,,,medium
+ptab,APPLE INC. v. Smart Mobile Technologies LLC (US patent 8472936),AAPL,petitioner,loss,2026-06-03,PTAB system (P-TACTS public document),2026-06-03 10:21,minute,-0.0087,,,24.0,medium
+ptab,"Microchip Technology, Inc. v. Aptiv Technologies AG (US patent 11176072)",MCHP,petitioner,win,2025-07-14,PTAB system (P-TACTS public document),2025-07-14 14:19,minute,-0.0087,,,30.0,medium
+ptab,"Google LLC v. Proxense, LLC (US patent 8352730)",GOOGL,petitioner,win,2025-04-28,PTAB system (P-TACTS public document),2025-04-28 10:29,minute,-0.0087,,,,medium
+ptab,"SAP AMERICA, INC. v. Express Mobile, Inc. (US patent 7594168)",SAP,petitioner,win,2026-01-16,PTAB system (P-TACTS public document),2026-01-16 13:44,minute,-0.0087,,,,medium
+ptab,"Merck Sharp & Dohme LLC v. Halozyme, Inc. (US patent 12110520)",MRK,petitioner,win,2026-09-01,PTAB system (P-TACTS public document),2026-09-01 10:49,minute,0.0087,247701922358.0,,,medium
+ptab,"Merck Sharp & Dohme LLC v. Halozyme, Inc. (US patent 12018298)",MRK,petitioner,win,2026-06-08,PTAB system (P-TACTS public document),2026-06-08 14:58,minute,-0.0086,257061574245.0,,33.0,medium
+ptab,United Therapeutics Corporation v. Actelion Pharmaceuticals Ltd. (US patent 8268847),JNJ,patent_owner,win,2025-11-20,PTAB system (P-TACTS public document),2025-11-20 15:18,minute,0.0086,376430164500.0,,,medium
+ptab,"Hulu, LLC v. Piranha Media Distribution, LLC (US patent 10986403)",DIS,petitioner,loss,2025-05-01,PTAB system (P-TACTS public document),2025-05-01 09:56,minute,-0.0086,173759806878.0,,,medium
+ptab,"Bio-Rad Laboratories, Inc. v. California Institute of Technology (US patent 11827921)",BIO,petitioner,loss,2026-03-23,PTAB system (P-TACTS public document),2026-03-23 15:09,minute,-0.0086,,,,medium
+ptab,CommScope Technologies LLC v. Belden Canada ULC (US patent 10795107),COMM,petitioner,win,2025-09-08,PTAB system (P-TACTS public document),2025-09-08 10:59,minute,0.0085,,,,medium
+ptab,Ericsson Inc. v. XR COMMUNICATIONS LLC (US patent 10715235),ERIC,petitioner,loss,2025-10-03,PTAB system (P-TACTS public document),2025-10-03 09:49,minute,0.0084,,,,medium
+ptab,"Deere & Company v. David's Dozer V-Loc System, Inc. (US patent 10533300)",DE,petitioner,loss,2025-03-18,PTAB system (P-TACTS public document),2025-03-18 12:31,minute,0.0084,,,,medium
+ptab,"Charter Communications, Inc.  v. Adaptive Spectrum and Signal Alignment, Inc. (US patent 10848398)",CHTR,petitioner,loss,2025-04-28,PTAB system (P-TACTS public document),2025-04-28 11:14,minute,0.0082,91031750208.0,,13.0,medium
+ptab,"Meta Platforms, Inc. v. Eight kHz, LLC (US patent 9226090)",META,petitioner,split,2025-01-07,PTAB system (P-TACTS public document),2025-01-07 12:57,minute,-0.0082,,,105.0,medium
+ptab,"Yangtze Memory Technologies Company, Ltd.  v. Micron Technology, Inc. (US patent 8803214)",MU,patent_owner,win,2025-08-14,PTAB system (P-TACTS public document),2025-08-14 14:04,minute,0.0081,110882390673.0,,99.0,medium
+ptab,"Microsoft Corporation v. InterDigital Patent Holdings, Inc. (US patent 8737933)",MSFT,petitioner,win,2025-06-23,PTAB system (P-TACTS public document),2025-06-23 13:38,minute,0.0081,,,,medium
+ptab,"BPI Labs, LLC v. Eli Lilly & Co. (US patent 9474780)",LLY,patent_owner,win,2025-12-11,PTAB system (P-TACTS public document),2025-12-11 14:21,minute,0.0079,728808715619.0,,,medium
+ptab,Ericsson Inc. v. Pegasus Wireless Innovation LLC (US patent 11219000),ERIC,petitioner,loss,2025-06-06,PTAB system (P-TACTS public document),2025-06-06 11:25,minute,-0.0079,,,,medium
+ptab,Ericsson Inc. v. Active Wireless Technologies LLC (US patent 11019557),ERIC,petitioner,loss,2024-11-12,PTAB system (P-TACTS public document),2024-11-12 09:46,minute,-0.0079,,,,medium
+ptab,"POSCO Co., Ltd. v. ArcelorMittal (US patent 10961602)",PKX,petitioner,win,2026-07-16,PTAB system (P-TACTS public document),2026-07-16 10:13,minute,-0.0079,,,8.0,medium
+ptab,"Air Products and Chemicals, Inc. v. EVONIK OPERATIONS GMBH (US patent 10471380)",APD,petitioner,loss,2025-08-18,PTAB system (P-TACTS public document),2025-08-18 12:48,minute,-0.0078,,,,medium
+ptab,"CrowdStrike, Inc. v. GoSecure, Inc. (US patent 9106697)",CRWD,petitioner,loss,2025-05-06,PTAB system (P-TACTS public document),2025-05-06 10:28,minute,0.0078,,,5.0,medium
+ptab,"Neurocrine Biosciences, Inc.  v. Spruce Biosciences, Inc. (US patent 12115166)",NBIX,petitioner,loss,2025-10-03,PTAB system (P-TACTS public document),2025-10-03 13:55,minute,-0.0077,11845277525.0,,47.0,medium
+ptab,Altria Client Services LLC v. -- (US patent D1081032),MO,petitioner,win,2026-10-01,PTAB system (P-TACTS public document),2026-10-01 15:07,minute,-0.0076,107536484956.0,,,medium
+ptab,"DISH Network L.L.C. v. Entropic Communications, LLC (US patent 7295518)",SATS,petitioner,win,2025-07-22,PTAB system (P-TACTS public document),2025-07-22 15:56,minute,-0.0076,,,,medium
+ptab,Amgen Inc. v. Bristol-Myers Squibb Company (US patent 9856320),BMY,patent_owner,win,2025-07-24,PTAB system (P-TACTS public document),2025-07-24 12:53,minute,0.0075,120987582811.0,,,medium
+ptab,"Intel Corporation v. Advanced Cluster Systems, Inc. (US patent 11563621)",AMD,petitioner,win,2026-09-23,PTAB system (P-TACTS public document),2026-09-23 13:32,minute,-0.0075,155663113030.0,,,medium
+ptab,"Google LLC v. Express Mobile, Inc. (US patent 7594168)",GOOGL,petitioner,win,2026-01-16,PTAB system (P-TACTS public document),2026-01-16 13:44,minute,-0.0075,,,,medium
+ptab,"Netflix, Inc. v. Avago Technologies International Sales Pte. Limited (US patent 7457722)",AVGO,patent_owner,win,2025-02-28,PTAB system (P-TACTS public document),2025-02-28 15:09,minute,-0.0074,,,41.0,medium
+antitrust_conduct,United States v. Google LLC (ad tech),GOOGL,defendant,split,2026-09-02,"news report (earliest time-stamped Google News item, an upper bound)",2026-09-02 14:53,hour,0.0073,,,,medium
+ptab,Google LLC v. Security First Innovations LLC (US patent 11178116),GOOGL,petitioner,split,2025-05-16,PTAB system (P-TACTS public document),2025-05-16 12:27,minute,0.0073,,,,medium
+ptab,Apple Inc. v. S.M.R Innovations LTD (US patent 10547648),AAPL,petitioner,win,2026-01-27,PTAB system (P-TACTS public document),2026-01-27 12:01,minute,0.0072,,,128.0,medium
+ptab,"lululemon usa inc. v. Nike, Inc. (US patent 8266749)",NKE,patent_owner,loss,2025-08-06,PTAB system (P-TACTS public document),2025-08-06 09:49,minute,0.0071,,,,medium
+ptab,Intel Corporation v. TELEFONAKTIEBOLAGET L M ERICSSON (US patent 7151430),ERIC,patent_owner,split,2025-10-08,PTAB system (P-TACTS public document),2025-10-08 13:22,minute,0.0071,,,33.0,medium
+ptab,"Illumina, Inc. v. Molecular Loop Biosciences, Inc. (US patent 11840730)",ILMN,petitioner,loss,2026-04-15,PTAB system (P-TACTS public document),2026-04-15 13:19,minute,0.007,,,15.0,medium
+ptab,"Meta Platforms, Inc. v. Dialect, LLC (US patent 9734825)",META,petitioner,loss,2026-02-10,PTAB system (P-TACTS public document),2026-02-10 14:28,minute,-0.007,,,,medium
+ptab,Genius Sports Ltd. v. SportsCastr Inc. (US patent 10805687),GENI,petitioner,win,2026-03-11,PTAB system (P-TACTS public document),2026-03-11 09:57,minute,0.007,,,122.0,medium
+ptab,Google LLC v. Ericsson AB (US patent 9313178),GOOGL,petitioner,win,2026-03-23,PTAB system (P-TACTS public document),2026-03-23 11:52,minute,-0.007,,,6.0,medium
+ptab,Apple Inc. v. -- (US patent 8646042),AAPL,petitioner,win,2025-11-12,PTAB system (P-TACTS public document),2025-11-12 13:27,minute,-0.007,,,63.0,medium
+deal_litigation,Lebanon County Employees' Retirement Fund v. Collis,COR,nominal defendant,split,2023-12-18,Delaware Courts opinions page (courts.delaware.gov),2023-12-18 12:12,hour,-0.0069,33361509529.0,,,high
+ptab,"Microsoft Corporation  v. Proxense, LLC (US patent 8646042)",MSFT,petitioner,win,2025-08-04,PTAB system (P-TACTS public document),2025-08-04 12:52,minute,0.0068,,,,medium
+ptab,"Cisco Systems, Inc. v. Scale Video Coding LLC (US patent 11019372)",CSCO,petitioner,loss,2025-03-24,PTAB system (P-TACTS public document),2025-03-24 10:58,minute,-0.0068,,,,medium
+ptab,"PROFRAC HOLDING CORPORATION v. Halliburton Energy Services, Inc. (US patent 11373058)",ACDC,petitioner,win,2024-10-29,PTAB system (P-TACTS public document),2024-10-29 10:47,minute,0.0068,,,12.0,medium
+ptab,Ericsson Inc. v. Pegasus Wireless Innovation LLC (US patent 11219000),NOK,petitioner,loss,2025-06-06,PTAB system (P-TACTS public document),2025-06-06 11:25,minute,-0.0066,,,,medium
+ptab,"Dr. Squatch, LLC v. The Procter & Gamble Company (US patent 10905647)",PG,patent_owner,loss,2026-01-28,PTAB system (P-TACTS public document),2026-01-28 15:00,minute,-0.0066,,,,medium
+ptab,Microsoft Corporation v. EyesMatch Ltd. (US patent 8982109),MSFT,petitioner,loss,2025-11-04,PTAB system (P-TACTS public document),2025-11-04 11:46,minute,0.0066,3246068946802.0,,,medium
+ptab,Comcast Corporation v. Entropic Communications LLC (US patent 8284690),CMCSA,petitioner,split,2025-09-04,PTAB system (P-TACTS public document),2025-09-04 12:31,minute,-0.0066,,,,medium
+ptab,Apple Inc. v. CardWare Inc. (US patent 10339520),AAPL,petitioner,loss,2025-11-20,PTAB system (P-TACTS public document),2025-11-20 15:40,minute,0.0066,2991645947800.0,,,medium
+ptab,"Microsoft Corporation v. X1 Discovery, Inc. (US patent 7370035)",MSFT,petitioner,loss,2026-06-18,PTAB system (P-TACTS public document),2026-06-18 13:54,minute,-0.0065,3249265945535.0,,,medium
+drug_patent,Novartis Pharmaceuticals v. MSN Laboratories (Entresto MDL 20-md-2930),NVS,brand,loss,2025-07-11,court docket (CM/ECF entry time via CourtListener RECAP),2025-07-11 10:01,minute,-0.0065,172313866581.0,,,high
+ptab,"Micron Technology Inc. v. Palisade Technologies, LLP (US patent 8327051)",MU,petitioner,loss,2025-10-17,PTAB system (P-TACTS public document),2025-10-17 10:21,minute,-0.0064,105565806252.0,,255.0,medium
+ptab,"Amphenol Corp.  v. PPC Broadband, Inc. (US patent 9008483)",BDC,patent_owner,loss,2025-02-19,PTAB system (P-TACTS public document),2025-02-19 11:49,minute,-0.0064,,,,medium
+ptab,"Meta Platforms, Inc. v. VL Collective IP LLC (US patent 7266682)",META,petitioner,win,2024-12-05,PTAB system (P-TACTS public document),2024-12-05 12:07,minute,-0.0063,,,,medium
+ptab,Apple Inc. v. Masimo Corporation (US patent 8190223),MASI,patent_owner,split,2025-06-25,PTAB system (P-TACTS public document),2025-06-25 12:57,minute,-0.0063,,,,medium
+ptab,"DISH Network L.L.C. v. Digital Broadcasting Solutions, LLC (US patent 8929710)",SATS,petitioner,split,2024-12-09,PTAB system (P-TACTS public document),2024-12-09 13:59,minute,-0.0061,,,16.0,medium
+ptab,Amgen Inc. v. Bristol-Myers Squibb Company (US patent 9856320),AMGN,petitioner,loss,2025-07-24,PTAB system (P-TACTS public document),2025-07-24 12:53,minute,0.0061,165491354741.0,,,medium
+deal_litigation,"Bandera Master Fund LP v. Boardwalk Pipeline Partners, LP",L,appellee,split,2025-12-10,Delaware Courts opinions page (courts.delaware.gov),2025-12-10 14:33,hour,-0.0061,17407660072.0,,7.0,medium
+ptab,ADB Safegate Sweden AB v. Honeywell International Inc. (US patent 11538349),HON,patent_owner,loss,2025-02-12,PTAB system (P-TACTS public document),2025-02-12 13:49,minute,-0.0061,,,,medium
+ptab,"Allstate Insurance Company v. ATOS, LLC (US patent 9846174)",ALL,petitioner,loss,2026-01-30,PTAB system (P-TACTS public document),2026-01-30 15:18,minute,0.006,,,,low
+ptab,"Monahan Products, LLC (dba UPPAbaby) v. Baby Jogger, LLC (US patent 8955869)",NWL,patent_owner,win,2025-11-20,PTAB system (P-TACTS public document),2025-11-20 15:08,minute,-0.006,2259757000.0,,19.0,medium
+ptab,"Merck Sharp & Dohme LLC v. Halozyme, Inc. (US patent 12110520)",HALO,patent_owner,loss,2026-09-01,PTAB system (P-TACTS public document),2026-09-01 10:49,minute,0.006,6972039600.0,,,high
+ptab,"Meta Platforms, Inc. v. SitNet, LLC (US patent 12120769)",META,petitioner,loss,2026-04-28,PTAB system (P-TACTS public document),2026-04-28 11:28,minute,-0.0059,,,16.0,high
+ptab,Google LLC v. Wildseed Mobile LLC (US patent 10869169),GOOGL,petitioner,split,2026-09-01,PTAB system (P-TACTS public document),2026-09-01 10:11,minute,-0.0059,,,,medium
+ptab,"Microsoft Corporation  v. Proxense, LLC (US patent 10073960)",MSFT,petitioner,win,2025-07-17,PTAB system (P-TACTS public document),2025-07-17 10:42,minute,0.0059,,,,medium
+ptab,"Microsoft Corporation v. Proxense, LLC (US patent 8352730)",MSFT,petitioner,loss,2024-11-20,PTAB system (P-TACTS public document),2024-11-20 12:35,minute,-0.0058,,,,medium
+ptab,"Juniper Networks, Inc. v. Monarch networking solutions LLC (US patent 8693369)",JNPR,petitioner,split,2025-05-05,PTAB system (P-TACTS public document),2025-05-05 14:21,minute,0.0057,,,,medium
+ptab,Apple Inc. v. Masimo Corporation (US patent 8190223),AAPL,petitioner,split,2025-06-25,PTAB system (P-TACTS public document),2025-06-25 12:57,minute,0.0057,,,,medium
+ptab,"Cisco Systems, Inc. v. Lionra Technologies Limited (US patent 7623518)",CSCO,petitioner,win,2025-10-03,PTAB system (P-TACTS public document),2025-10-03 10:02,minute,-0.0057,,,253.0,medium
+ptab,"Nokia of America Corporation v. General Access Solutions, Ltd. (US patent 6947477)",NOK,petitioner,loss,2025-04-14,PTAB system (P-TACTS public document),2025-04-14 13:27,minute,-0.0057,,,,medium
+ptab,"Apple Inc. v. Theta IP, LLC (US patent 11564164)",AAPL,petitioner,split,2025-11-25,PTAB system (P-TACTS public document),2025-11-25 11:02,minute,-0.0056,,,26.0,medium
+deal_litigation,In re Oracle Corporation Derivative Litigation,ORCL,nominal defendant,loss,2023-05-12,Delaware Courts opinions page (courts.delaware.gov),2023-05-12 11:45,hour,0.0055,184708162249.0,,,high
+ptab,"Apple Inc. v. Proxense, LLC (US patent 8886954)",AAPL,petitioner,win,2025-06-17,PTAB system (P-TACTS public document),2025-06-17 15:19,minute,-0.0055,,,,medium
+ptab,"Apple Inc. v. Poniatowski, Paul (US patent 8270578)",AAPL,petitioner,win,2025-10-02,PTAB system (P-TACTS public document),2025-10-02 10:39,minute,0.0054,,,,medium
+ptab,"Cisco Systems, Inc. v. Portsmouth Network Corporation (US patent 7035279)",CSCO,petitioner,loss,2025-08-04,PTAB system (P-TACTS public document),2025-08-04 13:26,minute,0.0054,,,,medium
+ptab,"Amazon.com, Inc. v. Lowenstein & Weatherwax LLP (US patent 10715806)",AMZN,petitioner,dismissed,2025-08-29,PTAB system (P-TACTS public document),2025-08-29 12:39,minute,-0.0053,2187180922890.0,,,medium
+ptab,"QUALCOMM INCORPORATED v. COBBLESTONE WIRELESS, LLC, (US patent 7924802)",CSCO,petitioner,split,2026-03-05,PTAB system (P-TACTS public document),2026-03-05 13:18,minute,-0.0051,,,,medium
+ptab,"Apple Inc. v. Smith Interface Technologies, LLC (US patent 10656755)",AAPL,petitioner,split,2026-01-02,PTAB system (P-TACTS public document),2026-01-02 15:49,minute,-0.005,,,,medium
+ptab,"Merck Sharp & Dohme LLC v. Halozyme, Inc. (US patent 12049652)",HALO,patent_owner,loss,2026-09-25,PTAB system (P-TACTS public document),2026-09-25 12:15,minute,-0.0049,7509869940.0,,25.0,high
+ptab,"American Honda Motor Co., Inc.  v. Neo Wireless LLC (US patent 10075941)",HMC,petitioner,win,2024-11-01,PTAB system (P-TACTS public document),2024-11-01 12:32,minute,-0.0049,,,,medium
+ptab,Masimo Corporation v. Apple Inc. (US patent 10076257),MASI,petitioner,loss,2024-10-15,PTAB system (P-TACTS public document),2024-10-15 12:41,minute,0.0049,,,,medium
+ptab,"Amazon.com, Inc. v. SoundClear Technologies LLC (US patent 11244675)",AMZN,petitioner,win,2026-09-03,PTAB system (P-TACTS public document),2026-09-03 09:49,minute,0.0049,2212170024936.0,,,medium
+deal_litigation,"Verisk Analytics, Inc. v. ExactLogix, Inc. (AccuLynx)",VRSK,plaintiff,loss,2026-08-07,Delaware Courts opinions page (courts.delaware.gov),2026-08-07 11:40,hour,0.0048,31340709135.0,,255.0,medium
+ptab,"Google LLC v. TJTM Technologies, LLC (US patent 8958853)",GOOGL,petitioner,loss,2025-08-14,PTAB system (P-TACTS public document),2025-08-14 14:14,minute,0.0048,,,,medium
+ptab,"NXP Semiconductors N .V. v. Harbor Island Dynamic, LLC (US patent 7745886)",NXPI,petitioner,win,2026-03-16,PTAB system (P-TACTS public document),2026-03-16 09:31,minute,-0.0048,47529563242.0,,33.0,medium
+ptab,Google LLC v. Geoscope Technologies Pte. Ltd. (US patent 8786494),GOOGL,petitioner,win,2025-02-14,PTAB system (P-TACTS public document),2025-02-14 12:19,minute,-0.0048,,,,medium
+ptab,"Alliance Laundry Systems, LLC v. PayRange LLC. (US patent 11966920)",ALH,petitioner,split,2026-08-19,PTAB system (P-TACTS public document),2026-08-19 14:36,minute,-0.0046,,,,low
+ptab,Google LLC v. DH International Ltd. (US patent 7628333),GOOGL,petitioner,loss,2025-03-24,PTAB system (P-TACTS public document),2025-03-24 14:46,minute,0.0046,,,,medium
+ptab,"Aquestive Therapeutics, Inc. v. Iono Pharma, LLC (US patent 11021437)",AQST,petitioner,loss,2025-10-03,PTAB system (P-TACTS public document),2025-10-03 15:25,minute,-0.0046,236400469.0,,,high
+ptab,"POSCO Future M Co., Ltd. v. CAMX Power LLC (US patent 9391317)",PKX,petitioner,loss,2025-02-05,PTAB system (P-TACTS public document),2025-02-05 11:04,minute,-0.0045,,,,low
+ptab,"Dropbox, Inc. v. Datanet, LLC (US patent 8473478)",MSFT,petitioner,win,2025-04-25,PTAB system (P-TACTS public document),2025-04-25 11:41,minute,0.0045,,,89.0,medium
+ptab,"Cisco Systems, Inc. v. Video Solutions Pte. Ltd. (US patent 8446823)",CSCO,petitioner,loss,2024-11-12,PTAB system (P-TACTS public document),2024-11-12 11:33,minute,0.0045,,,,medium
+ptab,Abbott Laboratories v. MIRACOR MEDICAL SA (US patent 11351357),ABT,petitioner,win,2026-06-08,PTAB system (P-TACTS public document),2026-06-08 14:49,minute,-0.0044,204596336925.0,,,medium
+ptab,Microsoft Corporation v. Qomplx LLC (US patent 11539663),MSFT,petitioner,loss,2026-06-12,PTAB system (P-TACTS public document),2026-06-12 09:31,minute,-0.0044,3414285647154.0,,102.0,medium
+ptab,"Microchip Technology, Inc. v. Aptiv Technologies AG (US patent 11681643)",MCHP,petitioner,win,2025-07-09,PTAB system (P-TACTS public document),2025-07-09 13:07,minute,-0.0044,,,,medium
+ptab,"Activision Blizzard, Inc.  v. Milestone Entertainment, LLC (US patent 10650635)",MSFT,petitioner,split,2026-10-13,PTAB system (P-TACTS public document),2026-10-13 12:28,minute,0.0044,2937612419983.0,,,medium
+ptab,Merck Sharp & Dohme LLC v. The Johns Hopkins University (US patent 11591393),MRK,petitioner,win,2025-06-09,PTAB system (P-TACTS public document),2025-06-09 11:46,minute,0.0044,,,,medium
+ptab,"Cisco Systems, Inc. v. Zilkr Cloud Technologies, LLC (US patent 9883047)",CSCO,petitioner,win,2024-11-21,PTAB system (P-TACTS public document),2024-11-21 12:08,minute,-0.0043,,,,medium
+ptab,"Juniper Networks, Inc v. Monarch Networking Solutions LLC (US patent 8451845)",JNPR,petitioner,win,2025-04-01,PTAB system (P-TACTS public document),2025-04-01 12:14,minute,-0.0042,,,,medium
+ptab,"Tableau Software, LLC v. iCharts LLC (US patent 9712595)",CRM,petitioner,loss,2025-05-14,PTAB system (P-TACTS public document),2025-05-14 15:07,minute,0.0042,,,,medium
+ptab,"Slack Technologies, LLC v. Wrinkl, Inc. (US patent 11973731)",CRM,petitioner,dismissed,2025-11-20,PTAB system (P-TACTS public document),2025-11-20 12:20,minute,0.0042,,,,medium
+ptab,Cellco Partnership d/b/a Verizon Wireless v. Pegasus Wireless Innovation LLC (US patent 11540272),ERIC,petitioner,loss,2025-06-26,PTAB system (P-TACTS public document),2025-06-26 11:41,minute,-0.0042,,,,medium
+ptab,"Google LLC v. Metarail, Inc. (US patent 10789626)",GOOGL,petitioner,loss,2025-04-24,PTAB system (P-TACTS public document),2025-04-24 13:58,minute,0.0042,,,,medium
+ptab,"Cipla Limited v. Gilead Sciences, Inc. (US patent 11744802)",GILD,patent_owner,win,2025-05-15,PTAB system (P-TACTS public document),2025-05-15 14:31,minute,0.0041,110505497110.0,,,medium
+ptab,"Bio-Rad Laboratories, Inc. v. California Institute of Technology (US patent 10770170)",BIO,petitioner,loss,2025-05-22,PTAB system (P-TACTS public document),2025-05-22 12:39,minute,-0.0041,,,,medium
+ptab,Ericsson Inc. v. XR COMMUNICATIONS LLC (US patent 10715235),NOK,petitioner,loss,2025-10-03,PTAB system (P-TACTS public document),2025-10-03 09:49,minute,0.0041,,,,medium
+ptab,Google LLC v. Headwater Research LLC (US patent 8589541),GOOGL,petitioner,win,2025-10-01,PTAB system (P-TACTS public document),2025-10-01 12:09,minute,0.004,,,55.0,medium
+ptab,"Merck Sharp & Dohme LLC v. Halozyme, Inc. (US patent 12091692)",MRK,petitioner,win,2026-10-02,PTAB system (P-TACTS public document),2026-10-02 12:01,minute,0.0039,213980529890.0,,,medium
+ptab,"Google LLC v. Proxense, LLC (US patent 8886954)",GOOGL,petitioner,win,2025-06-17,PTAB system (P-TACTS public document),2025-06-17 15:19,minute,0.0039,,,,medium
+ptab,Google LLC v. Valtrus Innovations Limited (US patent 7939967),GOOGL,petitioner,loss,2025-11-20,PTAB system (P-TACTS public document),2025-11-20 15:56,minute,0.0038,,,,medium
+ptab,Nokia of America Corporation v. Iarnach Technologies Limited (US patent 8934359),NOK,petitioner,loss,2024-11-25,PTAB system (P-TACTS public document),2024-11-25 14:31,minute,0.0038,,,,medium
+ptab,"Cisco Systems, Inc.  v. Portsmouth Network Corporation (US patent 8199637)",CSCO,petitioner,loss,2024-12-13,PTAB system (P-TACTS public document),2024-12-13 13:31,minute,-0.0037,,,,medium
+ptab,"Apple Inc.  v. Proxense, LLC (US patent 8352730)",AAPL,petitioner,win,2025-04-28,PTAB system (P-TACTS public document),2025-04-28 10:29,minute,0.0037,,,16.0,medium
+ptab,"Google LLC v. Sandpiper CDN, LLC (US patent 9021112)",GOOGL,petitioner,win,2026-10-09,PTAB system (P-TACTS public document),2026-10-09 10:27,minute,0.0037,,,,medium
+ptab,Genius Sports Ltd. v. SportsCastr Inc. (d/b/a PANDA Interactive) (US patent 11871088),GENI,petitioner,loss,2025-06-03,PTAB system (P-TACTS public document),2025-06-03 14:37,minute,-0.0036,179820000.0,,18.0,medium
+ptab,"BeiGene USA, Inc. v. Pharmacyclics LLC (US patent 11672803)",ABBV,patent_owner,loss,2025-05-01,PTAB system (P-TACTS public document),2025-05-01 15:21,minute,-0.0036,,,,medium
+ptab,"Penumbra, Inc. v. RapidPulse, Inc. (US patent 11406402)",PEN,petitioner,loss,2026-02-17,PTAB system (P-TACTS public document),2026-02-17 15:58,minute,0.0035,,,,medium
+ptab,Apple Inc. v. RJ Technology LLC (US patent 7749641),AAPL,petitioner,split,2025-02-18,PTAB system (P-TACTS public document),2025-02-18 11:47,minute,-0.0035,,,,medium
+ptab,"Juniper Networks, Inc. v. Orckit Corporation (US patent 10652111)",JNPR,petitioner,loss,2024-12-11,PTAB system (P-TACTS public document),2024-12-11 12:43,minute,-0.0034,,,39.0,medium
+ptab,"Twitch Interactive, Inc. v. Razdog Holdings LLC (US patent 9729658)",AMZN,petitioner,win,2026-07-27,PTAB system (P-TACTS public document),2026-07-27 15:34,minute,-0.0033,2366508377460.0,,,medium
+ptab,"Activision Blizzard, Inc. v. Milestone Entertainment, LLC (US patent 11501607)",MSFT,petitioner,loss,2025-10-16,PTAB system (P-TACTS public document),2025-10-16 14:06,minute,0.0033,2899030052183.0,,,medium
+ptab,Motorola Mobility LLC v. Multifold International Incorporated Pte. Ltd. (US patent 9134756),GOOGL,petitioner,win,2026-04-28,PTAB system (P-TACTS public document),2026-04-28 14:20,minute,0.0033,,,,medium
+ptab,Apple Inc.  v. HBCU Messaging US LP (US patent 8918127),AAPL,petitioner,loss,2026-02-18,PTAB system (P-TACTS public document),2026-02-18 15:50,minute,-0.0033,3445048134600.0,,,medium
+ptab,"FOX Factory, Inc. v. SRAM, LLC (US patent 10328993)",FOXF,petitioner,win,2025-08-04,PTAB system (P-TACTS public document),2025-08-04 11:57,minute,0.0032,,,53.0,medium
+ptab,"Sonos, Inc. v. Google LLC (US patent 11050615)",GOOGL,patent_owner,split,2024-11-01,PTAB system (P-TACTS public document),2024-11-01 09:42,minute,-0.0032,,,,medium
+ptab,"Universal Electronics Inc. v. Roku, Inc. (US patent 8378875)",ROKU,patent_owner,split,2026-01-21,PTAB system (P-TACTS public document),2026-01-21 15:48,minute,0.0032,,,6.0,medium
+ptab,"Intel Corporation v. Advanced Cluster Systems, Inc. (US patent 11563621)",INTC,petitioner,win,2026-09-23,PTAB system (P-TACTS public document),2026-09-23 13:32,minute,-0.003,88723080000.0,,95.0,medium
+ptab,"CrowdStrike, Inc. v. GoSecure, Inc. (US patent 9954872)",CRWD,petitioner,split,2026-08-12,PTAB system (P-TACTS public document),2026-08-12 14:59,minute,-0.003,,,,medium
+ptab,"lululemon usa inc. v. Nike, Inc. (US patent 9730484)",LULU,petitioner,win,2025-03-21,PTAB system (P-TACTS public document),2025-03-21 13:10,minute,-0.003,,,,medium
+ptab,Intel Corporation v. Telefonaktiebolaget LM Ericsson (US patent 9641841),ERIC,patent_owner,win,2024-12-18,PTAB system (P-TACTS public document),2024-12-18 12:53,minute,0.003,,,121.0,medium
+ptab,"Apple Inc. v. Smith Interface Technologies, LLC (US patent 10649580)",AAPL,petitioner,loss,2025-12-31,PTAB system (P-TACTS public document),2025-12-31 12:07,minute,0.0029,,,,medium
+ptab,"AliveCor, Inc. v. Apple Inc. (US patent 10076257)",AAPL,patent_owner,split,2024-12-23,PTAB system (P-TACTS public document),2024-12-23 14:08,minute,-0.0029,,,,medium
+ptab,Google LLC v. Mullen Industries LLC  (US patent 11122418),GOOGL,petitioner,loss,2025-07-17,PTAB system (P-TACTS public document),2025-07-17 12:55,minute,-0.0028,,,,medium
+ptab,"MWE Investments, LLC v. Champion Power Equipment, Inc. (US patent 10221780)",GNRC,petitioner,loss,2026-01-16,PTAB system (P-TACTS public document),2026-01-16 11:11,minute,-0.0028,8879380878.0,,13.0,low
+ptab,"ClearCorrect Operating, LLC v. Align Technology, Inc. (US patent 10456217)",ALGN,patent_owner,win,2025-10-23,PTAB system (P-TACTS public document),2025-10-23 12:46,minute,-0.0028,12080317943.0,,22.0,medium
+ptab,"Charter Communications, Inc. v. Iarnach Technologies Limited (US patent 8942378)",CHTR,petitioner,loss,2025-02-19,PTAB system (P-TACTS public document),2025-02-19 14:56,minute,-0.0028,,,44.0,medium
+ptab,"Tessell, Inc. v. Nutanix, Inc. (US patent 11860818)",NTNX,patent_owner,win,2025-08-22,PTAB system (P-TACTS public document),2025-08-22 11:41,minute,-0.0028,17696660648.0,,187.0,medium
+ptab,"Micron Technology, Inc. v. Yangtze Memory Technologies Company, Ltd. (US patent 12010838)",MU,petitioner,dismissed,2025-06-12,PTAB system (P-TACTS public document),2025-06-12 09:46,minute,-0.0027,108601345702.0,,20.0,medium
+ptab,HP Inc. v. Universal Connectivity Technologies Inc. (US patent 7187307),DELL,petitioner,loss,2025-04-16,PTAB system (P-TACTS public document),2025-04-16 10:23,minute,-0.0027,,,13.0,medium
+ptab,"Meta Platforms, Inc. v. Sitnet, LLC (US patent 9877345)",META,petitioner,win,2025-09-08,PTAB system (P-TACTS public document),2025-09-08 13:09,minute,-0.0027,,,161.0,medium
+ptab,Google LLC v. BrodTi Inc. (US patent 11416898),GOOGL,petitioner,win,2026-06-30,PTAB system (P-TACTS public document),2026-06-30 15:03,minute,0.0027,,,,medium
+ptab,"Apple Inc. v. THL Holding Company, LLC (US patent 11265680)",AAPL,petitioner,win,2025-07-03,PTAB system (P-TACTS public document),2025-07-03 11:59,minute,-0.0027,,,,medium
+ptab,"Microsoft Corporation v. Edge Networking Systems, LLC (US patent 10893095)",MSFT,petitioner,loss,2025-09-30,PTAB system (P-TACTS public document),2025-09-30 10:44,minute,0.0027,3036261364241.0,,4.0,medium
+ptab,"SAP America, Inc. v. Cyandia, Inc.  (US patent 8751948)",SAP,petitioner,win,2026-03-13,PTAB system (P-TACTS public document),2026-03-13 13:00,minute,0.0027,,,,medium
+ptab,"Netflix, Inc. v. Avago Technologies International Sales Pte. Limited (US patent 7457722)",NFLX,petitioner,loss,2025-02-28,PTAB system (P-TACTS public document),2025-02-28 15:09,minute,0.0026,,,,medium
+ptab,Microsoft Corporation v. Lemko Corporation (US patent 8310990),MSFT,petitioner,loss,2025-11-20,PTAB system (P-TACTS public document),2025-11-20 15:37,minute,-0.0026,3548296441151.0,,,medium
+ptab,"MIM Software Inc. v. Progenics Pharmaceuticals, Inc. (US patent 10665346)",GEHC,petitioner,loss,2025-10-08,PTAB system (P-TACTS public document),2025-10-08 14:47,minute,0.0026,41655303058.0,,47.0,medium
+ptab,Comcast Corporation v. Entropic Communications LLC (US patent 9210362),CMCSA,petitioner,win,2025-10-06,PTAB system (P-TACTS public document),2025-10-06 15:52,minute,0.0026,,,,medium
+ptab,"Apple Inc.  v. Proxense, LLC (US patent 9049188)",AAPL,petitioner,win,2026-09-17,PTAB system (P-TACTS public document),2026-09-17 12:05,minute,0.0025,3419474476990.0,,,medium
+ptab,"Liberty Energy Inc. v. U.S. WELL SERVICES, LLC (US patent 10598258)",ACDC,patent_owner,win,2025-04-29,PTAB system (P-TACTS public document),2025-04-29 15:04,minute,0.0025,953673015.0,,0.0,low
+ptab,Apple Inc. v. RJ Technology LLC (US patent 7749641),AAPL,petitioner,split,2025-01-17,PTAB system (P-TACTS public document),2025-01-17 12:30,minute,-0.0025,,,,medium
+deal_litigation,"Bandera Master Fund LP v. Boardwalk Pipeline Partners, LP",L,defendant,win,2024-09-09,Delaware Courts opinions page (courts.delaware.gov),2024-09-09 13:31,hour,0.0025,15879894153.0,,,high
+ptab,"Google LLC v. DDC Technology, LLC (US patent 9420075)",GOOGL,petitioner,loss,2024-10-24,PTAB system (P-TACTS public document),2024-10-24 12:15,minute,-0.0025,,,,medium
+ptab,"Cradlepoint, Inc. v. Sisvel S.p.A. (US patent 7869396)",HON,petitioner,split,2025-09-29,PTAB system (P-TACTS public document),2025-09-29 14:47,minute,0.0024,,,,medium
+ptab,Google LLC v. Dialect LLC (US patent 8849652),GOOGL,petitioner,split,2025-10-20,PTAB system (P-TACTS public document),2025-10-20 14:37,minute,0.0024,,,,medium
+drug_patent,Supernus Pharmaceuticals v. Ajanta / Torrent,SUPN,brand,win,2024-01-30,court docket (CM/ECF entry time via CourtListener RECAP),2024-01-30 14:04,minute,-0.0024,1385526957.0,,,low
+ptab,"Google LLC v. ART RESEARCH AND TECHNOLOGY, LLC (US patent 9451001)",GOOGL,petitioner,dismissed,2025-12-22,PTAB system (P-TACTS public document),2025-12-22 11:12,minute,0.0023,,,6.0,medium
+ptab,Bayer CropScience LP v. Corteva Agriscience LLC (US patent 10947555),CTVA,patent_owner,loss,2024-12-17,PTAB system (P-TACTS public document),2024-12-17 10:25,minute,-0.0023,,,135.0,low
+ptab,"Guardant Health, Inc. v. Cold Spring Harbor Laboratory (US patent 12234510)",GH,petitioner,loss,2026-01-16,PTAB system (P-TACTS public document),2026-01-16 11:14,minute,0.0023,5503106959.0,,,high
+ptab,"Microsoft Corporation  v. Proxense, LLC (US patent 8352730)",MSFT,petitioner,win,2025-04-28,PTAB system (P-TACTS public document),2025-04-28 10:42,minute,-0.0021,,,,medium
+ptab,Apple Inc. v. DoDots Licensing Solutions LLC (US patent 8510407),AAPL,petitioner,win,2024-10-22,PTAB system (P-TACTS public document),2024-10-22 15:21,minute,-0.0021,,,,medium
+ptab,"Microchip Technology, Inc. v. Aptiv Technologies AG (US patent 9619420)",MCHP,petitioner,split,2025-08-18,PTAB system (P-TACTS public document),2025-08-18 15:11,minute,-0.0021,,,,medium
+ptab,Google LLC v. Ericsson AB (US patent 9313178),ERIC,patent_owner,loss,2026-03-23,PTAB system (P-TACTS public document),2026-03-23 11:52,minute,0.002,,,,medium
+ptab,"Integrated DNA Technologies, Inc. v. Tecan Group AG (US patent 9546399)",DHR,petitioner,win,2025-08-11,PTAB system (P-TACTS public document),2025-08-11 10:12,minute,-0.002,,,,medium
+ptab,Aylo Freesites Ltd v. DISH Technologies L.L.C (US patent 11677798),SATS,patent_owner,split,2025-04-14,PTAB system (P-TACTS public document),2025-04-14 14:14,minute,0.0019,,,,medium
+ptab,"Microsoft Corporation  v. Proxense, LLC (US patent 8886954)",MSFT,petitioner,win,2025-10-17,PTAB system (P-TACTS public document),2025-10-17 13:00,minute,-0.0018,,,,medium
+deal_litigation,Hollywood Firefighters' Pension Fund v. Malone (Charter / Liberty Broadband),CHTR,nominal defendant,split,2023-07-19,Delaware Courts opinions page (courts.delaware.gov),2023-07-19 15:52,hour,0.0017,176089545116.0,,,medium
+ptab,"Aptiv Services US, LLC v. Microchip Technology, Inc. (US patent 9471074)",APTV,petitioner,win,2026-03-20,PTAB system (P-TACTS public document),2026-03-20 14:22,minute,0.0016,,,0.0,low
+ptab,Google LLC v. Dialect LLC (US patent 7640160),GOOGL,petitioner,win,2025-10-17,PTAB system (P-TACTS public document),2025-10-17 11:59,minute,0.0016,,,5.0,medium
+ptab,"Apple Inc. v. Theta IP, LLC (US patent 7010330)",AAPL,petitioner,win,2025-11-24,PTAB system (P-TACTS public document),2025-11-24 15:13,minute,0.0016,,,,medium
+ptab,Shopify Inc. v. DKR Consulting LLC (US patent 11157995),SHOP,petitioner,loss,2025-05-29,PTAB system (P-TACTS public document),2025-05-29 11:19,minute,0.0016,,,38.0,medium
+ptab,"Cisco Systems, Inc.  v. Portsmouth Network Corporation (US patent 8014394)",CSCO,petitioner,win,2025-10-01,PTAB system (P-TACTS public document),2025-10-01 14:24,minute,0.0014,,,68.0,medium
+ptab,"Comcast Cable Communications, LLC v. Touchstream Technologies, Inc. (US patent 8356251)",CMCSA,petitioner,split,2025-06-12,PTAB system (P-TACTS public document),2025-06-12 10:02,minute,-0.0014,,,,medium
+ptab,"Juniper Networks, Inc. v. Orckit Corporation (US patent 7545740)",JNPR,petitioner,win,2024-10-22,PTAB system (P-TACTS public document),2024-10-22 13:30,minute,-0.0013,,,,medium
+ptab,Colgate-Palmolive Company v. NOBLE INNOVATIONS NC L.L.C. (US patent 8881332),CL,petitioner,win,2025-01-23,PTAB system (P-TACTS public document),2025-01-23 11:43,minute,-0.0013,,,,high
+ptab,"Comcast Cable Communications, LLC v. Entropic Communications, LLC (US patent 11785275)",CMCSA,petitioner,loss,2025-04-29,PTAB system (P-TACTS public document),2025-04-29 10:59,minute,-0.0013,89021606897.0,,,medium
+ptab,Motorola Mobility LLC v. Multifold International Incorporated Pte. Ltd. (US patent 8836842),GOOGL,petitioner,win,2026-05-15,PTAB system (P-TACTS public document),2026-05-15 11:49,minute,0.0013,,,,medium
+ptab,"Google LLC v. Buffalo Patents, LLC (US patent 6904405)",GOOGL,petitioner,win,2024-12-03,PTAB system (P-TACTS public document),2024-12-03 13:13,minute,-0.0013,,,,medium
+ptab,"Amazon.com Services LLC v. InterDigital VC Holdings, Inc. (US patent 12143606)",IDCC,patent_owner,win,2026-06-02,PTAB system (P-TACTS public document),2026-06-02 12:33,minute,0.0012,8646050344.0,,197.0,low
+antitrust_conduct,FTC v. Meta Platforms (Instagram/WhatsApp monopolization),META,defendant,win,2025-11-18,court docket (CourtListener RECAP entry time),2025-11-18 12:43,minute,0.0012,784557824707.0,,1.0,high
+ptab,Ericsson Inc. v. XR COMMUNICATIONS LLC (US patent 8737511),ERIC,petitioner,win,2025-11-25,PTAB system (P-TACTS public document),2025-11-25 13:49,minute,0.0012,,,,medium
+ptab,CommScope Technologies LLC v. Belden Canada ULC (US patent 10795107),BDC,patent_owner,loss,2025-09-08,PTAB system (P-TACTS public document),2025-09-08 10:59,minute,0.0012,,,,low
+ptab,"Microsoft Corporation v. REALD SPARK, LLC (US patent 10740985)",MSFT,petitioner,win,2024-11-19,PTAB system (P-TACTS public document),2024-11-19 12:13,minute,0.0012,,,57.0,medium
+ptab,Valve Corporation v. Immersion Corporation (US patent 8749507),IMMR,patent_owner,loss,2025-07-28,PTAB system (P-TACTS public document),2025-07-28 15:47,minute,-0.0011,,,10.0,high
+ptab,Intel Corporation v. TELEFONAKTIEBOLAGET L M ERICSSON (US patent 7151430),INTC,petitioner,split,2025-10-08,PTAB system (P-TACTS public document),2025-10-08 13:22,minute,0.001,,,,medium
+ptab,"Netflix, Inc.  v. GOTV STREAMING, LLC (US patent 8478245)",NFLX,petitioner,split,2024-11-05,PTAB system (P-TACTS public document),2024-11-05 11:23,minute,-0.001,,,,medium
+ptab,"ResMed Corp. v. Cleveland Medical Devices, Inc. (US patent 11602284)",RMD,petitioner,loss,2025-06-10,PTAB system (P-TACTS public document),2025-06-10 13:34,minute,0.001,34458833416.0,,,medium
+ptab,Google LLC v. Withrow Networks Inc. (US patent 10771849),GOOGL,petitioner,win,2026-09-25,PTAB system (P-TACTS public document),2026-09-25 14:41,minute,-0.0009,,,,medium
+ptab,"Apple Inc.  v. IngenioSpec, LLC (US patent 11921355)",AAPL,petitioner,loss,2026-09-23,PTAB system (P-TACTS public document),2026-09-23 11:51,minute,-0.0008,3757197348800.0,,,medium
+ptab,"Intel Corporation v. Advanced Cluster Systems, Inc. (US patent 12021679)",INTC,petitioner,win,2026-09-01,PTAB system (P-TACTS public document),2026-09-01 15:31,minute,0.0008,88723080000.0,,,medium
+ptab,"Adobe Inc. v. Jaffe, Jonathan (US patent 6757828)",ADBE,petitioner,loss,2026-03-04,PTAB system (P-TACTS public document),2026-03-04 14:54,minute,0.0008,,,13.0,medium
+ptab,"Apple Inc. v. Smith Interface Technologies, LLC (US patent 10656754)",AAPL,petitioner,split,2026-02-10,PTAB system (P-TACTS public document),2026-02-10 14:55,minute,-0.0008,,,,medium
+ptab,fuboTV Media Inc. v. DISH Technologies L.L.C. (US patent 11677798),FUBO,petitioner,split,2025-04-14,PTAB system (P-TACTS public document),2025-04-14 14:14,minute,0.0008,,,,medium
+ptab,Google LLC v. MindbaseHQ LLC (US patent 6510433),GOOGL,petitioner,split,2026-03-16,PTAB system (P-TACTS public document),2026-03-16 14:01,minute,0.0007,,,,medium
+ptab,Google LLC v. Geoscope Technologies Pte. Ltd. (US patent 9097784),GOOGL,petitioner,win,2025-02-10,PTAB system (P-TACTS public document),2025-02-10 11:39,minute,-0.0007,,,,medium
+ptab,"Apple Inc. v. Smith Interface Technologies, LLC (US patent 10656758)",AAPL,petitioner,split,2026-01-14,PTAB system (P-TACTS public document),2026-01-14 12:04,minute,0.0007,,,181.0,medium
+ptab,"Halozyme, Inc.  v. Alteogen Inc. (US patent 12221638)",HALO,petitioner,loss,2026-05-15,PTAB system (P-TACTS public document),2026-05-15 15:01,minute,0.0007,7367452050.0,,,medium
+ptab,"Cisco Systems, Inc. v. Orckit Corporation (US patent 7545740)",CSCO,petitioner,win,2024-10-22,PTAB system (P-TACTS public document),2024-10-22 13:30,minute,0.0007,,,,medium
+ptab,"CRADLEPOINT, INC. v. 3G Licensing S.A. (US patent 7580388)",ERIC,petitioner,win,2025-05-07,PTAB system (P-TACTS public document),2025-05-07 14:31,minute,-0.0006,,,,medium
+ptab,Aylo Freesites Ltd  v. DISH Technologies L.L.C. (US patent 11991234),SATS,patent_owner,win,2024-11-21,PTAB system (P-TACTS public document),2024-11-21 11:32,minute,0.0006,,,114.0,medium
+ptab,Valve Corporation v. Immersion Corporation (US patent 10665067),IMMR,patent_owner,loss,2025-08-11,PTAB system (P-TACTS public document),2025-08-11 15:48,minute,0.0006,,,,high
+ptab,Apple Inc. v. LS Cable & System Ltd. (US patent 8013568),AAPL,petitioner,loss,2025-12-23,PTAB system (P-TACTS public document),2025-12-23 13:30,minute,0.0006,2922044998640.0,,,medium
+ptab,"Dropbox, Inc. v. Datanet, LLC (US patent 8473478)",DBX,petitioner,win,2025-04-25,PTAB system (P-TACTS public document),2025-04-25 11:41,minute,0.0005,,,,medium
+ptab,"Integrated DNA Technologies, Inc. v. Tecan Group AG (US patent 10036012)",DHR,petitioner,loss,2026-04-06,PTAB system (P-TACTS public document),2026-04-06 11:30,minute,0.0005,,,,medium
+ptab,"lululemon usa inc. v. Nike, Inc. (US patent 8266749)",LULU,petitioner,win,2025-08-06,PTAB system (P-TACTS public document),2025-08-06 09:49,minute,-0.0003,,,1.0,medium
+ptab,"Dr. Squatch, LLC  v. The Procter & Gamble Company (US patent 11844752)",PG,patent_owner,loss,2026-03-25,PTAB system (P-TACTS public document),2026-03-25 15:20,minute,-0.0003,,,,medium
+ptab,"Aptiv Services US, LLC v. Microchip Technology Inc. (US patent 7564665)",MCHP,patent_owner,win,2024-11-07,PTAB system (P-TACTS public document),2024-11-07 14:26,minute,0.0003,,,,medium
+ptab,"Sarepta Therapeutics, Inc v. The Trustees of the University of Pennsylvania (US patent 11680274)",RGNX,patent_owner,win,2025-08-20,PTAB system (P-TACTS public document),2025-08-20 14:25,minute,0.0003,,,1.0,high
+ptab,GOOGLE LLC v. EscapeX IP LLC (US patent 10474687),GOOGL,petitioner,win,2026-03-30,PTAB system (P-TACTS public document),2026-03-30 15:59,minute,0.0003,,,,medium
+ptab,General Motors LLC  v. Neo Wireless LLC (US patent 10447450),GM,petitioner,loss,2024-11-01,PTAB system (P-TACTS public document),2024-11-01 12:26,minute,-0.0003,,,,medium
+ptab,"ResMed Corp. v. Cleveland Medical Devices, Inc. (US patent 10076269)",RMD,petitioner,win,2025-05-02,PTAB system (P-TACTS public document),2025-05-02 14:48,minute,-0.0002,,,,medium
+ptab,"Motorola Solutions, Inc. v. Stellar, LLC (US patent 8310540)",MSI,petitioner,loss,2025-05-23,PTAB system (P-TACTS public document),2025-05-23 15:51,minute,0.0002,,,,medium
+ptab,Nokia of America Corporation v. Iarnach Technologies Limited (US patent 9806892),NOK,petitioner,split,2025-12-10,PTAB system (P-TACTS public document),2025-12-10 13:53,minute,-0.0002,,,,medium
+ptab,Apple Inc. v. Telcom Ventures LLC (US patent 9462411),AAPL,petitioner,dismissed,2025-12-08,PTAB system (P-TACTS public document),2025-12-08 12:36,minute,-0.0002,3011411938800.0,,,medium
+ptab,"AliveCor, Inc. v. Apple Inc. (US patent 10866619)",AAPL,patent_owner,loss,2025-01-07,PTAB system (P-TACTS public document),2025-01-07 12:02,minute,-0.0001,,,,medium
+ptab,Merck Sharp & Dohme LLC  v. The Johns Hopkins University (US patent 11649287),MRK,petitioner,win,2025-09-23,PTAB system (P-TACTS public document),2025-09-23 14:49,minute,-0.0,,,,medium
+ptab,"AT&T Enterprises, LLC v. Innovative Sonic Limited (US patent 9237489)",ERIC,petitioner,loss,2025-02-04,PTAB system (P-TACTS public document),2025-02-04 12:06,minute,-0.0,,,,medium
+deal_litigation,"Bardy Diagnostics, Inc. v. Hill-Rom, Inc.",HRC,defendant,loss,2021-07-09,Delaware Courts opinions page (courts.delaware.gov),2021-07-09 15:20,hour,,,,,high
+deal_litigation,"Yatra Online, Inc. v. Ebix, Inc.",EBIX,defendant,dismissed,2021-08-30,Delaware Courts opinions page (courts.delaware.gov),2021-08-30 12:54,hour,,,,,high
+deal_litigation,Masimo Corporation v. Joe E. Kiani,MASI,plaintiff,dismissed,2026-04-21,Delaware Courts opinions page (courts.delaware.gov),2026-04-21 15:22,hour,,,2986.0,11.0,medium
+ptab,"Roku, Inc. v. Universal Electronics, Inc. (US patent 10325486)",UEIC,patent_owner,win,2025-03-10,PTAB system (P-TACTS public document),2025-03-10 11:40,minute,,,,79.0,medium
+ptab,"Cradlepoint, Inc. v. Sisvel S.p.A. (US patent 7869396)",SWIR,petitioner,split,2025-09-29,PTAB system (P-TACTS public document),2025-09-29 14:47,minute,,,,,medium
+ptab,"Tennant Company v. Oxygenator Water Technologies, Inc. (US patent RE45415)",TNC,petitioner,loss,2025-02-28,PTAB system (P-TACTS public document),2025-02-28 10:56,minute,,,,293.0,medium
+ptab,"CRADLEPOINT, INC. v. 3G Licensing S.A. (US patent 7580388)",SWIR,petitioner,win,2025-05-07,PTAB system (P-TACTS public document),2025-05-07 14:31,minute,,,,,medium
+ptab,"Roku, Inc. v. ANCORA TECHNOLOGIES, INC. (US patent 6411941)",VZIO,petitioner,win,2026-01-22,PTAB system (P-TACTS public document),2026-01-22 10:44,minute,,,,,medium
+ptab,Mylan Pharmaceuticals Inc. v. Bayer Pharma AG (US patent 10828310),VTRS,petitioner,win,2026-01-12,PTAB system (P-TACTS public document),2026-01-12 11:12,minute,,,,,medium
+ptab,Snap Inc. v. You Map Inc. (US patent 10616727),SNAP,petitioner,win,2026-05-04,PTAB system (P-TACTS public document),2026-05-04 15:27,minute,,,,,medium
+ptab,"Wix.com, Ltd. v. Express Mobile, Inc. (US patent 7594168)",WIX,petitioner,win,2026-01-16,PTAB system (P-TACTS public document),2026-01-16 13:44,minute,,,,88.0,medium
+ptab,Mylan Pharmaceuticals Inc. v. Bausch Health Ireland Limited (US patent 7041786),VTRS,petitioner,loss,2026-01-27,PTAB system (P-TACTS public document),2026-01-27 12:04,minute,,,,80.0,medium
+ptab,"Universal Electronics Inc. v. Roku, Inc. (US patent 8378875)",UEIC,petitioner,split,2026-01-21,PTAB system (P-TACTS public document),2026-01-21 15:48,minute,,,,,medium
+ptab,Robert Bosch LLC v. Westport Fuel Systems Canada Inc. (US patent 6298829),WPRT,patent_owner,win,2025-02-03,PTAB system (P-TACTS public document),2025-02-03 15:12,minute,,,,,high
+ptab,"Sonos, Inc. v. Google LLC (US patent 11050615)",SONO,petitioner,split,2024-11-01,PTAB system (P-TACTS public document),2024-11-01 09:42,minute,,,,,medium
+ptab,"SMA Solar Technology America, LLC v. Tigo Energy, Inc. (US patent 9584021)",TYGO,patent_owner,win,2024-10-28,PTAB system (P-TACTS public document),2024-10-28 13:30,minute,,,,23.0,medium
+ptab,Sony Interactive Entertainment LLC v. Quantum Imaging LLC (US patent 8458028),SONY,petitioner,split,2024-12-06,PTAB system (P-TACTS public document),2024-12-06 10:56,minute,,,,,medium
+ptab,"Parse Biosciences, Inc. v. 10x Genomics, Inc. (US patent 10697013)",TXG,patent_owner,loss,2025-02-03,PTAB system (P-TACTS public document),2025-02-03 11:20,minute,,,,,high
+ptab,General Motors LLC  v. Neo Wireless LLC (US patent 10447450),TSLA,petitioner,loss,2024-11-01,PTAB system (P-TACTS public document),2024-11-01 12:26,minute,,,,,medium
+ptab,"Cellco Partnership d/b/a Verizon Wireless v. General Access Solutions, Ltd. (US patent 7230931)",VZ,petitioner,win,2024-12-05,PTAB system (P-TACTS public document),2024-12-05 15:06,minute,,,,,medium
+ptab,Sony Interactive Entertainment LLC v. Quantum Imaging LLC (US patent 10846941),SONY,petitioner,loss,2024-12-09,PTAB system (P-TACTS public document),2024-12-09 13:45,minute,,,,,medium
+ptab,"Tesla, Inc. v. Autonomous Devices, LLC (US patent 11238344)",TSLA,petitioner,win,2025-04-11,PTAB system (P-TACTS public document),2025-04-11 12:23,minute,,,,21.0,medium
+ptab,"Verizon Connect Inc. v. Omega Patents, LLC (US patent 8032278)",VZ,petitioner,win,2025-06-03,PTAB system (P-TACTS public document),2025-06-03 14:49,minute,,,,,medium
+ptab,"Tesla, Inc. v. Autonomous Devices, LLC (US patent 11055583)",TSLA,petitioner,split,2025-01-03,PTAB system (P-TACTS public document),2025-01-03 10:27,minute,,,,164.0,medium
+ptab,"Western Digital Technologies, Inc. v. LONGITUDE LICENSING LTD., (US patent 7697369)",WDC,petitioner,win,2025-01-15,PTAB system (P-TACTS public document),2025-01-15 09:39,minute,,,,,medium
+ptab,"Western Digital Technologies, Inc. v. LONGITUDE LICENSING LTD., (US patent 9207701)",WDC,petitioner,loss,2025-01-21,PTAB system (P-TACTS public document),2025-01-21 10:35,minute,,,,31.0,medium
+ptab,"Western Digital Technologies, Inc. v. LONGITUDE LICENSING LTD., (US patent RE43539)",WDC,petitioner,win,2025-02-19,PTAB system (P-TACTS public document),2025-02-19 13:29,minute,,,,,medium
+ptab,"Toast, Inc. v. Gratuity, LLC (US patent 9741050)",TOST,petitioner,win,2025-03-24,PTAB system (P-TACTS public document),2025-03-24 15:15,minute,,,,,medium
+ptab,"Nokia of America Corporation v. General Access Solutions, Ltd. (US patent 6947477)",TMUS,petitioner,loss,2025-04-14,PTAB system (P-TACTS public document),2025-04-14 13:27,minute,,,,,medium
+ptab,"Vizio, Inc. v. Polaris PowerLED Technologies, LLC (US patent 7843148)",VZIO,petitioner,win,2025-02-25,PTAB system (P-TACTS public document),2025-02-25 13:16,minute,,,,,medium
+ptab,"Tesla, Inc. v. Graphite Charging Company LLC (US patent 8103391)",TSLA,petitioner,win,2025-07-31,PTAB system (P-TACTS public document),2025-07-31 10:26,minute,,,,49.0,medium
+ptab,"Tesla, Inc. v. Graphite Charging Company LLC (US patent 8291243)",TSLA,petitioner,loss,2025-08-19,PTAB system (P-TACTS public document),2025-08-19 14:37,minute,,,,,medium
+ptab,AT&T Corp.  v. Daingean Technologies Ltd. (US patent 10841958),T,petitioner,win,2025-07-14,PTAB system (P-TACTS public document),2025-07-14 14:12,minute,,,,,medium
+ptab,AT&T Corp.  v. Daingean Technologies Ltd. (US patent 10841958),TMUS,petitioner,win,2025-07-14,PTAB system (P-TACTS public document),2025-07-14 14:12,minute,,,,,medium
+ptab,"Juniper Networks, Inc. v. Monarch Networking Solutions LLC (US patent 8451844)",JNPR,petitioner,win,2025-07-29,PTAB system (P-TACTS public document),2025-07-29 14:38,minute,,,,,medium
+ptab,"Visa, Inc. v. Cortex MCP, Inc. (US patent 9954854)",V,petitioner,loss,2025-07-22,PTAB system (P-TACTS public document),2025-07-22 11:38,minute,,,,,medium
+ptab,"Visa, Inc. v. Cortex MCP, Inc. (US patent 10749859)",V,petitioner,split,2025-07-29,PTAB system (P-TACTS public document),2025-07-29 15:34,minute,,,,,medium
+ptab,"TESLA, INC. v. iQar Inc. (US patent 10882399)",TSLA,petitioner,split,2025-11-06,PTAB system (P-TACTS public document),2025-11-06 14:34,minute,,,,18.0,medium
+ptab,"TESLA, INC. v. iQar Inc. (US patent 8972161)",TSLA,petitioner,split,2025-07-25,PTAB system (P-TACTS public document),2025-07-25 11:39,minute,,,,102.0,medium
+ptab,"Juniper Networks, Inc. v. Monarch Networking Solutions LLC (US patent 8130775)",JNPR,petitioner,win,2025-08-06,PTAB system (P-TACTS public document),2025-08-06 13:46,minute,,,,,medium
+ptab,"Sarepta Therapeutics, Inc v. The Trustees of the University of Pennsylvania (US patent 11680274)",SRPT,petitioner,loss,2025-08-20,PTAB system (P-TACTS public document),2025-08-20 14:25,minute,,,,13.0,high
+ptab,Ericsson Inc. v. XR COMMUNICATIONS LLC (US patent 10715235),T,petitioner,loss,2025-10-03,PTAB system (P-TACTS public document),2025-10-03 09:49,minute,,,,,medium
+ptab,Ericsson Inc. v. XR COMMUNICATIONS LLC (US patent 10715235),TMUS,petitioner,loss,2025-10-03,PTAB system (P-TACTS public document),2025-10-03 09:49,minute,,,,122.0,medium
+ptab,Ericsson Inc. v. XR COMMUNICATIONS LLC (US patent 10715235),VZ,petitioner,loss,2025-10-03,PTAB system (P-TACTS public document),2025-10-03 09:49,minute,,,,,medium
+ptab,"TESLA, INC. v. iQar Inc. (US patent 10850616)",TSLA,petitioner,win,2025-09-18,PTAB system (P-TACTS public document),2025-09-18 10:22,minute,,,,105.0,high
+ptab,"Under Armour, Inc. v. Athalonz, LLC (US patent 10674786)",UAA,petitioner,win,2025-09-11,PTAB system (P-TACTS public document),2025-09-11 10:53,minute,,,,,medium
+ptab,"Under Armour, Inc. v. Athalonz, LLC (US patent 11013291)",UAA,petitioner,win,2025-09-10,PTAB system (P-TACTS public document),2025-09-10 13:28,minute,,,,61.0,medium
+ptab,"VIZIO, Inc. v. Multimedia Technologies Pte. Ltd. (US patent 9510040)",VZIO,petitioner,split,2025-05-19,PTAB system (P-TACTS public document),2025-05-19 12:18,minute,,,,,medium
+ptab,"VIZIO, Inc. v. Multimedia Technologies Pte. Ltd. (US patent 9247174)",VZIO,petitioner,loss,2025-04-29,PTAB system (P-TACTS public document),2025-04-29 15:34,minute,,,,,medium
+ptab,"AT&T Corp. v. Soto, Alexander (US patent 8238754)",T,petitioner,dismissed,2024-10-21,PTAB system (P-TACTS public document),2024-10-21 15:31,minute,,,,,medium
+ptab,"VIZIO, Inc. v. Multimedia Technologies Pte. Ltd. (US patent 9232168)",VZIO,petitioner,loss,2024-11-22,PTAB system (P-TACTS public document),2024-11-22 10:55,minute,,,,,medium
+ptab,"VIZIO, Inc. v. Multimedia Technologies Pte. Ltd. (US patent 9578384)",VZIO,petitioner,win,2025-11-19,PTAB system (P-TACTS public document),2025-11-19 14:35,minute,,,,,medium
+ptab,Dyson Technology Limited  v. Omachron Intellectual Property Inc. (US patent 10568477),SN,patent_owner,win,2024-10-15,PTAB system (P-TACTS public document),2024-10-15 10:35,minute,,,,,medium
+ptab,Toyota Motor Corp. v. Emerging Automotive LLC (US patent 10407026),TM,petitioner,loss,2024-11-21,PTAB system (P-TACTS public document),2024-11-21 15:04,minute,,,,,medium
+ptab,Cellco Partnership d/b/a Verizon Wireless v. Headwater Partners I LLC (US patent 9198042),T,petitioner,win,2025-10-14,PTAB system (P-TACTS public document),2025-10-14 15:44,minute,,,,,medium
+ptab,Cellco Partnership d/b/a Verizon Wireless v. Headwater Partners I LLC (US patent 9198042),TMUS,petitioner,win,2025-10-14,PTAB system (P-TACTS public document),2025-10-14 15:44,minute,,,,,medium
+ptab,Cellco Partnership d/b/a Verizon Wireless v. Headwater Partners I LLC (US patent 9198042),VZ,petitioner,win,2025-10-14,PTAB system (P-TACTS public document),2025-10-14 15:44,minute,,,,,medium
+ptab,Toyota Motor Corp. v. Emerging Automotive LLC (US patent 11396244),TM,petitioner,win,2025-11-19,PTAB system (P-TACTS public document),2025-11-19 15:19,minute,,,,,medium
+ptab,"Uber Technologies, Inc. v. Envosys, LLC (US patent 7199726)",UBER,petitioner,loss,2024-11-22,PTAB system (P-TACTS public document),2024-11-22 11:14,minute,,,,129.0,medium
+ptab,Ericsson Inc. v. XR COMMUNICATIONS LLC (US patent 8737511),T,petitioner,win,2025-11-25,PTAB system (P-TACTS public document),2025-11-25 13:49,minute,,,,,medium
+ptab,Ericsson Inc. v. XR COMMUNICATIONS LLC (US patent 8737511),TMUS,petitioner,win,2025-11-25,PTAB system (P-TACTS public document),2025-11-25 13:49,minute,,,,,medium
+ptab,Ericsson Inc. v. XR COMMUNICATIONS LLC (US patent 8737511),VZ,petitioner,win,2025-11-25,PTAB system (P-TACTS public document),2025-11-25 13:49,minute,,,,,medium
+ptab,Zebra Technologies Corporation v. Intellectual Ventures I LLC (US patent 7623439),ZBRA,petitioner,loss,2024-11-20,PTAB system (P-TACTS public document),2024-11-20 09:55,minute,,,,0.0,medium
+ptab,"Juniper Networks, Inc. v. Portsmouth Network Corporation (US patent 6917986)",JNPR,petitioner,split,2025-12-09,PTAB system (P-TACTS public document),2025-12-09 14:02,minute,,,,,medium
+ptab,Nokia of America Corporation v. Iarnach Technologies Limited (US patent 9806892),T,petitioner,split,2025-12-10,PTAB system (P-TACTS public document),2025-12-10 13:53,minute,,,,,medium
+ptab,Nokia of America Corporation v. Iarnach Technologies Limited (US patent 8934359),T,petitioner,loss,2024-11-25,PTAB system (P-TACTS public document),2024-11-25 14:31,minute,,,,,medium
+ptab,"Juniper Networks, Inc.  v. Portsmouth Network Corporation (US patent 8014394)",JNPR,petitioner,split,2026-01-13,PTAB system (P-TACTS public document),2026-01-13 15:44,minute,,,,,medium
+ptab,Google LLC v. Headwater Research LLC (US patent 8589541),T,petitioner,win,2025-10-01,PTAB system (P-TACTS public document),2025-10-01 12:09,minute,,,,39.0,medium
+ptab,Google LLC v. Headwater Research LLC (US patent 8589541),TMUS,petitioner,win,2025-10-01,PTAB system (P-TACTS public document),2025-10-01 12:09,minute,,,,6.0,medium
+ptab,Google LLC v. Headwater Research LLC (US patent 8589541),VZ,petitioner,win,2025-10-01,PTAB system (P-TACTS public document),2025-10-01 12:09,minute,,,,,medium
+ptab,Google LLC v. Headwater Research LLC (US patent 8589541),T,petitioner,loss,2024-12-04,PTAB system (P-TACTS public document),2024-12-04 11:06,minute,,,,,medium
+ptab,Google LLC v. Headwater Research LLC (US patent 8589541),TMUS,petitioner,loss,2024-12-04,PTAB system (P-TACTS public document),2024-12-04 11:06,minute,,,,,medium
+ptab,Google LLC v. Headwater Research LLC (US patent 8589541),VZ,petitioner,loss,2024-12-04,PTAB system (P-TACTS public document),2024-12-04 11:06,minute,,,,82.0,medium
+ptab,Kia Corporation v. Emerging Automotive LLC (US patent 9365188),TM,petitioner,win,2025-12-09,PTAB system (P-TACTS public document),2025-12-09 09:40,minute,,,,,medium
+ptab,"WEATHERFORD U.S., L.P. v. Halliburton Energy Services, Inc. (US patent 11333007)",WFRD,petitioner,split,2025-12-09,PTAB system (P-TACTS public document),2025-12-09 12:12,minute,,,,160.0,low
+ptab,"SharkNinja, Inc. v. Dyson Technology Limited (US patent 11044979)",SN,petitioner,loss,2024-12-12,PTAB system (P-TACTS public document),2024-12-12 12:54,minute,,,,89.0,medium
+ptab,"DIRECTV, LLC v. Entropic Communications, LLC (US patent 7295518)",T,petitioner,win,2025-07-22,PTAB system (P-TACTS public document),2025-07-22 15:56,minute,,,,,high
+ptab,"DIRECTV, LLC v. Entropic Communications, LLC (US patent 7889759)",T,petitioner,loss,2025-01-22,PTAB system (P-TACTS public document),2025-01-22 14:08,minute,,,,,medium
+ptab,"DIRECTV, LLC v. Entropic Communications, LLC (US patent 8621539)",T,petitioner,dismissed,2024-10-28,PTAB system (P-TACTS public document),2024-10-28 09:50,minute,,,,,medium
+ptab,"DIRECTV, LLC v. Entropic Communications, LLC (US patent 8631450)",T,petitioner,loss,2025-01-17,PTAB system (P-TACTS public document),2025-01-17 10:42,minute,,,,,medium
+ptab,"AT&T Enterprises, LLC v. Innovative Sonic Limited (US patent 7664059)",T,petitioner,loss,2025-02-11,PTAB system (P-TACTS public document),2025-02-11 13:46,minute,,,,,medium
+ptab,"AT&T Enterprises, LLC v. Innovative Sonic Limited (US patent 7664059)",TMUS,petitioner,loss,2025-02-11,PTAB system (P-TACTS public document),2025-02-11 13:46,minute,,,,48.0,medium
+ptab,"AT&T Enterprises, LLC v. Innovative Sonic Limited (US patent 7664059)",VZ,petitioner,loss,2025-02-11,PTAB system (P-TACTS public document),2025-02-11 13:46,minute,,,,,medium
+ptab,"AT&T Enterprises, LLC v. Innovative Sonic Limited (US patent 9237489)",T,petitioner,loss,2025-02-04,PTAB system (P-TACTS public document),2025-02-04 12:06,minute,,,,77.0,medium
+ptab,"AT&T Enterprises, LLC v. Innovative Sonic Limited (US patent 9237489)",TMUS,petitioner,loss,2025-02-04,PTAB system (P-TACTS public document),2025-02-04 12:06,minute,,,,87.0,medium
+ptab,"AT&T Enterprises, LLC v. Innovative Sonic Limited (US patent 9237489)",VZ,petitioner,loss,2025-02-04,PTAB system (P-TACTS public document),2025-02-04 12:06,minute,,,,,medium
+ptab,"At&T Enterprises, LLC v. Innovative Sonic Limited (US patent 9560559)",T,petitioner,loss,2025-01-24,PTAB system (P-TACTS public document),2025-01-24 11:26,minute,,,,,medium
+ptab,"At&T Enterprises, LLC v. Innovative Sonic Limited (US patent 9560559)",TMUS,petitioner,loss,2025-01-24,PTAB system (P-TACTS public document),2025-01-24 11:26,minute,,,,221.0,medium
+ptab,"At&T Enterprises, LLC v. Innovative Sonic Limited (US patent 9560559)",VZ,petitioner,loss,2025-01-24,PTAB system (P-TACTS public document),2025-01-24 11:26,minute,,,,,medium
+ptab,"Imperative Care, Inc. v. INARI MEDICAL, INC. (US patent 11697011)",NARI,patent_owner,loss,2026-01-16,PTAB system (P-TACTS public document),2026-01-16 12:03,minute,,,,,high
+ptab,Kia Corporation  v. Emerging Automotive LLC (US patent 11738659),TM,petitioner,split,2026-01-26,PTAB system (P-TACTS public document),2026-01-26 09:35,minute,,,,,medium
+ptab,Curio Bioscience v. Prognosys Biosciences Inc. (US patent 10480022),TXG,patent_owner,win,2025-03-19,PTAB system (P-TACTS public document),2025-03-19 12:32,minute,,,,31.0,high
+ptab,Ubiquiti Inc. v. Intellectual Ventures I (US patent 8594122),UI,petitioner,loss,2025-03-07,PTAB system (P-TACTS public document),2025-03-07 13:21,minute,,,,59.0,medium
+ptab,"Alamar Biosciences, Inc. v. Olink Proteomics AB (US patent 7883848)",ALMR,petitioner,loss,2026-03-04,PTAB system (P-TACTS public document),2026-03-04 09:44,minute,,,,,medium
+ptab,"Alamar Biosciences, Inc. v. Olink Proteomics AB (US patent 7883848)",TMO,patent_owner,win,2026-03-04,PTAB system (P-TACTS public document),2026-03-04 09:44,minute,,,,,medium
+ptab,"Western Digital Technologies, Inc. v. Godo Kaisha IP Bridge 1 (US patent 9608198)",WDC,petitioner,loss,2025-03-13,PTAB system (P-TACTS public document),2025-03-13 15:31,minute,,,,,medium
+ptab,"Western Digital Technologies, Inc. v. Godo Kaisha IP Bridge 1 (US patent 8405134)",WDC,petitioner,split,2026-03-27,PTAB system (P-TACTS public document),2026-03-27 12:09,minute,,,,,medium
+ptab,"Western Digital Technologies, Inc. v. Godo Kaisha IP Bridge 1 (US patent 11737372)",WDC,petitioner,loss,2025-03-26,PTAB system (P-TACTS public document),2025-03-26 11:14,minute,,,,44.0,medium
+ptab,"Western Digital Technologies, Inc. v. Godo Kaisha IP Bridge 1 (US patent 9123463)",WDC,petitioner,loss,2025-03-14,PTAB system (P-TACTS public document),2025-03-14 10:32,minute,,,,39.0,medium
+ptab,"Western Digital Technologies, Inc. v. Godo Kaisha IP Bridge 1 (US patent 11968909)",WDC,petitioner,loss,2026-04-28,PTAB system (P-TACTS public document),2026-04-28 15:04,minute,,,,26.0,medium
+ptab,"Tesla Inc. v. Charge Fusion Technologies, LLC (US patent 11563338)",TSLA,petitioner,win,2026-05-13,PTAB system (P-TACTS public document),2026-05-13 12:27,minute,,,,67.0,medium
+ptab,Nokia of America Corporation v. Pegasus Wireless Innovation LLC (US patent 11627631),T,petitioner,loss,2025-04-25,PTAB system (P-TACTS public document),2025-04-25 10:26,minute,,,,16.0,medium
+ptab,Nokia of America Corporation v. Pegasus Wireless Innovation LLC (US patent 11627631),TMUS,petitioner,loss,2025-04-25,PTAB system (P-TACTS public document),2025-04-25 10:26,minute,,,,8.0,medium
+ptab,Nokia of America Corporation v. Pegasus Wireless Innovation LLC (US patent 11627631),VZ,petitioner,loss,2025-04-25,PTAB system (P-TACTS public document),2025-04-25 10:26,minute,,,,,medium
+ptab,Ericsson Inc. v. Pegasus Wireless Innovation LLC (US patent 10638463),T,petitioner,win,2026-06-02,PTAB system (P-TACTS public document),2026-06-02 12:01,minute,,,,19.0,medium
+ptab,Ericsson Inc. v. Pegasus Wireless Innovation LLC (US patent 10638463),TMUS,petitioner,win,2026-06-02,PTAB system (P-TACTS public document),2026-06-02 12:01,minute,,,,35.0,medium
+ptab,Ericsson Inc. v. Pegasus Wireless Innovation LLC (US patent 10638463),VZ,petitioner,win,2026-06-02,PTAB system (P-TACTS public document),2026-06-02 12:01,minute,,,,19.0,medium
+ptab,Ericsson Inc. v. Pegasus Wireless Innovation LLC (US patent 11219000),T,petitioner,loss,2025-06-06,PTAB system (P-TACTS public document),2025-06-06 11:25,minute,,,,,medium
+ptab,Ericsson Inc. v. Pegasus Wireless Innovation LLC (US patent 11219000),TMUS,petitioner,loss,2025-06-06,PTAB system (P-TACTS public document),2025-06-06 11:25,minute,,,,,medium
+ptab,Ericsson Inc. v. Pegasus Wireless Innovation LLC (US patent 11219000),VZ,petitioner,loss,2025-06-06,PTAB system (P-TACTS public document),2025-06-06 11:25,minute,,,,,medium
+ptab,Cellco Partnership d/b/a Verizon Wireless v. Pegasus Wireless Innovation LLC (US patent 11540272),T,petitioner,loss,2025-06-26,PTAB system (P-TACTS public document),2025-06-26 11:41,minute,,,,,medium
+ptab,Cellco Partnership d/b/a Verizon Wireless v. Pegasus Wireless Innovation LLC (US patent 11540272),TMUS,petitioner,loss,2025-06-26,PTAB system (P-TACTS public document),2025-06-26 11:41,minute,,,,67.0,medium
+ptab,Cellco Partnership d/b/a Verizon Wireless v. Pegasus Wireless Innovation LLC (US patent 11540272),VZ,petitioner,loss,2025-06-26,PTAB system (P-TACTS public document),2025-06-26 11:41,minute,,,,,medium
+ptab,"Skechers U.S.A., Inc. v. Nike, Inc. (US patent 9986781)",SKX,petitioner,loss,2025-05-27,PTAB system (P-TACTS public document),2025-05-27 14:28,minute,,,,,medium
+ptab,"Skechers U.S.A., Inc. v. Nike, Inc. (US patent 9918511)",SKX,petitioner,loss,2025-06-16,PTAB system (P-TACTS public document),2025-06-16 09:37,minute,,,,,medium
+ptab,"Skechers U.S.A., Inc. v. Nike, Inc. (US patent 9060562)",SKX,petitioner,loss,2025-06-09,PTAB system (P-TACTS public document),2025-06-09 14:28,minute,,,,,medium
+ptab,"Imperative Care, Inc.  v. Inari Medical, Inc. (US patent 11697012)",NARI,patent_owner,loss,2026-04-07,PTAB system (P-TACTS public document),2026-04-07 14:02,minute,,3008584280.0,,,high
+ptab,"Curio Bioscience, Inc. v. Prognosys Biosciences Inc. (US patent 11549138)",TXG,patent_owner,win,2025-05-21,PTAB system (P-TACTS public document),2025-05-21 12:26,minute,,,,54.0,high
+ptab,"Tesla, Inc. v. Intellectual Ventures II (US patent 10952153)",TSLA,petitioner,loss,2026-06-22,PTAB system (P-TACTS public document),2026-06-22 15:04,minute,,,,,medium
+ptab,"Tesla, Inc. v. Intellectual Ventures II (US patent 9706500)",TSLA,petitioner,loss,2026-06-23,PTAB system (P-TACTS public document),2026-06-23 10:56,minute,,,,29.0,medium
+ptab,"Tesla, Inc. v. Intellectual Ventures II (US patent 11206670)",TSLA,petitioner,win,2026-06-26,PTAB system (P-TACTS public document),2026-06-26 12:11,minute,,,,146.0,medium
+ptab,"Tesla, Inc. v. Intellectual Ventures II (US patent 11664889)",TSLA,petitioner,unknown,2026-07-06,PTAB system (P-TACTS public document),2026-07-06 10:39,minute,,,,52.0,low
+ptab,"Tesla, Inc. v. Intellectual Ventures II (US patent 9232158)",TSLA,petitioner,split,2026-07-01,PTAB system (P-TACTS public document),2026-07-01 12:23,minute,,,,,medium
+ptab,"Curio Bioscience, Inc. v. Prognosys Biosciences Inc. (US patent 10662468)",TXG,patent_owner,win,2025-07-25,PTAB system (P-TACTS public document),2025-07-25 15:22,minute,,,,13.0,high
+ptab,"Embody, Inc. v. LifeNet Health (US patent 10137223)",ZBH,petitioner,win,2026-08-04,PTAB system (P-TACTS public document),2026-08-04 15:07,minute,,,,,medium
+ptab,"Shenzhen Tuozhu Technology Co., Ltd. v. Stratasys, Inc. (US patent 9592660)",SSYS,patent_owner,loss,2026-06-03,PTAB system (P-TACTS public document),2026-06-03 13:24,minute,,,,89.0,medium
+ptab,"Berkshire Hathaway Energy Company  v. MES, Inc. (US patent 10343114)",WEC,petitioner,loss,2026-05-18,PTAB system (P-TACTS public document),2026-05-18 11:16,minute,,,,255.0,medium
+ptab,"Shenzhen Tuozhu Technology Co., Ltd. v. Stratasys, Inc. (US patent 8562324)",SSYS,patent_owner,loss,2026-06-09,PTAB system (P-TACTS public document),2026-06-09 12:39,minute,,,,54.0,medium
+ptab,"Tesla, Inc. v. Intellectual Ventures II (US patent 7916180)",TSLA,petitioner,split,2026-07-21,PTAB system (P-TACTS public document),2026-07-21 15:34,minute,,,,,medium
+ptab,"Tesla, Inc. v. Intellectual Ventures II LLC (US patent 6894639)",TSLA,petitioner,loss,2025-11-05,PTAB system (P-TACTS public document),2025-11-05 12:57,minute,,,,27.0,medium
+ptab,"Tesla, Inc. v. Intellectual Ventures II LLC (US patent 7181743)",TSLA,petitioner,loss,2025-07-24,PTAB system (P-TACTS public document),2025-07-24 10:41,minute,,,,,medium
+ptab,"Tesla, Inc. v. Intellectual Ventures II (US patent 10292138)",TSLA,petitioner,loss,2026-08-20,PTAB system (P-TACTS public document),2026-08-20 15:30,minute,,,,26.0,medium
+ptab,"Shenzhen Tuozhu Technology Co., Ltd. v. Stratasys, Inc. (US patent 8747097)",SSYS,patent_owner,win,2025-06-12,PTAB system (P-TACTS public document),2025-06-12 15:48,minute,,,,,medium
+ptab,"POSCO Co., Ltd. v. ArcelorMittal (US patent 10961602)",VFS,petitioner,win,2026-07-16,PTAB system (P-TACTS public document),2026-07-16 10:13,minute,,,,35.0,medium
+ptab,"Shenzhen Tuozhu Technology Co., Ltd. v. Stratasys, Inc. (US patent 10569466)",SSYS,patent_owner,loss,2026-10-05,PTAB system (P-TACTS public document),2026-10-05 14:56,minute,,,,7.0,medium
+ptab,"Shenzhen Tuozhu Technology Co., Ltd. v. Stratasys, Inc. (US patent 9168698)",SSYS,patent_owner,split,2026-09-28,PTAB system (P-TACTS public document),2026-09-28 12:32,minute,,,,81.0,medium
+ptab,"Shenzhen Tuozhu Technology Co., Ltd. v. Stratasys, Inc. (US patent 10556381)",SSYS,patent_owner,loss,2026-09-29,PTAB system (P-TACTS public document),2026-09-29 12:04,minute,,,,12.0,medium
+ptab,"Alliance Laundry Systems, LLC v. PayRange LLC. (US patent 11481772)",ALH,petitioner,loss,2025-10-01,PTAB system (P-TACTS public document),2025-10-01 09:47,minute,,,,,low
+ptab,"Shenzhen Tuozhu Technology Co., Ltd. v. Stratasys, Inc. (US patent 11167464)",SSYS,patent_owner,win,2025-10-06,PTAB system (P-TACTS public document),2025-10-06 14:03,minute,,,,,medium
+ptab,Taiwan Semiconductor Manufacturing Company Limited v. Advanced Integrated Circuit Process LLC (US patent 8198686),TSM,petitioner,loss,2025-08-14,PTAB system (P-TACTS public document),2025-08-14 14:50,minute,,,,,medium
+ptab,Western Digital Technologies v. Godo Kaisha IP Bridge 1 (US patent 10367138),WDC,petitioner,loss,2025-10-08,PTAB system (P-TACTS public document),2025-10-08 11:18,minute,,,,,medium
+ptab,"Imperative Care, Inc. v. Inari Medical, Inc. (US patent 11844921)",NARI,patent_owner,loss,2026-10-06,PTAB system (P-TACTS public document),2026-10-06 14:08,minute,,4681776315.0,,,high
+ptab,"Imperative Care, Inc. v. Inari Medical, Inc. (US patent 11844921)",SYK,patent_owner,loss,2026-10-06,PTAB system (P-TACTS public document),2026-10-06 14:08,minute,,,,33.0,medium
+ptab,Snap Inc. v. Nokia Technologies Oy (US patent 8050321),SNAP,petitioner,loss,2025-11-20,PTAB system (P-TACTS public document),2025-11-20 15:07,minute,,,,1.0,medium
+ptab,Taiwan Semiconductor Manufacturing Company Limited v. Marlin Semiconductor Ltd. (US patent 6888181),TSM,petitioner,win,2026-05-13,PTAB system (P-TACTS public document),2026-05-13 09:48,minute,,,,34.0,medium
+ptab,United Therapeutics Corporation v. Actelion Pharmaceuticals Ltd. (US patent 8268847),UTHR,petitioner,loss,2025-11-20,PTAB system (P-TACTS public document),2025-11-20 15:18,minute,,,,,medium
+ptab,Microsoft Corporation v. Lemko Corporation (US patent 8310990),T,petitioner,loss,2025-11-20,PTAB system (P-TACTS public document),2025-11-20 15:37,minute,,,,,medium
+ptab,"LiveIntent, Inc. v. AlmondNet, Inc. (US patent 8494904)",ZETA,petitioner,loss,2025-11-20,PTAB system (P-TACTS public document),2025-11-20 15:57,minute,,,,,medium
+ptab,"Sarepta Therapeutics, Inc. v. Genzyme Corporation  (US patent 9051542)",SNY,patent_owner,win,2025-11-20,PTAB system (P-TACTS public document),2025-11-20 15:59,minute,,,,,medium
+ptab,"Sarepta Therapeutics, Inc. v. Genzyme Corporation  (US patent 9051542)",SRPT,petitioner,loss,2025-11-20,PTAB system (P-TACTS public document),2025-11-20 15:59,minute,,,,0.0,medium
+ptab,Toyota Motor Corporation v. Emerging Automotive LLC (US patent 12337716),TM,petitioner,loss,2026-04-06,PTAB system (P-TACTS public document),2026-04-06 12:55,minute,,,,,medium
+ptab,"Sarepta Therapeutics, Inc. v. Genzyme Corporation  (US patent 12013326)",SNY,patent_owner,win,2026-05-06,PTAB system (P-TACTS public document),2026-05-06 11:17,minute,,,,,medium
+ptab,"Sarepta Therapeutics, Inc. v. Genzyme Corporation  (US patent 12013326)",SRPT,petitioner,loss,2026-05-06,PTAB system (P-TACTS public document),2026-05-06 11:17,minute,,,,72.0,medium
+ptab,"Sarepta Therapeutics, Inc. v. Genzyme Corporation (US patent 11698377)",SNY,patent_owner,win,2026-05-15,PTAB system (P-TACTS public document),2026-05-15 15:00,minute,,,,,medium
+ptab,"Sarepta Therapeutics, Inc. v. Genzyme Corporation (US patent 11698377)",SRPT,petitioner,loss,2026-05-15,PTAB system (P-TACTS public document),2026-05-15 15:00,minute,,,,51.0,medium
+ptab,"Samsung Electronics Co., Ltd. v. Whirlpool Corporation (US patent 10512385)",WHR,patent_owner,win,2026-09-23,PTAB system (P-TACTS public document),2026-09-23 11:52,minute,,,,70.0,medium
+ptab,"Neurocrine Biosciences, Inc. v. Spruce Biosciences, Inc. (US patent 11007201)",SPRB,patent_owner,loss,2024-11-27,PTAB system (P-TACTS public document),2024-11-27 13:14,minute,,,,104.0,medium
+ptab,Simpson Strong-Tie Company Inc. v. Columbia Insurance Company (US patent 11649626),SSD,petitioner,split,2025-02-28,PTAB system (P-TACTS public document),2025-02-28 14:07,minute,,,,78.0,medium
+ptab,"Catalyst OrthoScience Inc. v. Shoulder Innovations, Inc. (US patent 11771561)",SI,patent_owner,win,2024-12-19,PTAB system (P-TACTS public document),2024-12-19 13:59,minute,,,,,medium
+ptab,"Catalyst OrthoScience Inc. v. Shoulder Innovations, Inc. (US patent 12023254)",SI,patent_owner,win,2025-04-24,PTAB system (P-TACTS public document),2025-04-24 11:24,minute,,,,,medium
+ptab,"Neurocrine Biosciences, Inc.  v. Spruce Biosciences, Inc. (US patent 12115166)",SPRB,patent_owner,win,2025-10-03,PTAB system (P-TACTS public document),2025-10-03 13:55,minute,,,,,high
+ptab,"Paragon 28, Inc.  v. TREACE MEDICAL CONCEPTS, INC. (US patent 12274481)",TMCI,patent_owner,win,2026-06-23,PTAB system (P-TACTS public document),2026-06-23 15:34,minute,,,,,high
